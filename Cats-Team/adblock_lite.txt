@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-06 09:57:53(GMT+8)
-! Total count: 15004
+! Version: 2026-04-06 15:21:19(GMT+8)
+! Total count: 15005
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -5354,6 +5354,7 @@ news.qq.com##.godown.qqcom_fb-item
 news.qq.com##.qqcom-modal-mask
 news.qq.com##.slider-list.swiper-horizontal.swiper-initialized.swiper
 news.qq.com##div[id="download-btn-wrapid"]
+news.qq.com#?#.item-back:has(.ruyi-icon-phone-regular):upward(div)
 news.qq.com#?#div:has(> div[dt-eid="em_rec_app"])
 newser.com#$#prevent-listener load object
 newsmth.net##.Smthtwenty_float
