@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-07 02:49:56(GMT+8)
-! Total count: 15005
+! Version: 2026-04-07 09:54:01(GMT+8)
+! Total count: 15016
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -7640,6 +7640,7 @@ zybang.com##.top_download
 ||7qo2met.com^
 ||7r227ut.cn^
 ||7xixi.site^
+||8080inbroadband.com^
 ||8181zx.com^
 ||81wx.info^
 ||82o9v830.com^$third-party
@@ -8378,6 +8379,7 @@ zybang.com##.top_download
 ||bilinovel.com/scripts/m7lk48m5hgztxn.
 ||billowybead.com^$third-party
 ||billowybelief.com^$third-party
+||billyazotate.com^
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||binarycrest.com^$third-party
@@ -8442,6 +8444,7 @@ zybang.com##.top_download
 ||boatsvest.com^$third-party
 ||bobo.com/special/mod-follow/
 ||bobo.com^$third-party
+||bodiesgetup.com^
 ||boewgph.icu^
 ||bofnhn.com^
 ||bohanhengtian.cn^
@@ -8505,6 +8508,7 @@ zybang.com##.top_download
 ||broadboundary.com^$third-party
 ||broadcastbed.com^$third-party
 ||broaddoor.com^$third-party
+||bromateflueric.com^
 ||bronchiallonym.com^
 ||broosnighed.com^
 ||brotherslocket.com^$third-party
@@ -8995,6 +8999,7 @@ zybang.com##.top_download
 ||courtoyz.com^
 ||couvxlif.top^
 ||cowpencinclis.com^
+||cowshotomrah.com^
 ||cozydusk.com^$third-party
 ||cozyhillside.com^$third-party
 ||cozytryst.com^$third-party
@@ -11226,6 +11231,7 @@ zybang.com##.top_download
 ||koolearn.com/v2/js/wxewm.js
 ||koolearn.com/www/subject/script/subject_form.js
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
+||koosinbrisker.com^
 ||kopde.xyz^
 ||kosseanmudpack.com^
 ||koudaikeji.info^
@@ -11377,6 +11383,7 @@ zybang.com##.top_download
 ||lichunxiao.cn^
 ||liebaovip.com^
 ||lien-torrent.com/eticilbup/$image,subdocument,script
+||liepottensify.com^
 ||liftedknowledge.com^$third-party
 ||liftjoinant.com^
 ||lifyeldl.top^
@@ -11401,6 +11408,7 @@ zybang.com##.top_download
 ||linovelib.com/modules/article/scripts/
 ||linuozhiyao.xyz^
 ||linyongming.top^
+||liquorssquab.com^
 ||lirdawkin.com^
 ||lishuaibin.cn^
 ||littlecdn.com^
@@ -11587,6 +11595,7 @@ zybang.com##.top_download
 ||majorleaguegaming.com/assets/ab.js$script
 ||maliciousmusic.com^$third-party
 ||maljxp.cn^
+||malpaisediface.com^
 ||maltobrolly.com^
 ||mambasscious.com^
 ||manage88.com^
@@ -12802,6 +12811,7 @@ zybang.com##.top_download
 ||runsky.com/phpstat/
 ||runtime8000.com^
 ||ruralrobin.com^$third-party
+||rusinsawbill.com^
 ||rusnext.ru/advar.js$script
 ||rusticaula.com^
 ||rusticprice.com^$third-party
@@ -13697,6 +13707,7 @@ zybang.com##.top_download
 ||tremendoustime.com^$third-party
 ||trends.com.cn/k.js
 ||trfmxf.xyz^
+||trionyxcarrell.com^
 ||trippetforhow.com^
 ||tripsisvellums.com^
 ||tristoshink.online/libs/check.js
