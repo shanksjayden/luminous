@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-08 21:08:42(GMT+8)
-! Total count: 15006
+! Version: 2026-04-09 03:06:46(GMT+8)
+! Total count: 15007
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -5320,6 +5320,7 @@ neoseeker.com#$#hide-if-matches-xpath './/div[contains(@style,"text-align:center
 net.hr#@#.reklama
 netflix-izle.com#$#override-property-read reklam_1 undefined; override-property-read reklamsayisi undefined; override-property-read reklam_1_saniye null; override-property-read reklam_1_gecsaniye null;
 nettruyenar.com#$#abort-on-property-read links
+netu.ac#$#abort-on-property-read BetterJsPop; abort-on-property-read PopURL; abort-on-property-write window.open; abort-current-inline-script document.createElement 'delete window'; override-property-read adblockcheck false;
 netviagens.com###nvAdForm
 nevasport.ru##.adblock-notify
 new.m.taobao.com##[style*="top: 0px"]
