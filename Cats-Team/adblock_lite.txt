@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-08 09:54:51(GMT+8)
+! Version: 2026-04-08 16:01:35(GMT+8)
 ! Total count: 15003
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -3610,7 +3610,6 @@ epubee.com##.vipNoteBar
 epwk.com##.collect-info-icon
 epwk.com##.collect-info-wrap
 epwk.com##.head_banner
-ermt.net,onflix.my,phimmoic.fm#$#prevent-listener click ads
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 etextlib.ru##.head_bann
 etextlib.ru##.partners
@@ -5230,6 +5229,7 @@ monkeydtruyen.com#$#simulate-mouse-event '.affClick[style=" display:block; "]' '
 monoschinos2.com#$#abort-current-inline-script EventTarget.prototype.addEventListener encodeURIComponent
 monoschinos2.com#$#abort-on-property-read _0x24d7; abort-on-property-read _0x41ed; abort-on-property-read _0xf59bf3; abort-on-property-read a3klsam
 moredesi.com#$#abort-on-property-read __formatsGetters
+motchillbr.io,onflix.my,phimmoic.fm#$#prevent-listener click ads
 motchillk.hot#$#abort-on-property-read sessionStorage
 motchilltv.taxi#$#prevent-listener click popup
 motorbikecatalog.com#$#override-property-read window.navigator.connection.rtt 1001
@@ -5846,6 +5846,7 @@ quora.com##span[data-nosnippet="true"] .q-box.qu-pb--tiny.qu-pt--medium
 quora.com##span[data-nosnippet="true"] .q-box.qu-pt--medium
 qushucheng.com##.appguide-wrap
 qushucheng.com##.hotcmd-wp
+quykhu.com#$#abort-current-inline-script document.addEventListener atob
 qyer.com###zpui-head-ad
 radio.yandex.by,radio.yandex.kz,radio.yandex.ru##.notify
 radiox.com##.notifyjs-corner
@@ -6755,7 +6756,6 @@ vostfr-vf.com##.fixe
 vostfr-vf.com##A[href="/100Mbs.html"]
 vostfr-vf.com##A[href^="http://api.adlure.net/partner/click/"]
 vostfree.*#$#abort-on-property-write _pop
-vozer.io#$#abort-current-inline-script document.addEventListener atob
 vsadu.ru##.adb-block
 vsaduidoma.com##.ABD_display_wrapper
 vsviti.com.ua#$#abort-on-property-read tdAnimationStack.init
