@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-10 09:59:37(GMT+8)
-! Total count: 15014
+! Version: 2026-04-10 15:27:10(GMT+8)
+! Total count: 15029
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -995,6 +995,7 @@
 /cdn.sinparty.com^$script,subdocument,third-party,media,domain=kaotic.com
 /clientscript/vbulletin_userpost.js$script,domain=64.237.43.94|46.166.167.16|semprot.com
 /clientscript/vbulletin_userpost_script.js$domain=64.237.43.94|46.166.167.16|semprot.com
+/config/tj.js
 /cookie_check.min.js$domain=acetv.me
 /cp2.gif?*=qc_
 /css/ad.
@@ -1058,6 +1059,7 @@
 /js/htmlkb.js
 /js/htmlkc.js
 /js/initsite.js^$domain=anysex.com|xcafe.com
+/js/j*s*r*u*n*n*e*r.js$~third-party
 /js/js4.js
 /js/kaixin.js
 /js/lmdas.js
@@ -7283,6 +7285,7 @@ zybang.com##.top_download
 ||*.com/*fbeea*.js^$domain=footfetishvid.com
 ||*.e437040a9a.com/api/senddata?^$xmlhttprequest,domain=porntrex.com
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
+||*.org/config/v7.js
 ||*.website/*^$xmlhttprequest,domain=knaben.xyz
 ||*/loader.min.js^$script,domain=billboard.com
 ||*/loader.min.js^$script,domain=deadline.com
@@ -7316,6 +7319,7 @@ zybang.com##.top_download
 ||*/sdk.js^$script,domain=base64encode.org
 ||*/sdk.js|$script,rewrite=abp-resource:blank-js,domain=picrew.me
 ||*/vhot2.qqvideo.tc.qq.com^
+||/js/0x1a2b3c4d.js
 ||0.as.sourceforge.net/article^$script,domain=sourceforge.net
 ||0.content-loader.com/article^$script,third-party,domain=timesofindia.indiatimes.com|sankei.com|dictionary.cambridge.org|bab.la|pons.com|loawa.com|gazetaprawna.pl|winfuture.de|collinsdictionary.com|malaymail.com|tz.de
 ||0.loader.gutefrage.net/article^$script,domain=gutefrage.net
@@ -8256,6 +8260,7 @@ zybang.com##.top_download
 ||baitbaseball.com^$third-party
 ||baiwb.com^
 ||baiyishaonian.cn^
+||bajielm.com^
 ||balanicextreat.com^
 ||ballasshwebo.com^
 ||balloonbelieve.com^$third-party
@@ -8763,6 +8768,7 @@ zybang.com##.top_download
 ||cheerycraze.com^$third-party
 ||cheh9k4t.com^
 ||chelaology.com^
+||chemist68.top^
 ||chenhao97.top^
 ||cherriescare.com^$third-party
 ||cheshi-img.com/js/pv.min.js
@@ -10788,6 +10794,7 @@ zybang.com##.top_download
 ||img2.qqwangming6.com^
 ||imgcacaca.vip^
 ||imgnova.xyz/Tas/P.js$script,domain=imgnova.xyz
+||imgsdy8iyf8723y97g.top^
 ||imgsicily.it/dist/sweetalert
 ||imgwdyey.com^
 ||imjtv.cc^$third-party
@@ -10995,6 +11002,7 @@ zybang.com##.top_download
 ||jjdk33.com^
 ||jjjak.com^
 ||jjjcyjj.cn^
+||jjjxsw.com/js/common.*
 ||jjkiahh.icu^
 ||jjklrcw.com^
 ||jjwxc.net/adsmanage.
@@ -11455,6 +11463,7 @@ zybang.com##.top_download
 ||lm882.com^
 ||lm995.com^
 ||lmnpd.xyz^
+||lmtjapi.com^
 ||lmx7.com^
 ||lmxxxz.com^
 ||lnaevr.fun^
@@ -11994,6 +12003,7 @@ zybang.com##.top_download
 ||npftmqv.cn^
 ||nphqw.cn^
 ||nplaf.com^
+||npzc1yzag7.com^
 ||nqdufv.xyz^
 ||nqoxurf.icu^
 ||nrj.fr/nrj?Page=/rg.fake&
@@ -12696,6 +12706,7 @@ zybang.com##.top_download
 ||renzhen8.cn^
 ||repeatsweater.com^$third-party
 ||replaceroute.com^$third-party
+||report123.help^
 ||reportlog.dftoutiao.com^
 ||res.psy-1.com/music/recommend^$app=com.psyone.brainmusic
 ||reseekshollin.com^
@@ -13784,6 +13795,7 @@ zybang.com##.top_download
 ||txjfso.com^
 ||txscn.cn^
 ||txtyuzhaiwu.com/astyle/wap.js
+||txutayo.com^
 ||txxx.com/*x/*.js$domain=gaytxxx.com|transtxxx.com|txxx.com
 ||ty8bz.com^
 ||tyawwj.cn^
@@ -13927,6 +13939,7 @@ zybang.com##.top_download
 ||usrpubtrk.com^
 ||usrzh.cn^
 ||utienlt.top^
+||utmtmkfjbitxzlhijfce.top^
 ||uttergleeks.com^
 ||uttlinediv.top^
 ||uty.micocc.com^
@@ -14496,6 +14509,7 @@ zybang.com##.top_download
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||xn--49s928hlshoya.cn^
 ||xn--521-x72fh66s.cn^
+||xn--9krv3x413bbyb.com^
 ||xn--bqro42frpg5up.cn^
 ||xn--gov-x68dy61b.shop^
 ||xn--jor0b302fdhgwnccw8g.com^
@@ -14667,6 +14681,7 @@ zybang.com##.top_download
 ||ymlykj.com/nuxt/static/liveBanner.jpg
 ||ymm17.cc^
 ||ymm19.cc^
+||ymmiyun.com^
 ||ymyile.xyz^
 ||yncjsc.cn^
 ||ynet.com/c/js/manto.min.js
