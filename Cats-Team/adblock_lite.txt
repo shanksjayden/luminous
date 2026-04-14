@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-14 15:22:09(GMT+8)
-! Total count: 15043
+! Version: 2026-04-14 16:39:56(GMT+8)
+! Total count: 15046
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -7524,6 +7524,7 @@ zybang.com##.top_download
 ||41grk.icu^
 ||42yenxh.cn^
 ||4444inmint.net^
+||4444zeply.com^
 ||44r9fl.xyz^
 ||4asfgyx.com^
 ||4d0m.cn^
@@ -8581,7 +8582,6 @@ zybang.com##.top_download
 ||bvpqrydt.xyz^
 ||bvsfv6.com^
 ||bvvb9.com^
-||bvvrt28e3h2ucmk.cfd^
 ||bwdhuanbao.com^
 ||bxackzj.icu^
 ||bxwccii.cn^
@@ -8769,7 +8769,6 @@ zybang.com##.top_download
 ||chazidian.com/all/gg_
 ||chazidian.com/statics/images/wangke.jpg
 ||chdezxp.com^
-||chebecdalles.com^
 ||cheda1.icu^
 ||cheda10.icu^
 ||cheda7.icu^
@@ -9360,6 +9359,7 @@ zybang.com##.top_download
 ||dikematou.com^
 ||dikmnhyxz.xyz^
 ||dilidili.wang/uploads/allimg/171227/1_1520203421.png
+||dimmingtumming.com^
 ||dinespendn.com^
 ||ding.cxzudwk.com^
 ||dingyar.top^
@@ -11191,7 +11191,6 @@ zybang.com##.top_download
 ||khgjfm16.com^
 ||khinyugbfad0dlkiunapldnka3sdeuhn.com^
 ||kialeesewster.com^
-||kiblahmafia.com^
 ||kifyeldd.top^
 ||kiitsl.icu^
 ||killcovid2021.com/*.mp4
@@ -11366,6 +11365,7 @@ zybang.com##.top_download
 ||leftliquid.com^$third-party
 ||legdeh.fun^
 ||legopq.site^
+||lehrreiced.com^
 ||leirsw.com^
 ||lekkrrlel.com^
 ||lendc.xyz^
@@ -12708,7 +12708,6 @@ zybang.com##.top_download
 ||regularplants.com^$third-party
 ||regulatesleet.com^$third-party
 ||rehabilitatereason.com^$third-party
-||reknowriyals.com^
 ||relafp.xyz^
 ||relationrest.com^$third-party
 ||rememberdiscussion.com^$third-party
@@ -13189,6 +13188,7 @@ zybang.com##.top_download
 ||sncop.uioozpxq.com^
 ||sneakwind.com^$third-party
 ||sneakystew.com^$third-party
+||snootsmeacock.qpon^
 ||snoresmile.com^$third-party
 ||sntcbhv.com^
 ||so.clzgd.com^
@@ -13207,6 +13207,7 @@ zybang.com##.top_download
 ||sohu.com/mail/pv/
 ||solarislabyrinth.com^$third-party
 ||solaron.top^
+||soleynepeppin.com^
 ||solutions2000.com^
 ||somaliainc.com^
 ||somberscarecrow.com^$third-party
@@ -13516,6 +13517,7 @@ zybang.com##.top_download
 ||tdigcw.com^
 ||tdzvm.pw^$third-party
 ||tealjewel.com^$third-party
+||teapoyhocused.com^
 ||tearfulglass.com^$third-party
 ||techain.baidu.com^
 ||techspecndt.com^
@@ -13908,6 +13910,7 @@ zybang.com##.top_download
 ||unknowntray.com^$third-party
 ||unpleasantconcrete.com^
 ||unrigscsc.com^
+||unsharposmolar.com^
 ||unslotdrouk.com^
 ||untidyquestion.com^$third-party
 ||untidyrice.com^$third-party
