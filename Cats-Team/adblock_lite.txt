@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-14 19:14:43(GMT+8)
-! Total count: 15056
+! Version: 2026-04-14 21:14:02(GMT+8)
+! Total count: 15060
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -505,6 +505,7 @@
 ##[href^='https://xxx.nunxun.com']
 ##[id^="__ehbc0ejbc0hib"]
 ##[id^="__ehbc0gjbc0ajb"]
+##[id^="ts_ad_"]
 ##[onclick*="trackEvent', 'ad"]
 ##[onclick*='fjbglfrv.com']
 ##[onclick*='https://i.opiwb.com:']
@@ -9052,6 +9053,7 @@ zybang.com##.top_download
 ||creamaroc.com^
 ||creasolunshort.com^
 ||createssque.club^
+||creative.myavlive.com^
 ||creatorcherry.com^$third-party
 ||creatorpassenger.com^$third-party
 ||creaturecabbage.com^$third-party
@@ -10240,6 +10242,7 @@ zybang.com##.top_download
 ||gnrnws.cn^
 ||go.live.missav.com^
 ||go.sohu.com^
+||go.xlivrdr.com^
 ||go2click.online^
 ||goblin.hupu.com^
 ||godni.xyz^
@@ -11752,6 +11755,7 @@ zybang.com##.top_download
 ||misadw1.cn^
 ||misapopait.com^
 ||miscreantmoon.com^$third-party
+||missav.*/pop?url=
 ||missav.com/pop?url=
 ||mistyhorizon.com^$third-party
 ||mitbbs.com/img/app
