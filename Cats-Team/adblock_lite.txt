@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-15 03:04:12(GMT+8)
-! Total count: 15066
+! Version: 2026-04-15 10:58:56(GMT+8)
+! Total count: 15067
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -3245,6 +3245,7 @@ cnubis.com#@#.text_ad
 cnubis.com#@#.text_ads
 cnx-software.com##img[src="/pic/support_cnx-software.png"]
 cnx-software.com##img[src="/pic/support_cnxsoft.png"]
+cnxgct.com###interstitial_fade
 co188.com##.suspen
 cocomanga.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
 cocostream.org,idope.cyou,playmods.net,youtube4kdownloader.com,yts-official.*,yts2.*#$#abort-on-property-read JSON.stringify
