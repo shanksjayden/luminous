@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-16 15:23:01(GMT+8)
-! Total count: 15061
+! Version: 2026-04-16 21:18:07(GMT+8)
+! Total count: 15070
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -9305,6 +9305,7 @@ zybang.com##.top_download
 ||designsgrid.com^$third-party
 ||desirebucket.com^$third-party
 ||desiredirt.com^$third-party
+||desiresthasian.com^
 ||despiteto.com^
 ||destc10.icu^
 ||destc8.icu^
@@ -9836,6 +9837,7 @@ zybang.com##.top_download
 ||fadechildren.com^$third-party
 ||fadedsnow.com^$third-party
 ||fads315.com^
+||faenasplaidie.com^
 ||faggotyarterin.com^
 ||fainaidea.com/wp-content/uploads/*/*?ver=$script,stylesheet,domain=fainaidea.com
 ||fairfeeling.com^$third-party
@@ -9897,6 +9899,7 @@ zybang.com##.top_download
 ||fdgem.com^
 ||fdhvczd.cn^
 ||fds-1230.cc^
+||fearerbod.com^
 ||fearfulfish.com^$third-party
 ||fearfulmint.com^$third-party
 ||fearlessfaucet.com^$third-party
@@ -9919,7 +9922,6 @@ zybang.com##.top_download
 ||feq853.com^
 ||feriehangups.com^
 ||fermataintima.com^
-||ferritegathers.com^
 ||fewjuice.com^$third-party
 ||fewkittens.com^$third-party
 ||ffdm*.cc/dd.js
@@ -10313,6 +10315,7 @@ zybang.com##.top_download
 ||greenxcx.com^
 ||greyinstrument.com^$third-party
 ||gridbelow.com^$third-party
+||gridfrom1111.net^
 ||gridsumdissector.cn/gs.gif?
 ||gripcorn.com^$third-party
 ||grjasq.com^
@@ -11117,7 +11120,6 @@ zybang.com##.top_download
 ||jtpu9s.icu^
 ||jubilantcanyon.com^$third-party
 ||jubilantcascade.com^$third-party
-||jucwzabuqagh.in^
 ||judaismjef.com^
 ||juicyads.com^
 ||jujcjz.xyz^
@@ -11161,6 +11163,7 @@ zybang.com##.top_download
 ||k5ggua.xyz^
 ||k7f67a6s7.xyz^
 ||k9w4m.xyz^
+||kafalouder.com^
 ||kagdf.com^
 ||kahgjjd.com^
 ||kaiguangdou.com^
@@ -11355,6 +11358,7 @@ zybang.com##.top_download
 ||lamkghx.icu^
 ||lamplow.com^$third-party
 ||lancdn.com/tmp3/GG_Notice.png
+||lanceyatigan.com^
 ||languestweezed.com^
 ||lanm.huliyinzi.com^
 ||lanmeifeel.xyz^
@@ -11805,6 +11809,7 @@ zybang.com##.top_download
 ||moegirl.org.cn/insight/moegirlinsight.
 ||mojoplain.com^
 ||molpmh.xyz|
+||moluccadecoyed.com^
 ||monsteredward.com^
 ||moobtcnse.xyz^
 ||moon.ibytecdn.cn^
@@ -12469,6 +12474,7 @@ zybang.com##.top_download
 ||public.wlbaike.com^
 ||publicretia.com^
 ||publicsofa.com^$third-party
+||pucaanova.com^
 ||pufei.cc/skin/footer.js
 ||pufei.cc/skin/middle.js
 ||pufei8.com/skin/t6.html
@@ -12498,6 +12504,7 @@ zybang.com##.top_download
 ||pygokay.cn^
 ||pyjqhb.xyz^
 ||pypwxvo.cn^
+||pyxisdewrot.com^
 ||pzjizsyf.icu^
 ||pzkrgcp.cn^
 ||pzqqstb.icu^
@@ -12742,6 +12749,7 @@ zybang.com##.top_download
 ||replaceroute.com^$third-party
 ||report123.help^
 ||reportlog.dftoutiao.com^
+||rerowtitular.com^
 ||res.psy-1.com/music/recommend^$app=com.psyone.brainmusic
 ||reseekshollin.com^
 ||resolveflashdigitalunlimited.com^
@@ -13102,6 +13110,7 @@ zybang.com##.top_download
 ||sicksmash.com^$third-party
 ||sifa.aak7.cn^
 ||sifyeldb.top^
+||signingvehemenceraffle.com^
 ||sikaq.top^
 ||siliconslow.com^$third-party
 ||sillyscrew.com^$third-party
@@ -13232,7 +13241,6 @@ zybang.com##.top_download
 ||sombersurprise.com^$third-party
 ||somepossibility.com^
 ||somewhate.club^
-||songertringa.com^
 ||sonic2plugins.com^
 ||soothingglade.com^$third-party
 ||soperson.com^$third-party
@@ -13311,7 +13319,6 @@ zybang.com##.top_download
 ||staleshow.com^$third-party
 ||stalesummer.com^$third-party
 ||stanzytkyx.com^
-||starsallowyear.com^
 ||starttui.xyz^
 ||stat.2u.com.cn/ol_2u.js
 ||stat.baike.com^
@@ -13486,6 +13493,7 @@ zybang.com##.top_download
 ||taboola.com^$domain=spaste.com
 ||tabretwicht.com^
 ||tackerhelosis.com^
+||taffykhirka.com^
 ||tafyeta.ru^$domain=pronpic.org
 ||tag.*/scripts/px.gif?ch=1$domain=golfgalaxy.com|dickssportinggoods.com
 ||tag.*/scripts/px.gif?ch=2$domain=golfgalaxy.com|dickssportinggoods.com
@@ -13699,6 +13707,7 @@ zybang.com##.top_download
 ||tongjiniao.com^$third-party
 ||tontineepulis.com^
 ||tonxzq.com^
+||toodlerehouse.com^
 ||tools.3g.qq.com^
 ||toothsepinard.com^
 ||tootsykyklops.com^
