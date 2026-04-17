@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-17 21:05:41(GMT+8)
+! Version: 2026-04-18 02:51:55(GMT+8)
 ! Total count: 15070
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -7676,6 +7676,7 @@ zybang.com##.top_download
 ||7qo2met.com^
 ||7r227ut.cn^
 ||7xixi.site^
+||8000trexon.com^
 ||8080inbroadband.com^
 ||8181zx.com^
 ||81wx.info^
@@ -9305,7 +9306,6 @@ zybang.com##.top_download
 ||designsgrid.com^$third-party
 ||desirebucket.com^$third-party
 ||desiredirt.com^$third-party
-||desiresthasian.com^
 ||despiteto.com^
 ||destc10.icu^
 ||destc8.icu^
@@ -10106,6 +10106,7 @@ zybang.com##.top_download
 ||furryfork.com^$third-party
 ||furryhorses.com^$third-party
 ||fusedcontent.com^$third-party
+||fusseskenno.com^
 ||futuristicapparatus.com^$third-party
 ||futuristicfairies.com^$third-party
 ||futuristicfifth.com^$third-party
@@ -10882,6 +10883,7 @@ zybang.com##.top_download
 ||iodolruddock.com^
 ||ioiksw.cn^
 ||iojnask.com^
+||ioniumdwarfs.com^
 ||ionksfefe.xyz^
 ||iosppk.com^
 ||ioswhi.com^
@@ -11910,7 +11912,6 @@ zybang.com##.top_download
 ||nappyneck.com^$third-party
 ||naqiwjj.icu^
 ||naryvz.xyz^
-||nasutustinkles.com^
 ||nawpush.com^
 ||nawpyd.icu^
 ||nbfieef.cn^
@@ -12749,7 +12750,6 @@ zybang.com##.top_download
 ||replaceroute.com^$third-party
 ||report123.help^
 ||reportlog.dftoutiao.com^
-||rerowtitular.com^
 ||res.psy-1.com/music/recommend^$app=com.psyone.brainmusic
 ||reseekshollin.com^
 ||resolveflashdigitalunlimited.com^
@@ -13601,6 +13601,7 @@ zybang.com##.top_download
 ||thehiveworks.com^$script,domain=egscomics.com
 ||thepaper.cn/bottomBanner_
 ||therapeuticcars.com^$third-party
+||theretenoned.com^
 ||thesac2.top^
 ||thesac3.top^
 ||thesac4.top^
@@ -13700,7 +13701,6 @@ zybang.com##.top_download
 ||toijr.xyz^
 ||tokendomain.xyz^
 ||tollboagane.com^
-||tomandligula.com^
 ||tongji.trafficmanager.net/?
 ||tongji.xinmin.cn^
 ||tongjiniao.com^
@@ -14647,7 +14647,7 @@ zybang.com##.top_download
 ||yaozh.com/Public/js/widget/dbAdDownload.
 ||yaqurc.com^
 ||yasg114.com^
-||yautiaspockanthrax.cfd
+||yautiaspockanthrax.cfd^
 ||yawnfulharpa.com^
 ||yb0a.xyz^
 ||yb28b.com^
