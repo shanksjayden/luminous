@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-20 15:56:52(GMT+8)
-! Total count: 15073
+! Version: 2026-04-20 21:17:22(GMT+8)
+! Total count: 15077
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -2651,6 +2651,7 @@ animeflv.cc#$#abort-current-inline-script JSON.parse
 animeflv.net##iframe[style="position: fixed; width: 100%; height: 100%; inset: 0px; opacity: 0; z-index: 2147483647;"]
 animeflv.net#$#abort-current-inline-script globalThis /break|case/; abort-current-inline-script EventTarget.prototype.addEventListener 'delete window';
 animeflv.net,estrenosdoramas.net#$#abort-on-property-read __DOMAIN; abort-on-property-read window.open
+animehay.today#$#abort-current-inline-script document.addEventListener window.open; override-property-read list_link_popup emptyArray
 animekun.ru,doramakun.ru,nnmclub.to#$#abort-current-inline-script document.createElement Math.random; abort-current-inline-script setInterval Math.random
 animeland.su,itcats.ru,nekto.me,noadsradio.ru,sharkgame.ru,studies.in.ua,w10.jeanzzz.ru##.no-adb
 animeland.us,kiss-anime.ws,mangareader.net#$#abort-on-property-read bbHideDiv
@@ -3081,7 +3082,7 @@ bts.to##.dl_blue[href^="/goto_.php?url="]
 btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
-buomtv.media,clipsexvip.com,chuyentiepanimehay.one,cliphot69.hair,genz3x.com,damconuong.ceo,demo.14412882.com,doctruyen3qhubz.net,dualeotruyenbx.com,goctruyentranhvui19.com,hentaizvn.net,hhtq5.vip,ihentai.network,javtiful.com,luottruyen5.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,mupsexphim.net,newtruyentranh10.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqno.com,truyenvn.shop,umetruyenz.org,vevocloud.com,viet69.mu,viet69vn.at,vn2.xvideos69.xxx,vn6.sexviet88.xyz,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.media,phimech.net,animehay.today,cliphot69.hair,genz3x.com,damconuong.ceo,demo.14412882.com,doctruyen3qhubz.net,dualeotruyendb.com,goctruyentranhvui19.com,hentaizvn.net,hhtq5.vip,ihentai.network,javtiful.com,luottruyen5.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,mupsexphim.net,newtruyentranh10.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqno.com,truyenvn.shop,umetruyenz.org,vevocloud.com,viet69.mu,viet69vn.at,vn2.xvideos69.xxx,vn6.sexviet88.xyz,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
@@ -3151,7 +3152,6 @@ chipinfo.pro###content-container > div[style^="position: fixed;"]
 chrissmoove.com#@##adserver
 chsi.com.cn##.zx-axvert
 chusixs.com/5ygsh/
-chuyentiepanimehay.one#$#abort-current-inline-script document.addEventListener window.open; override-property-read list_link_popup emptyArray
 ci123.com###fixed-recom
 ci123.com##div[onclick^="window.location="]
 cibaipuki.com##.table2
@@ -3200,7 +3200,7 @@ clicknupload.co,clicknupload.link,clicknupload.org,clicknupload.to#$#abort-curre
 client=ca-pub-$subdocument,domain=expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 client=ca-pub-$subdocument,domain=iprima.cz|www.ahaonline.cz|info.cz|onetv.cz
 clikcoin.pl#@##adsense
-cliphubs.com,viet69hay.bar#$#abort-current-inline-script document.addEventListener pop
+cliphubs.com,viet69hayz.click#$#abort-current-inline-script document.addEventListener pop
 clipphot.vip,tennisontelly.uk#$#abort-current-inline-script document.addEventListener POP
 closermag.fr##div[id^="detection-block"]
 closermag.fr,grazia.fr,topsante.com##.dfp-slot
@@ -3249,7 +3249,6 @@ cnubis.com#@#.text_ads
 cnx-software.com##img[src="/pic/support_cnx-software.png"]
 cnx-software.com##img[src="/pic/support_cnxsoft.png"]
 co188.com##.suspen
-cocoa-luxury.com#$#abort-current-inline-script window.addEventListener Ads
 cocomanga.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
 cocostream.org,idope.cyou,playmods.net,youtube4kdownloader.com,yts-official.*,yts2.*#$#abort-on-property-read JSON.stringify
 codebeautify.org###adBlockerShare
@@ -3494,7 +3493,7 @@ dstar.pzk.pl#@#.adsbygoogle
 dtarihi.com#$#simulate-mouse-event 'xpath(.//div[@class][contains(@style,"display: block;")][@id]//following-sibling::div[@class]/div[contains(@class," ")][1])$delay=0'
 dtf.ru#$#override-property-read Object.prototype.detectAdblock undefined
 dtf.ru,vc.ru##.layout__right-column > div[class*=" "][style] > div[class*=" "] > div:only-child
-dualeotruyenbx.com#$#abort-current-inline-script document.addEventListener popunder
+dualeotruyendb.com#$#abort-current-inline-script document.addEventListener popunder
 duba.net###login_alert
 dujiaoshou.cn###ad1
 duowan.com##.lolboxapps-qrcode
@@ -5199,8 +5198,9 @@ miaopai.com,renren.com##.swiper-container
 micast.tv###closediv
 micast.tv###up
 micast.tv##.adv
-michorussellweekend.ie,onflix.my,eile.ie#$#prevent-listener click ads
+michorussellweekend.ie,onflix.me,eile.ie#$#prevent-listener click ads
 midroll$xmlhttprequest,domain=iprima.cz
+miendich-ahcc.com#$#abort-current-inline-script window.addEventListener Ads
 miercn.com###foot_return_foot
 miercn.com##.color-box
 miercn.com##.hongbao
@@ -5269,7 +5269,7 @@ mparticle.uc.cn##.UtpAd
 mparticle.uc.cn##.share-import-title
 mparticle.uc.cn##div[class^=ShowContent__ShowContentButton]
 mparticle.uc.cn##div[class^=recommend]
-mphim.top#$#override-property-read urlAds ''
+mphim.cc#$#override-property-read urlAds ''
 mreader.co#$#abort-current-inline-script document.createElement _stlivuf
 mrgay.tube#$#hide-if-matches-xpath './/div[contains(@class,"direct-")]/iframe[@width="728"][@height="90"]/ancestor::section[1]'; hide-if-contains /Advertisement/ 'div[class][data-nosnippet]' 'h4'; hide-if-matches-xpath './/div[@*[starts-with(name(), "data-")]][@style]/ancestor::section/parent::*[self::div or self::article]'
 mrpornx.com,myyouporn.com#$#abort-current-inline-script eval String.fromCharCode
@@ -6547,7 +6547,7 @@ trafictube.ro#@#.widget-adv
 trakt.tv###huckster-desktop-bottom
 trakt.tv###huckster-desktop-top
 trakt.tv##.huckster-dfp
-tram3d.cc#$#abort-current-inline-script setTimeout appendChild
+tram3d.biz#$#abort-current-inline-script setTimeout appendChild
 transkarpatia.net#$#abort-current-inline-script document.createElement redtram
 tree.tv#@##adverts
 tripadvisor.com##[data-sponsored]
@@ -6569,7 +6569,7 @@ trovesaurus.com###blocked
 truyen-hentai.com#$#abort-on-property-read Math.random; prevent-listener getexoloader; abort-on-property-read initCustomEvent;
 truyen-hentai.com#$#hide-if-matches-xpath './/*[@class]/ancestor-or-self::div[contains(@class,"reklam")][1]'; hide-if-matches-xpath './/a[contains(@href,"zlinkd.com")][@rel="sponsored"]/ancestor::div[@class][1]';
 truyen247.pro#$#abort-current-inline-script eval
-truyensextv.com,yanhh3d.day,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
+truyensextv.com,yanhh3d.net,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
 tsdm.live###ts_sidebar_base
 tsviewer.com#@#.adsbygoogle
 ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]
@@ -7543,6 +7543,7 @@ zybang.com##.top_download
 ||4199tv.com^
 ||41grk.icu^
 ||42yenxh.cn^
+||440functions.net^
 ||4444inmint.net^
 ||4444zeply.com^
 ||44r9fl.xyz^
@@ -7677,7 +7678,6 @@ zybang.com##.top_download
 ||7qo2met.com^
 ||7r227ut.cn^
 ||7xixi.site^
-||8000trexon.com^
 ||8080inbroadband.com^
 ||8181zx.com^
 ||81wx.info^
@@ -7942,7 +7942,6 @@ zybang.com##.top_download
 ||aiqu288.com/da/
 ||aiqu321.com/da/*.js
 ||air2s.com^$third-party,domain=modelsgonebad.com|efukt.com
-||airingsjerky.com^
 ||aisixiang.com/images/*-20
 ||aisnj.cn^
 ||aispyd.icu^
@@ -8293,7 +8292,6 @@ zybang.com##.top_download
 ||ballasshwebo.com^
 ||balloonbelieve.com^$third-party
 ||ballsbanana.com^$third-party
-||balzadicyema.com^
 ||bananabarrel.com^$third-party
 ||bance.jp/bnc*^$script,domain=himanatokiniyaruo.com|vippers.jp|matomeantena.com|anige-sokuhouvip.com
 ||bance.jp^$domain=zozovideo.com
@@ -8349,7 +8347,6 @@ zybang.com##.top_download
 ||beancontrol.com^$third-party
 ||beap.gemini.yahoo.com^
 ||beardsfeline.com^
-||beastlyfluke.com^
 ||beateechafed.com^
 ||beatricecathy.com^
 ||beatricenba.com^
@@ -8522,7 +8519,6 @@ zybang.com##.top_download
 ||br.bendan.shop^
 ||brainybasin.com^$third-party
 ||brainynut.com^$third-party
-||brakepresign.cfd^
 ||branchborder.com^$third-party
 ||brandsfive.com^$third-party
 ||brandybison.com^$third-party
@@ -8959,6 +8955,7 @@ zybang.com##.top_download
 ||commonwealthproficient.com^
 ||comparereaction.com^$third-party
 ||compiledoctor.com^$third-party
+||compoerhayz.com^
 ||compteur-visite.com^$third-party
 ||comptoir-hardware.com/edi/edi7_lb.php$subdocument
 ||comptoir-hardware.com/edi/edi7_sk.htm$subdocument
@@ -9055,6 +9052,7 @@ zybang.com##.top_download
 ||crackedsafe.com^$third-party
 ||crafthenry.com^$third-party
 ||cranchdotal.com^
+||cranialhubbed.com^
 ||crashchance.com^$third-party
 ||cratecamera.com^$third-party
 ||craterbox.com^$third-party
@@ -9289,7 +9287,6 @@ zybang.com##.top_download
 ||degreeeruptionpredator.com^
 ||dehaer.site^
 ||dehua.mengtubo.com^
-||deitymacram.com^
 ||dektcvna.icu^
 ||delegatediscussion.com^$third-party
 ||delicatecascade.com^$third-party
@@ -9315,6 +9312,7 @@ zybang.com##.top_download
 ||detectdinner.com^$third-party
 ||detectdiscovery.com^$third-party
 ||detourgame.com^$third-party
+||deuxseethe.com^
 ||develenv.com^$third-party
 ||developpez.com/template/*.jpg$xmlhttprequest
 ||developpez.net/template/*.jpg$xmlhttprequest
@@ -9400,6 +9398,7 @@ zybang.com##.top_download
 ||disturbedquiet.com^$third-party
 ||ditorialproce.biz^
 ||divehope.com^$third-party
+||dividedmidsummer.com^
 ||diyibanzhu*/js/cdn.js$~third-party
 ||dj09j5u.cn^
 ||djbgfit.com^
@@ -9714,6 +9713,7 @@ zybang.com##.top_download
 ||eqlidke.cn^
 ||eqqi.cn^
 ||equablekettle.com^$third-party
+||equalfall.pro^
 ||eraaoec.cn^
 ||ercnrxa.cn^
 ||erfskhnpter.xyz^
@@ -9838,12 +9838,12 @@ zybang.com##.top_download
 ||fadechildren.com^$third-party
 ||fadedsnow.com^$third-party
 ||fads315.com^
-||faenasplaidie.com^
 ||faggotyarterin.com^
 ||fainaidea.com/wp-content/uploads/*/*?ver=$script,stylesheet,domain=fainaidea.com
 ||fairfeeling.com^$third-party
 ||fairiesbranch.com^$third-party
 ||fairtop.in/template/js/fdetect.js
+||fairybroadacceptance.com^
 ||fairygaze.com^$third-party
 ||fairytaleflame.com^$third-party
 ||faithrowold.com^$third-party
@@ -9987,6 +9987,7 @@ zybang.com##.top_download
 ||flameuncle.com^$third-party
 ||flash.banners-service.info^
 ||fletherpetos.com^
+||fliffuscatalpa.com^
 ||flimsycircle.com^$third-party
 ||flimsythought.com^$third-party
 ||flippedfunnel.com^$third-party
@@ -10107,7 +10108,6 @@ zybang.com##.top_download
 ||furryfork.com^$third-party
 ||furryhorses.com^$third-party
 ||fusedcontent.com^$third-party
-||fusseskenno.com^
 ||futuristicapparatus.com^$third-party
 ||futuristicfairies.com^$third-party
 ||futuristicfifth.com^$third-party
@@ -10193,7 +10193,6 @@ zybang.com##.top_download
 ||geoparker.net^
 ||gepush.com^
 ||gepvgv.icu^
-||gerentstaperly.com^
 ||gestatejiggly.com^
 ||getapplicationmy.info^
 ||getui.com^
@@ -10709,6 +10708,7 @@ zybang.com##.top_download
 ||hujiang.com/ciku/getLesson
 ||hujunhao.name^
 ||hummingexam.com^
+||hungrysurrenderdevastated.com^
 ||huobaowang.com/meeting/js/hbchat.
 ||huoju.asia^
 ||hupu.com/_dace.gif?
@@ -11219,6 +11219,7 @@ zybang.com##.top_download
 ||kialeesewster.com^
 ||kifyeldd.top^
 ||kiitsl.icu^
+||kiki18.com^
 ||killcovid2021.com/*.mp4
 ||kindhush.com^$third-party
 ||kindlestorsion.com^
@@ -11643,7 +11644,6 @@ zybang.com##.top_download
 ||majorleaguegaming.com/assets/ab.js$script
 ||maliciousmusic.com^$third-party
 ||maljxp.cn^
-||malpaisediface.com^
 ||maltobrolly.com^
 ||mambasscious.com^
 ||manage88.com^
@@ -11660,6 +11660,7 @@ zybang.com##.top_download
 ||mapsmnx.cyou^
 ||maraywreath.com^
 ||marblediscussion.com^$third-party
+||marginoboles.com^
 ||margueritenice.com^
 ||marjorienice.com^
 ||markedmeasure.com^$third-party
@@ -11812,7 +11813,6 @@ zybang.com##.top_download
 ||moegirl.org.cn/insight/moegirlinsight.
 ||mojoplain.com^
 ||molpmh.xyz|
-||moluccadecoyed.com^
 ||monsteredward.com^
 ||moobtcnse.xyz^
 ||moon.ibytecdn.cn^
@@ -12060,6 +12060,7 @@ zybang.com##.top_download
 ||ntozchv.icu^
 ||nuannuanqi.top^
 ||nubbycoolly.com^
+||nucleonfashing.com^
 ||nudpqt.com^
 ||nuheoub.cn^
 ||nullnorth.com^$third-party
@@ -12111,6 +12112,7 @@ zybang.com##.top_download
 ||offshorecyclone.com^$third-party
 ||ofooe.cn^
 ||ofreadingand.biz^
+||ogammugwump.com^
 ||oganilglk.cyou^
 ||oghqvffmnt.com^
 ||ognujxj.cn^
@@ -12339,6 +12341,7 @@ zybang.com##.top_download
 ||picoidpayout.com^
 ||picrew.me^$csp=script-src-attr 'none'
 ||piewifezeke.com^
+||pilesteroidprogramming.com^
 ||pilleustrig.com^
 ||pimlog.baidu.com^
 ||pincersmidnight.com^
@@ -12943,10 +12946,11 @@ zybang.com##.top_download
 ||scarfsmash.com^$third-party
 ||scatteredheat.com^$third-party
 ||scatteredstream.com^$third-party
+||scawtepee.com^
+||scepsisstatal.com^
 ||schain.group^
 ||schedfi.com^
 ||schizypdq.com^
-||schmoesnutcake.com^
 ||scientificshirt.com^$third-party
 ||sciillr.cn^
 ||scintillatingscissors.com^$third-party
@@ -13113,7 +13117,7 @@ zybang.com##.top_download
 ||sicksmash.com^$third-party
 ||sifa.aak7.cn^
 ||sifyeldb.top^
-||signingvehemenceraffle.com^
+||sikagaylies.com^
 ||sikaq.top^
 ||siliconslow.com^$third-party
 ||sillyscrew.com^$third-party
@@ -13182,7 +13186,6 @@ zybang.com##.top_download
 ||skxuueby.cn^
 ||sky.tongjiai.com^
 ||skyrock.net/img/*/adblock/
-||slavirappels.com^
 ||slaysweater.com^$third-party
 ||slfango.ltd^
 ||slimyscarf.com^$third-party
@@ -13449,6 +13452,7 @@ zybang.com##.top_download
 ||surface361.com^
 ||surperverse.com^
 ||surveys.hotjar.com^
+||susumufrits.com^
 ||suy5x8.com^
 ||svarub.xyz^
 ||svdpgmt.cn^
@@ -13604,7 +13608,6 @@ zybang.com##.top_download
 ||thehiveworks.com^$script,domain=egscomics.com
 ||thepaper.cn/bottomBanner_
 ||therapeuticcars.com^$third-party
-||theretenoned.com^
 ||thesac2.top^
 ||thesac3.top^
 ||thesac4.top^
@@ -13659,6 +13662,7 @@ zybang.com##.top_download
 ||tiresomethunder.com^$third-party
 ||tirexo.day^$csp=script-src 'self'
 ||tisszhb.cn^
+||titratewinner.cfd^
 ||tizru.com^$domain=pronpic.org
 ||tj-cyhg.com^
 ||tj-yijiajing.com^
@@ -13906,6 +13910,7 @@ zybang.com##.top_download
 ||ultrafiles.net/Webservices/jsParseLinks.aspx$script,third-party
 ||ultrafiles.net/visitScript/$script,third-party
 ||ultraoranges.com^$third-party
+||uluhiiotas.com^
 ||ulyuom.xyz^
 ||um5xcgngmart.xyz^
 ||umbrellaomendear.com^
@@ -14650,7 +14655,6 @@ zybang.com##.top_download
 ||yaozh.com/Public/js/widget/dbAdDownload.
 ||yaqurc.com^
 ||yasg114.com^
-||yautiaspockanthrax.cfd^
 ||yawnfulharpa.com^
 ||yb0a.xyz^
 ||yb28b.com^
