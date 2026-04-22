@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-22 21:14:18(GMT+8)
+! Version: 2026-04-23 03:04:40(GMT+8)
 ! Total count: 15095
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
@@ -2661,7 +2661,7 @@ animeonline.ninja#$#override-property-read custom_ads_time null; abort-current-i
 animepahe.*#$#abort-on-property-read _0x43d1; abort-on-property-read _0x53b5
 animepahe.*#$#abort-on-property-read document.querySelector
 animesonline22.com#$#abort-current-inline-script JSON.parse /atob|btoa|break/
-animet.info,anime47.best,hoctot.hocmai.vn,keysmatterinc.com,maclife.io,noitu.site,player.phimapi.com,s2.phimsexvn1.blog,sachmoi.net,samtruyentranh.com,javgiga.wordpress.com,vinaurl.net,xfast.sbs,zpic.biz#$#abort-on-property-read open
+animet.info,anime47.best,hoctot.hocmai.vn,keysmatterinc.com,maclife.io,noitu.site,player.phimapi.com,s2.phimsexvn1.blog,sachmoi.net,samtruyentranh.com,javgiga.wordpress.com,vinaurl.net,xfast.sbs,zpic.biz,anime47.best,s2.phimsexvn1.blog,phimvivu.top#$#abort-on-property-read open
 animet.org,motchillzz.site,xemphim.site#$#override-property-read maxAds 0
 animetaro.com#$#abort-on-property-read window.open
 animeunity.cc#$#abort-on-property-read zfgstorage; abort-current-inline-script document.documentElement /break|case/; abort-on-property-read decodeURI;
