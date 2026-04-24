@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-24 15:53:01(GMT+8)
-! Total count: 15119
+! Version: 2026-04-24 21:09:47(GMT+8)
+! Total count: 15113
 ###AdBlockDialog
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -8380,7 +8380,6 @@ zybang.com##.top_download
 ||belindanbd.com^
 ||bendibao.com/js/count.js
 ||bendibao.com/weixin_
-||bentinghanks.com^
 ||berjzj.xyz^
 ||berserkhydrant.com^$third-party
 ||berylnbb.com^
@@ -8434,6 +8433,7 @@ zybang.com##.top_download
 ||billowybelief.com^$third-party
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
+||bimongtrowman.com^
 ||binarycrest.com^$third-party
 ||binbox.io/autolink.js$script,third-party
 ||binmanoboles.com^
@@ -8778,7 +8778,6 @@ zybang.com##.top_download
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||cfdns.vip^
 ||cfepws.com^
-||cgcvmv7i2ri5xpc41if.cfd^
 ||cgdyw.net/xx/
 ||cgigc.com.cn^
 ||cgmalight.com^
@@ -9023,6 +9022,7 @@ zybang.com##.top_download
 ||coolapk.com/v6/page/dataList?$replace=/extra_entities//
 ||coolapk.com/v6/search?type=hotSearch$replace=/\{"data":\[.*\]/{"data":[]/
 ||coolestcatcare.com^$third-party
+||coolstels.com^
 ||coombrecuse.com^
 ||coordinatedbedroom.com^$third-party
 ||coordinatedcoat.com^$third-party
@@ -9368,7 +9368,6 @@ zybang.com##.top_download
 ||dghehu.com^
 ||dghhot.com^
 ||dghkpp.xyz^
-||dgorwwtpltxnklf.com^
 ||dgvkrt.xyz^
 ||dgxlm.xyz^
 ||dh1dh.top^
@@ -9530,6 +9529,7 @@ zybang.com##.top_download
 ||dtrcw.cc^
 ||dtscout.com^
 ||dtsxn.cn^
+||dualistesseda.com^
 ||duba.com/static/*/js/min.pop.js
 ||duba.net/skins/2009/images/db300_250.gif
 ||duier.top^
@@ -9623,7 +9623,6 @@ zybang.com##.top_download
 ||edgelib.net^
 ||edong.link^
 ||edoshbw.top^
-||edshessite.com^
 ||edssnet.changchunets.com^
 ||educrated.com^$third-party
 ||eduizioq.com^
@@ -9745,7 +9744,6 @@ zybang.com##.top_download
 ||erfskhnpter.xyz^
 ||erjiyouhuiquan.com^
 ||erlirscid.com^
-||erodiumvodums.com^
 ||err.ifengcloud.ifeng.com^
 ||error-report.com/report$domain=voici.fr|femmeactuelle.fr|caminteresse.fr
 ||error-report.com^$domain=9gag.com
@@ -9790,7 +9788,6 @@ zybang.com##.top_download
 ||eslbahw.top^
 ||esprit-click.com/display.php$subdocument,third-party
 ||esprit-click.com/ec-async.js$script,third-party
-||establishscarcely.com^
 ||estcruden.biz^
 ||etahub.com^
 ||etherealbamboo.com^$third-party
@@ -9983,7 +9980,6 @@ zybang.com##.top_download
 ||filtreyoking.com^
 ||finalizeforce.com^$third-party
 ||financefear.com^$third-party
-||findcompere.com^
 ||finestpiece.com^$third-party
 ||finitecube.com^$third-party
 ||fintechpi.com^
@@ -10334,7 +10330,6 @@ zybang.com##.top_download
 ||grainmass.com^$third-party
 ||grandcomms.cn^
 ||grandfatherguitar.com^$third-party
-||grandmatootsy.com^
 ||granlite.com^$third-party
 ||gravitykick.com^$third-party
 ||grayoranges.com^$third-party
@@ -10667,6 +10662,7 @@ zybang.com##.top_download
 ||honorableland.com^$third-party
 ||hoodlumbragget.com^
 ||hookconference.com^$third-party
+||hooperguze.com^
 ||hopefullyapricot.com^
 ||hornywood.tv/Webservices/jsParseLinks.aspx$script,third-party
 ||hornywood.tv/visitScript/$script,third-party
@@ -11701,6 +11697,7 @@ zybang.com##.top_download
 ||marketspiders.com^$third-party
 ||marriedbelief.com^$third-party
 ||martingfingian.com^
+||martylatah.com^
 ||masdk.3g.qq.com^
 ||massivemark.com^$third-party
 ||mat1.gtimg.com/rain/bailing20/*.*.png$image
@@ -11909,7 +11906,6 @@ zybang.com##.top_download
 ||mvwitz.xyz^
 ||mwandlx.top^
 ||mwdwepok.xyz^
-||mwvirquasetgiry.com^
 ||mwzbp.ccbangong.com^
 ||mwzbp.iask.com.cn^
 ||mxevdii.cn^
@@ -12135,7 +12131,6 @@ zybang.com##.top_download
 ||observantice.com^$third-party
 ||oceanbot-steam.com^
 ||ocs-pl.oktawave.com/v1/AUTH_*/Reklamy/$object-subrequest,domain=freedisc.pl|reseton.pl
-||oddlystudent.com^
 ||oehhq.xyz^
 ||oewtuho.cn^
 ||offcn.com/index.php?m=dbsource&c=call&a=get&id=75
@@ -12303,7 +12298,6 @@ zybang.com##.top_download
 ||paradisemall.net^
 ||parallelbulb.com^$third-party
 ||paralyzedhelmetnell.com^
-||parcelconsists.com^
 ||parchedsofa.com^$third-party
 ||pardonpopular.com^$third-party
 ||parietwifes.com^
@@ -13223,6 +13217,7 @@ zybang.com##.top_download
 ||sky.tongjiai.com^
 ||skyrock.net/img/*/adblock/
 ||slaysweater.com^$third-party
+||sleavedyecch.cyou^
 ||slfango.ltd^
 ||slimyscarf.com^$third-party
 ||slinksuggestion.com^$third-party
@@ -13451,6 +13446,7 @@ zybang.com##.top_download
 ||strivesidewalk.com^$third-party
 ||strivesquirrel.com^$third-party
 ||strobedturtlet.com^
+||struvlichi.com^
 ||studylabs.cn^
 ||stuffedclipse.com^
 ||stulmunshent.com^
@@ -13679,7 +13675,6 @@ zybang.com##.top_download
 ||tianyaui.com/cms_fragments/res/*/bbs_include_mod.js
 ||tianyaui.com/global/dashang/vip_seat/js/ds_vip_seat.js
 ||tianyuewangluo.top^
-||tiarajustina.com^
 ||tibiaescourer.com^
 ||ticketaunt.com^$third-party
 ||ticklesign.com^$third-party
@@ -13700,7 +13695,6 @@ zybang.com##.top_download
 ||tiresomethunder.com^$third-party
 ||tirexo.day^$csp=script-src 'self'
 ||tisszhb.cn^
-||titratewinner.cfd^
 ||tizru.com^$domain=pronpic.org
 ||tj-cyhg.com^
 ||tj-yijiajing.com^
@@ -13949,7 +13943,6 @@ zybang.com##.top_download
 ||ultrafiles.net/Webservices/jsParseLinks.aspx$script,third-party
 ||ultrafiles.net/visitScript/$script,third-party
 ||ultraoranges.com^$third-party
-||uluhiiotas.com^
 ||ulyuom.xyz^
 ||um5xcgngmart.xyz^
 ||umbrellaomendear.com^
@@ -14185,6 +14178,7 @@ zybang.com##.top_download
 ||vxhsj.cn^
 ||vxhtxt.xyz^
 ||vxinzheng.xyz^
+||vyar221.net^
 ||vyreat.icu^
 ||vyye.cn^
 ||vzeuvcdi.icu^
