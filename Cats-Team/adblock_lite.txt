@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-27 11:23:37(GMT+8)
-! Total count: 37192
+! Version: 2026-04-27 16:19:29(GMT+8)
+! Total count: 37196
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -14180,6 +14180,7 @@ nfstar.net##.myui-panel-bg:has(strong:contains(广告))
 nfstar.net##a[target="_blank"] > .img-responsive
 nfuwow.com###dl-left-first
 nfuwow.com###dl-right-first
+nfuwow.com##.ad1320top
 nfuwow.com##.adtopnewnewbox
 nfuwow.com##.bannermid3box
 nfuwow.com##.crightbtad
@@ -18830,6 +18831,7 @@ zzzyk.com###Tinfo
 ||1999019.com^
 ||19dkfu1wg.com^
 ||19o8hzj117.com^
+||1adi9wenq.com^
 ||1biqug.com/js/ajax.js
 ||1buu1.penyouw.com^
 ||1dfsdfg.com^
@@ -24519,6 +24521,7 @@ zzzyk.com###Tinfo
 ||efgh.5lu.com^
 ||efmh.cn^
 ||eftd.cn^
+||efu871zc4.com^
 ||efusc.com^
 ||efvsyhbf.xyz^
 ||eghaailr.com^
@@ -35671,6 +35674,7 @@ zzzyk.com###Tinfo
 ||xchina.click/upload/*.webp
 ||xchina.co/scripts/push_*.js
 ||xchina.io/$media,domain=xchina001.online
+||xciryzdnl.com^
 ||xcisleoa.cn^
 ||xckj0623.com^
 ||xckyqq.com^
