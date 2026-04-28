@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-28 03:09:15(GMT+8)
-! Total count: 37231
+! Version: 2026-04-28 10:26:18(GMT+8)
+! Total count: 37237
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -22471,6 +22471,7 @@ zzzyk.com###Tinfo
 ||calculatingtoothbrush.com^$third-party
 ||calculatorstatement.com^$third-party
 ||calistaadama.com^
+||callosity19.top^
 ||callousbrake.com^$third-party
 ||calmcactus.com^$third-party
 ||calmlydagesh.com^
@@ -29164,6 +29165,7 @@ zzzyk.com###Tinfo
 ||lw881.com/public/js/gw.js
 ||lwbo.cn^
 ||lwcnmtl.top^
+||lwdla7fjns.com^
 ||lwfdlv.icu^
 ||lwide.xyz^
 ||lwksxs.com^
@@ -30255,6 +30257,7 @@ zzzyk.com###Tinfo
 ||niupic.com/images/2019/11/17/_17.
 ||niuza.com^$image,subdocument,3p
 ||niwota.com^$3p
+||njawz0tlek.com^
 ||njcengpianwang.cn^
 ||njcyt.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
@@ -31074,6 +31077,7 @@ zzzyk.com###Tinfo
 ||piaoliang.com/js/all.js
 ||piaoliang.com/js/gg.js
 ||piaotia.com/scripts/read/style
+||pibpjoo0lm.com^
 ||pic.0597kk.com^
 ||pic.959.cn/media/js/
 ||pic.baihuawen.cn^
@@ -32075,6 +32079,7 @@ zzzyk.com###Tinfo
 ||rfnenr.xyz^
 ||rfnhwaj.cn^
 ||rfto9i.icu^
+||rg338ne0rt.com^
 ||rg84983is.com^
 ||rgaagnida.com^
 ||rgcrunzozp.com^
@@ -34050,6 +34055,7 @@ zzzyk.com###Tinfo
 ||ts166.net^
 ||ts98cm48b.com^
 ||tsancii.top^
+||tsaor7o1e9.com^
 ||tsck.online^
 ||tsdm.live/weibo.html
 ||tsdm39.com/img01/MP3/GG/
