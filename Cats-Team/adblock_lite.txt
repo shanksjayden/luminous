@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-29 03:24:52(GMT+8)
-! Total count: 37266
+! Version: 2026-04-29 10:26:47(GMT+8)
+! Total count: 37274
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -22037,6 +22037,7 @@ zzzyk.com###Tinfo
 ||bkqa.cn^
 ||bl.emotionalworld.cn^
 ||blackbrake.com^$third-party
+||blackhead35.com^
 ||blazeoccamy.com^
 ||bld.mobi^
 ||bleachbubble.com^$third-party
@@ -22229,6 +22230,7 @@ zzzyk.com###Tinfo
 ||bshare.cn/bshare_view?Callback=
 ||bsizoia.com^
 ||bslbahv.top^
+||bslbpb.icu^
 ||bswsmlp.cn^
 ||bsyrimw.xyz^
 ||bt-tt.com/ad
@@ -24643,6 +24645,7 @@ zzzyk.com###Tinfo
 ||elviraawa.com^
 ||elysiantraverse.com^$third-party
 ||em7ky342lo.com^
+||embbl8sy3.com^
 ||embellishedmeadow.com^$third-party
 ||embermosaic.com^$third-party
 ||emberwhisper.com^$third-party
@@ -29086,6 +29089,7 @@ zzzyk.com###Tinfo
 ||lp340p7czf.com^
 ||lp3tdqle.com^$third-party
 ||lp780937a.com^
+||lpaitrekoe.com^
 ||lpalartra.com^
 ||lparnaro.com^
 ||lpasdfgwer.com^
@@ -31173,6 +31177,7 @@ zzzyk.com###Tinfo
 ||pjdhguh14.com^
 ||pjogndc8ixoidna.360doc.cn^
 ||pjoo8.com^
+||pjovytymn.com^
 ||pjsbuhl.icu^
 ||pjtime.com/js/show_ad
 ||pjy55d.com^
@@ -34927,6 +34932,7 @@ zzzyk.com###Tinfo
 ||vmj428qvi4.com^
 ||vmkp.cn^
 ||vmlrxs.top^
+||vmn05pnuh.com^
 ||vmvps.com/aoyohost-com-bann
 ||vmyv.cn^
 ||vncq.cn^
@@ -36564,6 +36570,7 @@ zzzyk.com###Tinfo
 ||yuehesh.com^
 ||yueipaoo.xyz^*.gif
 ||yuelmodqhrw.com^
+||yuhn5w31n.com^
 ||yuhunwang.net^
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
@@ -36920,6 +36927,7 @@ zzzyk.com###Tinfo
 ||zgm1.com^
 ||zgo8rgvuaf.com^
 ||zgqsc3shr.com^
+||zgttfnkcztzpjc.com^
 ||zgtwzq.xyz^
 ||zguqxf.xyz^
 ||zgwsnw.xyz^
