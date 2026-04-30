@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-04-30 03:15:18(GMT+8)
-! Total count: 37295
+! Version: 2026-04-30 10:27:44(GMT+8)
+! Total count: 37300
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -1671,7 +1671,6 @@
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[role="listitem"] .bannerliststyle
-##div[role="listitem"] > div > div > .bannerliststyle
 ##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 ##div[style="margin:10px auto;width: 930px;height: 250px;"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
@@ -3846,7 +3845,6 @@ $websocket,domain=wap.yushuwu.cloud
 2345.com##.mzdh_bottom
 2345.com##.newsArea
 2345.com##.part-banner
-2345.com##.part-banner > .part-ppt
 2345.com##.pic:has(a[href^="http://g.wan."])
 2345.com##.s11-fixNav
 2345.com##.s11-logowall
@@ -18527,6 +18525,7 @@ zzzyk.com###Tinfo
 ||06789.xyz^
 ||06cp8ypn8j.com^
 ||06evyxnibl.com^
+||06hkgn0jl3.com^
 ||07073.com/api/getKfList?
 ||07073.com/pc/js/right-ad.
 ||0722fc.com/index/index.php?/ajax/get_adv/
@@ -20680,6 +20679,7 @@ zzzyk.com###Tinfo
 ||afd.baidu.com^
 ||afdunaui.com^
 ||afenx.top^
+||affection28.top^
 ||affxc.com^$3p
 ||affyun.com/wp-content/uploads/*-ad.
 ||affyun.com/wp-content/uploads/*/ad-
@@ -25247,6 +25247,7 @@ zzzyk.com###Tinfo
 ||fjisu.*/js/huimi.js
 ||fjjmnh.com^
 ||fjlqqc.com/common/api/v1.0/slot-code/
+||fjpopxgyfrlxvc.com^
 ||fjsen.com:81/mysql/count/
 ||fjshxjs.cn^
 ||fjsytjs.cn^
@@ -25466,6 +25467,7 @@ zzzyk.com###Tinfo
 ||fumblingform.com^$third-party
 ||fumeuseaudibly.com^
 ||fumiad.dxys.pro^
+||fummd03je4.com^
 ||fun1shot.com/images/qrcode_wechat.png
 ||fun8.us^$domain=cartoonmad.com
 ||func.tw/image/func2.png
@@ -29320,6 +29322,7 @@ zzzyk.com###Tinfo
 ||m1.nn670.com^
 ||m1.vodjk.com^
 ||m1.we556.com^
+||m11bkuusyb.com^
 ||m17d1e83q.com^
 ||m1905.cn/afp/mdsfw.js
 ||m1905.cn/data/suspension_
@@ -35233,6 +35236,7 @@ zzzyk.com###Tinfo
 ||wdpkx.cn^
 ||wdrn97z1o.com^
 ||wdswgjn.cn^
+||wdtuc.cn^
 ||wdtw.cn^
 ||wdzwd.xyz^
 ||we560.com/js/*.js
@@ -37207,6 +37211,7 @@ zzzyk.com###Tinfo
 ||zvciaoan1k.com^
 ||zvdc9y.icu^
 ||zvgvenibe.com^
+||zvhtzl.icu^
 ||zvou.cn^
 ||zvptrf.icu^
 ||zvrl.cn^
