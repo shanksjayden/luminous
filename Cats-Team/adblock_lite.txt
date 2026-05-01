@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-01 16:05:12(GMT+8)
-! Total count: 37319
+! Version: 2026-05-01 21:06:32(GMT+8)
+! Total count: 37326
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -12346,6 +12346,7 @@ jikexueyuan.com##.pewm2
 jikexueyuan.com##.pewm3
 jiligame.com##img[onerror="zhurl($(this))"]
 jin10.com##.activity-side
+jin10.com##.desktop-tip
 jin10.com##.jin-popularize
 jin10.com##.quoted-price__pro
 jin10.com##.side-module-2
@@ -19120,6 +19121,7 @@ zzzyk.com###Tinfo
 ||2xx63f0bfy.com^
 ||2y2lttjs.hair^
 ||2yjw.com/statics/js/jquery.min.
+||2ytoxb1r7.com^
 ||2zjftxgl5s.com^
 ||2znp09oa.com^$third-party
 ||2ztav5r7r.com^
@@ -23591,6 +23593,7 @@ zzzyk.com###Tinfo
 ||d5zkrmttu.com^
 ||d6.mobaders.com^
 ||d67p.com/love/
+||d6er6wrvw.com^
 ||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
 ||d7fl3a3vwh.com^
@@ -23847,6 +23850,7 @@ zzzyk.com###Tinfo
 ||deviceworkshop.com^$third-party
 ||devilishdinner.com^$third-party
 ||devll8j4n.com^
+||devpz.cn^
 ||dewdroplagoon.com^$third-party
 ||dexinyi.cn^
 ||dexuanyu.top^
@@ -26049,6 +26053,7 @@ zzzyk.com###Tinfo
 ||gpkheq.icu^
 ||gpxxbyf.cn^
 ||gpxz.com/js2/
+||gqcrgyufg.com^
 ||gqdfgyz.cn^
 ||gqwu.cn^
 ||gqxwfhe7o.com^
@@ -28036,6 +28041,7 @@ zzzyk.com###Tinfo
 ||jp1357.com/addon/
 ||jp2468.com/addon/
 ||jp2468.com/api/vip/vipshow.php
+||jp532fdo5.com^
 ||jpayu6di.icu^
 ||jpfans.com/jpfans.jpg
 ||jpg1.oss-cn-beijing.aliyuncs.com^
@@ -35749,6 +35755,7 @@ zzzyk.com###Tinfo
 ||x3zy2.icu^
 ||x42zfctilh.com^
 ||x43slxjwzx.com^
+||x4bxnav4g.com^
 ||x4hu95mh0t.com^
 ||x4jdm.tv/mdp.js
 ||x5hnj21.com^
