@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-01 21:06:32(GMT+8)
-! Total count: 37326
+! Version: 2026-05-02 03:03:02(GMT+8)
+! Total count: 37333
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -23826,6 +23826,7 @@ zzzyk.com###Tinfo
 ||deqixs.com/config/v7.js
 ||derew6xbsc.xyz^
 ||derivative10.top^
+||dernergazeful.com^
 ||dertyhsf.xyz^
 ||desac10.icu^
 ||desac7.icu^
@@ -24224,6 +24225,7 @@ zzzyk.com###Tinfo
 ||dpbgnf.xyz^
 ||dpijohb.icu^
 ||dpjbpj.top^
+||dpjf9a2rbjbvp.cloudfront.net^
 ||dpjzr.top^
 ||dpjzzgw.cn^
 ||dpsusqs20.com^
@@ -25916,6 +25918,7 @@ zzzyk.com###Tinfo
 ||gloriousbeef.com^$third-party
 ||glowingmeadow.com^$third-party
 ||glpca.com^
+||glucasecrabber.com^
 ||glucosesalique.com^
 ||gluedpixel.com^$third-party
 ||glwxw.net^
@@ -31170,6 +31173,7 @@ zzzyk.com###Tinfo
 ||pics.xgo-img.com.cn^
 ||picsuperfast.xyz/imageUpload/images/*.gif
 ||picsuperfast.xyz/imageUpload/images/*AD_
+||pictureshosierygauntlet.com^
 ||picyq.com/index.php/Home/run/get_ad/
 ||pierrebotton.com/global/
 ||piewifezeke.com^
@@ -31513,6 +31517,7 @@ zzzyk.com###Tinfo
 ||pyntbz.icu^
 ||pyonbrj41b.com^
 ||pypwxvo.cn^
+||pyralmite.com^
 ||pyrfpb.icu^
 ||pyxisdewrot.com^
 ||pzjizsyf.icu^
@@ -34810,6 +34815,7 @@ zzzyk.com###Tinfo
 ||vdnh.cn^
 ||vdrfes.site^
 ||vdxu.cn^
+||vector26060.com^
 ||vedhalmin.com^
 ||vegetation67.com^
 ||vegmiedd.com^
@@ -36780,6 +36786,7 @@ zzzyk.com###Tinfo
 ||zaiceyjjqq.com^
 ||zailet.com^
 ||zaiyuanyqq.com^
+||zakahbldr.com^
 ||zalwlz.icu^
 ||zamiasfinable.com^
 ||zanghaihua.org/js/
