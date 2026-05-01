@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-01 03:10:42(GMT+8)
-! Total count: 37314
+! Version: 2026-05-01 10:32:37(GMT+8)
+! Total count: 37319
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -19271,6 +19271,7 @@ zzzyk.com###Tinfo
 ||3hads4i5hm.com^
 ||3hfmrv8d45.com^
 ||3hg6yh6h0.com^
+||3hx1ui2vt.com^
 ||3i2i.com^
 ||3i3w8hl6do.com^
 ||3ikcnjvsx.com^
@@ -30168,6 +30169,7 @@ zzzyk.com###Tinfo
 ||neterbarit.com^
 ||netflavns1.com/assets/jquery/app0.
 ||neuralstemcell.com.cn/img/js.js
+||neurologist19.com^
 ||nevercoll.com^
 ||nevfbf.icu^
 ||nevtrelathgd.com^
@@ -34214,6 +34216,7 @@ zzzyk.com###Tinfo
 ||tvfree2.me/pub/
 ||tvfvxr.icu^
 ||tvgkatu.icu^
+||tvj8lylgv.com^
 ||tvlmzx.icu^
 ||tvqagropu.com^
 ||tvqmgheb.com^
@@ -35868,6 +35871,7 @@ zzzyk.com###Tinfo
 ||xhpghv.xyz^
 ||xhqgymmb.com^
 ||xhr7cqlob.com^
+||xhtkm35sw.com^
 ||xhymsq.com/data/attachment/portal/
 ||xhzmjs.com^
 ||xiacaidd.com/xiacai/ad/
@@ -36769,6 +36773,7 @@ zzzyk.com###Tinfo
 ||zaiceyjjqq.com^
 ||zailet.com^
 ||zaiyuanyqq.com^
+||zalwlz.icu^
 ||zamiasfinable.com^
 ||zanghaihua.org/js/
 ||zangraikri.com^
