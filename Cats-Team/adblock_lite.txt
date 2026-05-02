@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-02 17:35:22(GMT+8)
-! Total count: 37340
+! Version: 2026-05-02 20:57:05(GMT+8)
+! Total count: 37348
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -1634,6 +1634,7 @@
 ##div.mobile > div.content IMG[src*='.gif']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
 ##div.my-ad > a
+##div.page-d.page-turn > [style='position: relative; margin: auto; clear: both; width: 300px;']
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
@@ -18756,6 +18757,7 @@ zzzyk.com###Tinfo
 ||13txt.net/js/ssgdd.
 ||141.105.69.88/eticilbup/$image,subdocument,script
 ||141h.com/data/attachment/noblock/cf/
+||148a0hqnen.com^
 ||14pbmfzci.com^
 ||154.22.214.2^
 ||154.7.80.158^
@@ -19141,6 +19143,7 @@ zzzyk.com###Tinfo
 ||315che.com/tree/ad.js
 ||31fq.com^$3p
 ||31io8wshq.com^
+||31pjnw0wff.com^
 ||31vcd.com^*.js
 ||32.huanqiu.com^
 ||321.jintang114.org^
@@ -22614,6 +22617,7 @@ zzzyk.com###Tinfo
 ||cbjg.cqnews.net^
 ||cbjs.baidu.com^
 ||cbo9vo98i.com^
+||cboufsrelp.com^
 ||cbsi.com.cn/js/mlt.js
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 ||cc-316.cc^
@@ -34107,6 +34111,7 @@ zzzyk.com###Tinfo
 ||trenhdg.com^$3p
 ||trerqekuw.com^
 ||trfmxf.xyz^
+||trgp7pddid.com^
 ||trigminp.com^
 ||trikahrta.com^
 ||tringrod.com^
@@ -35826,6 +35831,7 @@ zzzyk.com###Tinfo
 ||xdea.cn^
 ||xdf.cn/v4/js/leyus/
 ||xdh0808.com^$popup
+||xdhrvr.icu^
 ||xdlipr.icu^
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
@@ -36724,6 +36730,7 @@ zzzyk.com###Tinfo
 ||yydsxs.com/js/cnzzpiao.
 ||yydsxs.com/js/guding.
 ||yyefao.com^
+||yyenb.cn^
 ||yyetss.com/static/modal.js
 ||yyhbt.cn^
 ||yylady.cn^
@@ -37096,6 +37103,7 @@ zzzyk.com###Tinfo
 ||zj-yxw.com^
 ||zj7coeb5i.com^
 ||zj9puq8ycu.com^
+||zjflf9epfe.com^
 ||zjg.js.cn/Public/config/Couplet/Index4
 ||zjgfq.com^$3p
 ||zjjbtl.com^
