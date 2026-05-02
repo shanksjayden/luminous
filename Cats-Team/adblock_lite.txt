@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-02 03:03:02(GMT+8)
-! Total count: 37333
+! Version: 2026-05-02 10:08:51(GMT+8)
+! Total count: 37340
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -1568,6 +1568,7 @@
 ##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
 ##body#wrapper A[ontouchstart='this.click();']
 ##body.__amp.amp-mode-touch > #interstitial_fade
+##body.__amp.amp-mode-touch IFRAME[frameborder='0'][framespacing='0']
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
 ##body.chapter > div.container div.slide-baidu *
@@ -21108,6 +21109,7 @@ zzzyk.com###Tinfo
 ||ao5yygeilh.com^
 ||aoao11241iis.top^
 ||aobuygo.com^
+||aoc-p2.shop^
 ||aoji.cn/default/looyu/
 ||aoji.cn/static/js/pushadv.js
 ||aoji.cn/static/js/yiliao/ad_common.js
@@ -24548,6 +24550,7 @@ zzzyk.com###Tinfo
 ||ed2000k.com/ad/
 ||edenizemortary.com^
 ||edethrelhf.com^
+||edg-n2.top^
 ||edgelib.net^
 ||edmfizohztab.com^
 ||edmontonchina.*/pic/
@@ -30236,6 +30239,7 @@ zzzyk.com###Tinfo
 ||ng8f.top^
 ||ngabq7df9.com^
 ||ngbthf.xyz^
+||ngd2rf6mqe.com^
 ||ngdrld.icu^
 ||ngfkrduait.com^
 ||nghdp.cn^
@@ -30568,6 +30572,7 @@ zzzyk.com###Tinfo
 ||obmphi.xyz^
 ||obscenesidewalk.com^$third-party
 ||observantice.com^$third-party
+||obstetrician36.com^
 ||obv3epx22d.com^
 ||oceanbot-steam.com^
 ||ocmr.cn^
@@ -30914,6 +30919,7 @@ zzzyk.com###Tinfo
 ||p66jed4iv.com^
 ||p70y44odg.com^
 ||p74ugyuur.com^
+||p78vz5tcho.com^
 ||p7d3miyh2q.com^
 ||p7jroq6xco.com^
 ||p8u.hinet.net^
@@ -32204,6 +32210,7 @@ zzzyk.com###Tinfo
 ||ringsrecord.com^$third-party
 ||rinshy17.xyz^
 ||rio9s1zdpd.com^
+||riptgxsype.com^
 ||riqmqrd.icu^
 ||rir8h6qxk.com^
 ||rising.cn/js/haoAdData.js
