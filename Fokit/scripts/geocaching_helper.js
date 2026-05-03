@@ -19,6 +19,7 @@
  *          2026-04-21 增加 Adventure Lab 翻译功能
  *          2026-04-26 增加 Adventure Lab 坐标转换
  *          2026-05-01 优化翻译逻辑，增加翻译失败回退机制
+ *          2026-05-02 增加新发布 cache 上线提醒功能
 /*
 --------------- BoxJS & 重写模块 --------------
 
@@ -95,6 +96,7 @@ const translateFrom = $.getdata('BAIDU_TRANSLATE_FROM_KEY') || 'en';  // 原始�
 const translateTo = $.getdata('BAIDU_TRANSLATE_TO_KEY') || 'zh';  // 目标语言
 const geocaching_translate = $.getdata('geocaching_translate') || 'false';  // 翻译功能开关
 const geocaching_gps_fix = $.getdata('geocaching_gps_fix') || 'true';  // 坐标转换开关
+const newCache = JSON.parse($.getdata('geocaching_newCache') || '[]');  // 读取新发布的 cache 编码列表
 const GPS = gps_convert();
 let body = JSON.parse($response.body);
 $.gc_code = /geocaches\/(\w{7})/.exec($request.url)?.[1] || '';
@@ -106,6 +108,9 @@ $.is_debug = ($.isNode() ? process.env.IS_DEDUG : $.getdata('is_debug')) || 'fal
   if (!$request) throw new Error('❌ 非 cron 类脚本，不支持手动运行');
   if (/map\/search\?adventuresTake/.test($request.url)) {
     let gps_convert_num = 0;
+    // 7天前的时间戳
+    const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+
     // 坐标转换
     if (geocaching_gps_fix == 'false') throw new Error('⚠️ 未启用转换坐标功能');
     $.log("🔁 开始转换坐标");
@@ -120,21 +125,37 @@ $.is_debug = ($.isNode() ? process.env.IS_DEDUG : $.getdata('is_debug')) || 'fal
       item.postedCoordinates = convertCoordinates(item.postedCoordinates);
       gps_convert_num += 1;  // 坐标转换数量 +1
 
-      // 如果缓存数量超过 80 则清理掉最早的 30 条，避免缓存过大导致性能问题
-      if (Object.keys($.cache).length > 80) {
-        const keys = Object.keys($.cache);
-        for (let i = 0; i < 30; i++) {
-          delete $.cache[keys[i]];
-        }
-      };
-
       // 判断 difficulty 和 terrain 等级以写入缓存
       if (item?.difficulty >= 2.0 || item?.terrain >= 2.5) {
         $.cache[item.referenceCode] = item;
       }
+
+      // 如果是最近 7 天发布的 cache 则发送通知
+      const placedDate = new Date(item.placedDate);
+      const openUrl = `https://coord.info/${item.referenceCode}`;
+      if (placedDate >= sevenDaysAgo && !newCache.includes(item.referenceCode)) {
+        $.msg(`缓存: ${item.name} 🆕`, ``, `编码: ${item.referenceCode}\n时间: ${item.placedDate.split('T')[0]}`, { $open: openUrl });
+        newCache.push(item.referenceCode);  // 记录新发布的 cache 编码
+      }
     });
     $.log(`✅ 坐标转换完成, 修正定位 ${gps_convert_num} 个`);
     $.setjson($.cache, 'geocaching_temp'); // 写入新的缓存信息
+    // 如果缓存数量超过 300 则清理掉最早的 50 条，避免缓存过大导致性能问题
+    if (Object.keys($.cache).length > 300) {
+      const keys = Object.keys($.cache);
+      for (let i = 0; i < 50; i++) {
+        delete $.cache[keys[i]];
+      }
+    };
+
+    $.setjson(newCache, 'geocaching_newCache'); // 把 newCache 列表写入缓存，判断是否为新发布的 cache
+    // 每隔10天清理一次 newCache 缓存
+    const lastCleanTime = $.getdata('geocaching_newCache_lastClean') || 0;
+    if (Date.now() - lastCleanTime > 10 * 24 * 60 * 60 * 1000) {
+      $.setjson([], 'geocaching_newCache');
+      $.setdata($.toStr(Date.now()), 'geocaching_newCache_lastClean');
+      $.log(`🧹 已清理 newCache 缓存`)
+    };
   } else if (/geocaches\/GC[A-Z0-9]{5}\/geocachelogs\?skip/.test($request.url)) {
     // 翻译 logs
     await translate_logs();
@@ -181,7 +202,7 @@ $.is_debug = ($.isNode() ? process.env.IS_DEDUG : $.getdata('is_debug')) || 'fal
     // 构造 cache body
     $.log(`🔧 开始构造 body`);
     const { hints, longDescription } = await get_cache_info('https://www.geocaching.com/geocache/' + $.gc_code);  // 从 web 页面获取 hints & longDescription
-    const { referenceCode, name, difficulty, terrain, ianaTimezoneId, favoritePoints, trackableCount, placedDate, owner, dateLastVisited, typeId, containerTypeId, state, postedCoordinates } = $.cache[$.gc_code];
+    const { referenceCode, name, difficulty, terrain, ianaTimezoneId, favoritePoints, trackableCount, placedDate, owner, dateLastVisited, typeId, containerTypeId, state, postedCoordinates, callerSpecific } = $.cache[$.gc_code];
     // debug($.cache[$.gc_code], '读取缓存')
     body = {
       referenceCode,
@@ -200,7 +221,7 @@ $.is_debug = ($.isNode() ? process.env.IS_DEDUG : $.getdata('is_debug')) || 'fal
       "attributes": [{ "id": 13, "name": "Available 24/7", "isApplicable": true }],
       "type": { "id": typeId },
       "containerType": { "id": containerTypeId },
-      "callerSpecific": { "favorited": false, "isUnlocked": true },
+      callerSpecific,
       "owner": {
         "code": owner.referenceCode,
         "userName": owner.username,
@@ -273,7 +294,7 @@ $.is_debug = ($.isNode() ? process.env.IS_DEDUG : $.getdata('is_debug')) || 'fal
       $.msg($.name, '', $.notifyMsg.join('\n'));
     }
     // 返回修改后的 body
-    debug(body, "body");
+    // debug(body, "body");
     $.done({ status: 'HTTP/1.1 200', body: JSON.stringify(body) });
   })
 
@@ -335,24 +356,24 @@ async function translate_cache() {
       .map(s => s.trim())
       .filter(s => s);
     // 解析并赋值
-    if (translatedArr.length >= 2) {
-      let _name = translatedArr[0];
-      let _hints = translatedArr[1];
-      let _longDescription = translatedArr[2] || '';
-      // 如果缓存中已经有 name 则不修改 name 字段，避免出现嵌套翻译的情况
-      if ($.cache[$.gc_code]?.name) {
-        body.name = $.cache[$.gc_code].name;
-      } else {
-        body.name = _name + ` · ` + name;
-      }
-      if (_hints !== hints) body.hints = _hints + `\n--------------------------\n` + hints;
-      if (!skipLongDesc && _longDescription !== longDescription) {
-        body.longDescription = _longDescription + `\n--------------------------------------------------\r\n ` + longDescription;
-      } else {
-        $.log(`⚠️ longDescription 过长, 跳过翻译`);
-      }
-      $.log("✅ cache 翻译完成");
+    const [_name, _hints, _longDescription] = translatedArr.length >= 3
+      ? translatedArr
+      : [translatedArr[0], '', translatedArr[1] || ''];
+
+    // 如果缓存中已经有 name 则不修改 name 字段，避免出现嵌套翻译的情况
+    if ($.cache[$.gc_code]?.name) {
+      body.name = $.cache[$.gc_code].name;
+    } else {
+      body.name = _name + ` · ` + name;
     }
+    if (_hints !== hints) body.hints = _hints + `\n--------------------------\n` + hints;
+    if (!skipLongDesc && _longDescription !== longDescription) {
+      body.longDescription = _longDescription + `\n--------------------------------------------------\r\n ` + longDescription;
+    } else {
+      $.log(`⚠️ longDescription 过长, 跳过翻译`);
+    }
+    $.log("✅ cache 翻译完成");
+
     // 把 cache 的信息缓存下来，用作通知调用
     if (!$.cache[$.gc_code]) $.cache[$.gc_code] = {};
     $.cache[$.gc_code].name = body.name;
