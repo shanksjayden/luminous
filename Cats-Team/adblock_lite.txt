@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-03 10:24:13(GMT+8)
-! Total count: 37357
+! Version: 2026-05-03 15:53:21(GMT+8)
+! Total count: 37358
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -2944,6 +2944,7 @@ $websocket,domain=wap.yushuwu.cloud
 /pcswf/pcswf.js
 /pd2.js$3p
 /pge/?s=$3p
+/phoenix-share/js/code.123.bg.
 /piaofu.js
 /pic.jsp?uid=$script,3p
 /pic/ad/*
