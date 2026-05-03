@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-03 02:50:16(GMT+8)
-! Total count: 37348
+! Version: 2026-05-03 10:24:13(GMT+8)
+! Total count: 37357
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -3483,6 +3483,8 @@ $websocket,domain=wap.yushuwu.cloud
 12306.cn##li.menu-item:nth-of-type(3) > .menu-hd
 12306.cn,club.pchome.net,qinbing.cn###slideBox
 12377.cn###notice
+123865.com##+js(no-window-open-if)
+123865.com##.bg_svip_block_ads
 123movies-official.net,1film.to,actvid.com,animefrenzy.net,apkmody.io,atomohd.app,atomtt.com,cineb.*,d123movies.to,dsvplay.com,f2movies.to,fc2stream.tv,filmlinks4u.online,flemmix.*,gogoanime.*,goyabu.com,hdtoday.*,hdtodayz.*,hentai20.com,kimcartoon.*,kisstvshow.to,lalamanga.com,mangadna.com,mangahere.onl,manganato.com,manhwax.com,mdfx9dc8n.net,movies123.sbs,movies123.studio,moviesjoy.*,oneupload.*,prmovies.*,readmanganato.com,soap2day.*,socialmediagirls.com,solarmovie.*,supremejav.com,tinyzonetv.to,tipfly.xyz,turbovidhls.com,udvl.com,upload4earn.org,uploadbyte.com,ups2up.*,vidbem.com,watchseries.*,wiflix-max.site,wiflix.*,yomovies1.online,yts-official.*,yts.*,zoechip.*#$#abort-on-property-read localStorage;
 123moviesgo.*#$#abort-on-property-write atAsyncContainers; abort-current-inline-script Math /break|case/
 123pan.com##.advBanner
@@ -19887,6 +19889,7 @@ zzzyk.com###Tinfo
 ||7dgk5h1lk.com^
 ||7dh26aja.com^
 ||7dqjgdk.com^
+||7g761j2nc.com^
 ||7hgw85qugx.com^
 ||7imz0d5nay.com^
 ||7j4tpio.com^
@@ -22786,7 +22789,7 @@ zzzyk.com###Tinfo
 ||cgyx.tv^
 ||ch17axocue.top^
 ||chabadokor.com^
-||chachefa.com/asdfasdfqwer/
+||chachefa.com^*.js?v=
 ||chademocharge.com^$third-party
 ||chahua.org/aimg/
 ||chaireggnog.com^$third-party
@@ -24288,6 +24291,7 @@ zzzyk.com###Tinfo
 ||dt243100.com^
 ||dtauda3232.top^
 ||dtckvpc.cn^
+||dtdjhb.icu^
 ||dtfyhdghsd.online^
 ||dtindrofe.com^
 ||dtjal7b1f.com^
@@ -25842,6 +25846,7 @@ zzzyk.com###Tinfo
 ||ghostgenie.com^$third-party
 ||ghovvadv.com^
 ||ghsnhjk.cn^
+||ght2bvin1.com^
 ||ghurrytacoma.com^
 ||ghwmbue.icu^
 ||gianthypes.com^$third-party
@@ -29001,6 +29006,7 @@ zzzyk.com###Tinfo
 ||lknnbd.xyz^
 ||lkpjbr.icu^
 ||lkpmprksau.com^
+||lkpseyc3d.com^
 ||lkthfpii.xyz^
 ||lkwj.cn^
 ||ll.gxsky.com^
@@ -33296,6 +33302,7 @@ zzzyk.com###Tinfo
 ||static.bro.adca.st/ad*.html$subdocument
 ||static.cdnativepush.com^
 ||static.chinatimes.com/scripts/2019/ad2019.min.js
+||static.dhsz.cn^$image,domain=123865.com
 ||static.doyouhike.net/partner/
 ||static.dragcave.net/cache/js/a/$script
 ||static.game-state.com/images/main/alert/replacement/
@@ -34001,6 +34008,7 @@ zzzyk.com###Tinfo
 ||toastspinner.com^
 ||tobapplog.ctobsnssdk.com^
 ||toblog.ctobsnssdk.com^
+||tocologist44.top^
 ||tocr.cn^
 ||todayapp.tv^$popup,3p
 ||togaefaffy.com^
@@ -34531,6 +34539,7 @@ zzzyk.com###Tinfo
 ||umdc.aliapp.org^
 ||umeng.com^
 ||umengcloud.com^
+||umini.shujupie.com^
 ||umkezbh.cn^
 ||umqigvethe.com^
 ||umrr.cn^
