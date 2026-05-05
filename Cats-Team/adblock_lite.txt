@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-05 03:20:27(GMT+8)
-! Total count: 37385
+! Version: 2026-05-05 10:11:57(GMT+8)
+! Total count: 37393
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -23238,6 +23238,7 @@ zzzyk.com###Tinfo
 ||compiledoctor.com^$third-party
 ||compoerhayz.com^
 ||compose99.com^
+||compress33.top^
 ||compteur-visite.com^$third-party
 ||comptoir-hardware.com/edi/edi7_lb.php$subdocument
 ||comptoir-hardware.com/edi/edi7_sk.htm$subdocument
@@ -24534,6 +24535,7 @@ zzzyk.com###Tinfo
 ||eaygjik.icu^
 ||eaylmi.icu^
 ||ebcf.cn^
+||ebgock7kz.com^
 ||ebhaliragd.com^
 ||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/netother/sy2013.ashx?type=quanping
@@ -25028,6 +25030,7 @@ zzzyk.com###Tinfo
 ||fadechildren.com^$third-party
 ||fadedsnow.com^$third-party
 ||fadjqqe.top^
+||fadrvppkhuhdhs.com^
 ||fads315.com^
 ||faggotyarterin.com^
 ||fagmiethe.com^
@@ -29350,6 +29353,7 @@ zzzyk.com###Tinfo
 ||m.pmtong.shop^
 ||m.q1xs.com/17mb/script/wap.js
 ||m.qhxcdmfj.cn^$3p
+||m.qishuba.com/jump/
 ||m.qiushuzw.com/9CB0D8A5/2dfc69b0d8a5.js
 ||m.s.tpcdn.top^
 ||m.shushu8.com/js/tongji.js?
@@ -31085,6 +31089,7 @@ zzzyk.com###Tinfo
 ||pdhwzl.icu^
 ||pdiabbi.cn^
 ||pdjjrh.xyz^
+||pdjxoscm7.com^
 ||pdrerzug.com^
 ||pdrtcgfx.cn^
 ||pdrv.cn^
@@ -34693,6 +34698,7 @@ zzzyk.com###Tinfo
 ||uspauline.com^
 ||uspe4j25v6.com^
 ||usphfiona.com^
+||usqok.cn^
 ||usrpubtrk.com^
 ||usrzh.cn^
 ||ussxvwu.online^
@@ -36203,6 +36209,7 @@ zzzyk.com###Tinfo
 ||xtnwxhjv.xyz^
 ||xtpwfb.xyz^
 ||xtxbemp.xyz^
+||xu919zz2i.com^
 ||xuan5.com^$third-party
 ||xuanyaosp.com^
 ||xudgjz.xyz^
@@ -37187,6 +37194,7 @@ zzzyk.com###Tinfo
 ||zmk852tp7.com^
 ||zmkp6jvq4.com^
 ||zmrkxz.icu^
+||zmvwfd.icu^
 ||zn46.com/images/*0x
 ||znchw.com^
 ||zndsssp.dangbei.net^
