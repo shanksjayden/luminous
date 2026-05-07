@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-07 03:28:28(GMT+8)
-! Total count: 37453
+! Version: 2026-05-07 10:24:10(GMT+8)
+! Total count: 37458
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -7976,14 +7976,12 @@ bimibimi.cc##[src^='https://dd-static.jd.com']
 binbox.io#@#.banner-ad
 bing.com###BottomAppPro
 bing.com###TopApp
-bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
+bing.com###b_results > li:has(.b_adProvider)
 bing.com###bingBrand
 bing.com###id_mobile
 bing.com##.OpInNwWndw
 bing.com##.b_algo:has(.ad_esltitle)
 bing.com##.b_algo:has(.b_ads1line)
-bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
-bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com##.sb_form_placeholder:has(>.ad-ghost-slug)
 bing.com##li[class="b_algo"]:has(.b_attribution[data-partnertag]+p[class])
 bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
@@ -8004,6 +8002,7 @@ bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##li.b_ad
 bing.com,cn.bing.net##li:has(a[h$=",Ads"])
+bing.com,~www.bing.com##.b_algo:has(p[style="display: none !important;"])
 bingdou.com.cn,hoteastday.com##.float_ad
 bingespree.net#$#abort-current-inline-script document.write atob
 bingfeng.tw###adbt
@@ -8661,7 +8660,6 @@ cmmonitor.com#@#.adsbygoogle
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
-cn.bing.com###b_results > li:has(.b_adProvider)
 cn.bing.com##.b_bza_pole
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
@@ -19672,6 +19670,7 @@ zzzyk.com###Tinfo
 ||5imx.com/image/image/
 ||5ips.net/love/
 ||5j45n3f6r.com^
+||5k1cyldc9.com^
 ||5kmp7.top^
 ||5kmqy60r7.com^
 ||5lf5cujc5.com^
@@ -20267,6 +20266,7 @@ zzzyk.com###Tinfo
 ||9tata.com/js/www.js
 ||9tour.cn/x2/images/czmf.jpg
 ||9txnu9rlmd.com^
+||9v7sbm9zc.com^
 ||9vmbje748.com^
 ||9vviyje1s.top^
 ||9wcn.com/gcld/500.gif
@@ -21984,6 +21984,7 @@ zzzyk.com###Tinfo
 ||bgf05291lko.com^
 ||bgjylr.icu^
 ||bgrukidu.com^
+||bgverrhitahtfy.com^
 ||bh0874.online^
 ||bhaabom.cn^
 ||bhaldailm.com^
@@ -24317,6 +24318,7 @@ zzzyk.com###Tinfo
 ||dreamsdome.com^$third-party
 ||drebz4f.shop^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
+||dressing27.top^
 ||drfvtgbyk.xyz^
 ||drgakaelgp.com^
 ||driftingchef.com^$third-party
@@ -30507,6 +30509,7 @@ zzzyk.com###Tinfo
 ||nphqw.cn^
 ||nplaf.com^
 ||nplvdodbja.com^
+||npunr.cn^
 ||npvcfn.icu^
 ||npzc1yzag7.com^
 ||nq49x3m8g.com^
@@ -31489,6 +31492,7 @@ zzzyk.com###Tinfo
 ||probablepartner.com^$third-party
 ||procdn.asia^
 ||proceduresto3.net^
+||proceedings33.top^
 ||processplantation.com^$third-party
 ||prodigalpromotion.com^
 ||proewildfire.cn/fd.js
@@ -36257,6 +36261,7 @@ zzzyk.com###Tinfo
 ||xsjh001.xyz^
 ||xslca.cc/js/pf.js
 ||xsrezl.icu^
+||xssncc2tv.com^
 ||xstt5.com/skin/v3/js/dibu.js
 ||xstt5.com/template/js/fx
 ||xsvyvr.top^
