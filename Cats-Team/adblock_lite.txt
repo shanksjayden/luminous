@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-08 03:29:17(GMT+8)
-! Total count: 37476
+! Version: 2026-05-08 10:31:46(GMT+8)
+! Total count: 37482
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -22070,6 +22070,7 @@ zzzyk.com###Tinfo
 ||birjkhm.cn^
 ||birthdaybelief.com^$third-party
 ||bis8j.com^
+||bistoury55.com^
 ||bitauto.com/bglog.gif?
 ||bitauto.com/js/sense*.js
 ||bitcoin25.com/js/scroll1.js$script
@@ -25001,6 +25002,7 @@ zzzyk.com###Tinfo
 ||executeknowledge.com^$third-party
 ||executors601.net^
 ||exevcl.cn^
+||exhibits86.com^
 ||exhibitsneeze.com^$third-party
 ||exinariuminix.info^
 ||existences2.top^
@@ -27117,6 +27119,7 @@ zzzyk.com###Tinfo
 ||hwivedn.icu^
 ||hwnod.xyz^
 ||hwpvhilkuth.com^
+||hwrzdbokzdttry.com^
 ||hwwzqi.cn^
 ||hxbt.alading123.com^
 ||hxdwsfg.cn^
@@ -31886,6 +31889,7 @@ zzzyk.com###Tinfo
 ||qnwuamy.top^
 ||qnwucny.top^
 ||qnywjs.buzz^
+||qnywsrc.buzz^
 ||qoilbsfwqd.net^
 ||qonkdwwf.net^
 ||qoqg.cn^
@@ -33712,6 +33716,7 @@ zzzyk.com###Tinfo
 ||ta.trs.cn^$third-party
 ||ta20k.xyz^
 ||ta7088hrd.com^
+||ta7tfk0o2h.com^
 ||tableland06.top^
 ||taboola.com^$domain=spaste.com
 ||tabretwicht.com^
@@ -36147,6 +36152,7 @@ zzzyk.com###Tinfo
 ||xkqit.com^
 ||xktoy8fub.com^
 ||xkum.cn^
+||xkverkik38.com^
 ||xkyn.com/imgs/js/al.js
 ||xkyn.com/imgs/js/xx.js
 ||xkzjq.cn^
