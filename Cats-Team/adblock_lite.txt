@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-09 15:48:22(GMT+8)
-! Total count: 37492
+! Version: 2026-05-09 21:02:57(GMT+8)
+! Total count: 37497
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -26431,6 +26431,7 @@ zzzyk.com###Tinfo
 ||h6fh0e4hg.com^
 ||h731.icu^
 ||h78xb.pw^$third-party
+||h7ima6w5k.com^
 ||h8cjr6nhm.com^
 ||h9806gjhz.com^
 ||habitualhumor.com^$third-party
@@ -26587,6 +26588,7 @@ zzzyk.com###Tinfo
 ||hcbmg.cn^
 ||hcbmq.cn^
 ||hcdjy.xyz^
+||hcf5yqdq3.com^
 ||hciea.xyz^
 ||hcirentgh.360doc.cn^
 ||hcjs.nv7s.com/xif*/*.js$domain=hclips.com
@@ -27814,6 +27816,7 @@ zzzyk.com###Tinfo
 ||iyxdm.*/js/gad_
 ||iyxh.cn^
 ||izgl.cn^
+||izkgl35mq.com^
 ||izopsg.icu^
 ||iztwp.com/images/
 ||izzodzmuu.com^
@@ -33064,6 +33067,7 @@ zzzyk.com###Tinfo
 ||siodgs.icu^
 ||sioq.cn^
 ||siqc.cn^
+||sirsplajp.com^
 ||site-bk.oss-cn-shenzhen.aliyuncs.com/img/aliyun/
 ||site-config.com^$third-party
 ||siteunder.unclejeans.com^$popup,domain=referencemega.com
@@ -37441,6 +37445,7 @@ zzzyk.com###Tinfo
 ||zygkzytb.cn^
 ||zygousgauby.com^
 ||zygscl.cn^
+||zyifk.cn^
 ||zykwnj.cn^
 ||zymakzaeddla.com^
 ||zypzzv.xyz^
