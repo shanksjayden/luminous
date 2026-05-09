@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-09 10:24:33(GMT+8)
-! Total count: 37488
+! Version: 2026-05-09 15:48:22(GMT+8)
+! Total count: 37492
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -18601,6 +18601,7 @@ zzzyk.com###Tinfo
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
 ||0d1oo8jp69.com^
+||0dy3evz6x.com^
 ||0e1y8x7ft.com^
 ||0e7mnbmbb.com^
 ||0e9knynfb.com^
@@ -24977,6 +24978,7 @@ zzzyk.com###Tinfo
 ||eventsmall.com^$third-party
 ||everydaycarry.com^$popup
 ||everyonepiano.cn/Public/*0x
+||evidence20.com^
 ||evidhjksdtgyxrh.xyz^
 ||evkc.cn^
 ||evpxl9a8h.com^
@@ -29010,6 +29012,7 @@ zzzyk.com###Tinfo
 ||liftedknowledge.com^$third-party
 ||liftjoinant.com^
 ||lifyeldl.top^
+||ligature73.top^
 ||ligninkeftiu.com^
 ||lihatt.icu^
 ||lihong.ltd^
@@ -36454,6 +36457,7 @@ zzzyk.com###Tinfo
 ||yao7392.xyz^
 ||yaodaipeishi.cn^
 ||yaojingweiba.com/inc/
+||yaokanwx.com/tongji/
 ||yaolan.com/ylk.mini.js
 ||yaomuzhubao.com^
 ||yaoyl.com/js/ds.js
