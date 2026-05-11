@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-11 22:35:50(GMT+8)
-! Total count: 37533
+! Version: 2026-05-12 03:39:48(GMT+8)
+! Total count: 37534
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -3514,7 +3514,7 @@ $websocket,domain=wap.yushuwu.cloud
 1337x.*#$#abort-on-property-write window.onload false
 1337x.*,himovies.*,komikav.com,limetorrents.lol,manhuascan.com,moviesda1.com,moviesjoy.*,realgfporn.com,soap2day.*,strikeout.cc,sxyprn.*,theflixertv.*,thepiratebay10.xyz#$#abort-current-inline-script document.createElement script
 137.175.73.220##a[target="_blank"][rel="nofollow"] > img
-1377x.*,1flix.*,bigclatterhomesguideservice.com,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
+1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
 13tv.top,freehao123.com##.box
 13tv.top,sina.com##.aditem
 141hongkong.com###dialog
@@ -4968,7 +4968,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@|https://$image,domain=socketloop.com
 @@|https://$script,domain=sport1.de
 @@||$xmlhttprequest,domain=last.fm
-@@||*/abd.js^$domain=acouplecooks.com|amazingribs.com|amybakesbread.com|budgetbytes.com|disneydining.com|disneyfoodblog.com|downshiftology.com|halfbakedharvest.com|hot-thai-kitchen.com|justonecookbook.com|krollskorner.com|natashaskitchen.com|onceuponachef.com|recipetineats.com|sallysbakingaddiction.com|simply-delicious-food.com|skinnytaste.com|spendwithpennies.com|tastesbetterfromscratch.com|theloopywhisk.com|themediterraneandish.com|thewoksoflife.com|titlecaseconverter.com|whec.com
+@@||*/abd.js^$domain=acouplecooks.com|amazingribs.com|amybakesbread.com|budgetbytes.com|craftsbyamanda.com|disneydining.com|disneyfoodblog.com|downshiftology.com|halfbakedharvest.com|hot-thai-kitchen.com|justonecookbook.com|krollskorner.com|natashaskitchen.com|onceuponachef.com|recipetineats.com|sallysbakingaddiction.com|simply-delicious-food.com|skinnytaste.com|spendwithpennies.com|tastesbetterfromscratch.com|theloopywhisk.com|themediterraneandish.com|thewoksoflife.com|titlecaseconverter.com|whec.com
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -6926,8 +6926,8 @@ acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,jewelosco.com,pavilion
 acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,jewelosco.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com#$#hide-if-matches-xpath './/span[contains(text(),"Weekly ad")]/parent::div[contains(@class,"carousel")]/ancestor::div[@class="h-100"][1]/parent::div[@data-slick-index]';
 acomics.ru##div[style*="/design/common/pic/please"]
 acommunity.com.tw##.ai_widget
-acouplecooks.com,amazingribs.com,amybakesbread.com,budgetbytes.com,disneydining.com,disneyfoodblog.com,downshiftology.com,halfbakedharvest.com,hot-thai-kitchen.com,justonecookbook.com,krollskorner.com,natashaskitchen.com,onceuponachef.com,recipetineats.com,sallysbakingaddiction.com,simply-delicious-food.com,skinnytaste.com,spendwithpennies.com,tastesbetterfromscratch.com,theloopywhisk.com,themediterraneandish.com,thewoksoflife.com,titlecaseconverter.com,whec.com#$#abort-on-property-read Intl.DateTimeFormat false
-acouplecooks.com,amazingribs.com,amybakesbread.com,budgetbytes.com,disneydining.com,disneyfoodblog.com,downshiftology.com,halfbakedharvest.com,hot-thai-kitchen.com,justonecookbook.com,krollskorner.com,natashaskitchen.com,onceuponachef.com,recipetineats.com,sallysbakingaddiction.com,simply-delicious-food.com,skinnytaste.com,spendwithpennies.com,tastesbetterfromscratch.com,theloopywhisk.com,themediterraneandish.com,thewoksoflife.com,titlecaseconverter.com,whec.com#$#replace-xhr-response /[\s\S]*/ '' /pub_300x250/
+acouplecooks.com,amazingribs.com,amybakesbread.com,budgetbytes.com,craftsbyamanda.com,disneydining.com,disneyfoodblog.com,downshiftology.com,halfbakedharvest.com,hot-thai-kitchen.com,justonecookbook.com,krollskorner.com,natashaskitchen.com,onceuponachef.com,recipetineats.com,sallysbakingaddiction.com,simply-delicious-food.com,skinnytaste.com,spendwithpennies.com,tastesbetterfromscratch.com,theloopywhisk.com,themediterraneandish.com,thewoksoflife.com,titlecaseconverter.com,whec.com#$#abort-on-property-read Intl.DateTimeFormat false
+acouplecooks.com,amazingribs.com,amybakesbread.com,budgetbytes.com,craftsbyamanda.com,disneydining.com,disneyfoodblog.com,downshiftology.com,halfbakedharvest.com,hot-thai-kitchen.com,justonecookbook.com,krollskorner.com,natashaskitchen.com,onceuponachef.com,recipetineats.com,sallysbakingaddiction.com,simply-delicious-food.com,skinnytaste.com,spendwithpennies.com,tastesbetterfromscratch.com,theloopywhisk.com,themediterraneandish.com,thewoksoflife.com,titlecaseconverter.com,whec.com#$#replace-xhr-response /[\s\S]*/ '' /pub_300x250/
 actionz.tv,animetak.net,arabseed.*,beinconnect.*,brstej.com,coroot.blogspot.com,filmey.tv,kora-online.tv,ktarab.com,movs4u.*#$#abort-current-inline-script Math zfgloaded
 actionz.tv,cimaclub.com,cimaclub.in,elmstba.com,hawak.net,lodynet.*#$#abort-on-property-read decodeURIComponent
 actoys.net##.p_new_ad
@@ -19952,6 +19952,7 @@ zzzyk.com###Tinfo
 ||7g761j2nc.com^
 ||7hgw85qugx.com^
 ||7imz0d5nay.com^
+||7iwxojx1s.com^
 ||7j4tpio.com^
 ||7jf3kxi6bq.com^
 ||7jkzmbd.cn^
