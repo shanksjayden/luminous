@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-12 03:39:48(GMT+8)
-! Total count: 37534
+! Version: 2026-05-12 10:30:08(GMT+8)
+! Total count: 37539
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20244,6 +20244,7 @@ zzzyk.com###Tinfo
 ||9ck9umcyvt.com^
 ||9clasfdc3.com^
 ||9cwcu1574.com^
+||9dehzr5d2i.com^
 ||9dl3w12u5.com^
 ||9duw.com/js/sj
 ||9duw.com/pic/
@@ -24113,6 +24114,7 @@ zzzyk.com###Tinfo
 ||disturbedquiet.com^$third-party
 ||ditorialproce.biz^
 ||ditruntp.com^
+||divcb7ycs5.com^
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
 ||divehope.com^$third-party
@@ -29180,6 +29182,7 @@ zzzyk.com###Tinfo
 ||lm865.com^
 ||lm882.com^
 ||lm995.com^
+||lmhrchi.com^
 ||lmldxd.icu^
 ||lmlmvip.com^
 ||lmnpd.xyz^
@@ -33299,6 +33302,7 @@ zzzyk.com###Tinfo
 ||souka.me/ad/
 ||soulsoul.xyz^
 ||soulu365.com/images/zhuce.jpg
+||sounding72.com^
 ||soup.v.qq.com^
 ||sourdine34.com^
 ||southmoney.com/page/pc/
@@ -37394,6 +37398,7 @@ zzzyk.com###Tinfo
 ||zrblog.net/zanzhu/virpus.gif
 ||zrbnte.top^
 ||zrgbh6bm.icu^
+||zrjr81na94.com^
 ||zrljzgs.xyz^
 ||zrz0c0sh7e.com^
 ||zrzgsdocqm.com^
