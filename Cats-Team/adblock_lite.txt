@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-12 22:06:27(GMT+8)
-! Total count: 37557
+! Version: 2026-05-13 03:41:26(GMT+8)
+! Total count: 37558
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8253,6 +8253,7 @@ buzzorange.com##.sidebar > section#text-8[style*="bottom: 240px;"]:style(positio
 buzzorange.com##.sidebar > section[id^="text-"]:has(> .textwidget > .dfped)
 buzzorange.com##div[data-id="7c6b7b2"]
 bycard.by,goodfon.ru,old-games.ru,satsis.info,swordmaster.org##.adb
+bysebuho.com,398fitus.com#$#abort-current-inline-script EventTarget.prototype.addEventListener 'delete window'; abort-on-property-read open; timer-override setTimeout readyWait
 bytegoofy.com/goofy/*/push.js?
 bytzbiorowy.pl###stickymsg
 byxx.com##.byzwPC-banner-ADscroll
