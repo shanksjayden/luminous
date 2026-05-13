@@ -20,56 +20,33 @@ try {
   // 开启“翻译”按钮
   if (req_url.includes("/HomeTimeline") || req_url.includes("/TweetDetail")) {
     // 递归函数：寻找推文对象并开启翻译开关
-    const enableTranslate = (result) => {
-      if (!result) return;
+    // 深度递归修改函数
+    const processTweet = (node) => {
+      if (!node || typeof node !== 'object') return;
 
-      // 1. 处理标准的推文结果
-      let tweet = result.tweet || result;
-      if (tweet.__typename === "Tweet" || tweet.__typename === "TweetWithVisibilityResults") {
-        if (tweet.tweet) tweet = tweet.tweet; // 兼容嵌套结构
-        tweet.is_translatable = true; // 核心修改：强制开启翻译
+      // 1. 寻找推文主体（包含 __typename 且类型为 Tweet 的对象）
+      if (node.__typename === "Tweet" || node.__typename === "TweetWithVisibilityResults") {
+        let tweetData = node.tweet || node.result || node;
+
+        // 强制开启翻译开关
+        tweetData.is_translatable = true;
+
+        // 2. 修改 legacy 字段中的语种
+        // 提示：如果你的推文是中文，将其改为 "en" 才会触发浏览器的翻译按钮显示
+        if (tweetData.legacy?.lang !== "zh") {
+          tweetData.legacy.lang = "en";
+        }
       }
 
-      // 2. 处理转发 (Retweet)
-      if (tweet.legacy?.retweeted_status_result) {
-        enableTranslate(tweet.legacy.retweeted_status_result);
-      }
-
-      // 3. 处理引用推文 (Quote Tweet)
-      if (tweet.quoted_status_result) {
-        enableTranslate(tweet.quoted_status_result);
+      // 递归遍历所有属性（处理转发、引用、列表等）
+      for (let key in node) {
+        if (typeof node[key] === 'object') {
+          processTweet(node[key]);
+        }
       }
     };
 
-    // 遍历指令流
-    let instructions =
-      mod_rsp.data?.home?.home_timeline_urt?.instructions ||
-      mod_rsp.data?.threaded_conversation_with_injections_v2?.instructions;
-
-    if (instructions) {
-      console.log(`✅开启翻译按钮执行开始❗️`);
-      instructions.forEach((instruction) => {
-        if (instruction.entries) {
-          instruction.entries.forEach((entry) => {
-            // 处理普通信息流推文
-            let tweetResult = entry.content?.itemContent?.tweet_results?.result;
-            if (tweetResult) {
-              enableTranslate(tweetResult);
-            }
-
-            // 处理模块化推文 (例如详情页下的相关回复)
-            if (entry.content?.items) {
-              entry.content.items.forEach((item) => {
-                let itemTweetResult = item.item?.itemContent?.tweet_results?.result;
-                if (itemTweetResult) {
-                  enableTranslate(itemTweetResult);
-                }
-              });
-            }
-          });
-        }
-      });
-    }
+    processTweet(mod_rsp.data);
     console.log(`✅开启翻译按钮执行完成`);
   }
 
