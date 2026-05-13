@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-13 22:16:33(GMT+8)
-! Total count: 37574
+! Version: 2026-05-14 03:45:50(GMT+8)
+! Total count: 37582
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -3514,7 +3514,7 @@ $websocket,domain=wap.yushuwu.cloud
 1337x.*#$#abort-on-property-write window.onload false
 1337x.*,himovies.*,komikav.com,limetorrents.lol,manhuascan.com,moviesda1.com,moviesjoy.*,realgfporn.com,soap2day.*,strikeout.cc,sxyprn.*,theflixertv.*,thepiratebay10.xyz#$#abort-current-inline-script document.createElement script
 137.175.73.220##a[target="_blank"][rel="nofollow"] > img
-1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
+1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,minochinos.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
 13tv.top,freehao123.com##.box
 13tv.top,sina.com##.aditem
 141hongkong.com###dialog
@@ -12265,6 +12265,7 @@ javhd.shop#$#abort-current-inline-script document.addEventListener Click
 javhope.com###havhope
 javlibrary.com##+js(abort-current-script, document.write, /getCookie[\s\S]*?\("\\x/)
 javlibrary.com##.bannerqq
+javsek.net#$#abort-current-inline-script screen /shocked-failure/
 jb51.net###gaosu
 jb51.net##.gsdw
 jb51.net##.idc3
@@ -12669,6 +12670,7 @@ kimi.com##.download-app-btn
 kimi.com##.download-button
 kimi.moonshot.cn##.app-download
 kimo.ma##.adb
+kimochi.info#$#abort-current-inline-script decodeURI /,18,22/
 kingkong.com.tw##.public-activity
 kingkong.com.tw##.room-banner-wrap
 kinoafisha.ua##.turn-off-add-block-text
@@ -17974,6 +17976,7 @@ xxxtik.com###app-container
 xxxtik.com##app-popup
 xxxtik.com#$#abort-on-property-read decodeURI; abort-on-property-read fromCharCode;
 xydai.cn##.deanad4s
+xyg688.com##img[alt="广告"]
 xyj321.com##.foot_alert_wrap
 xyz:9002/*?x=$third-party
 xz.ccoo.cn##.index_banner
@@ -19167,6 +19170,7 @@ zzzyk.com###Tinfo
 ||2g9x9uf.cn^
 ||2h81gp.tkepyc.com^$script,xmlhttprequest,domain=pch.com
 ||2hiu.com^$3p
+||2hlcovn7n.com^
 ||2i0lliongn.com^
 ||2jse6.icu^
 ||2juyabihe.com^
@@ -21123,6 +21127,7 @@ zzzyk.com###Tinfo
 ||amung.us^
 ||amusedbucket.com^$third-party
 ||amusementt3.top^
+||amusingstablegills.com^
 ||amvecurt.cn^
 ||amwm.cn^
 ||amxwqv.com^
@@ -25435,6 +25440,7 @@ zzzyk.com###Tinfo
 ||flo.uri.sh/visualisation/14819166/embed?auto=$subdocument,domain=tw.news.yahoo.com
 ||floodprincipal.com^$third-party
 ||floozycity.com/ad/$popup
+||floppybyes.com^
 ||flossedmoiled.com^
 ||flourishingcollaboration.com^$third-party
 ||flourishingendeavor.com^$third-party
@@ -28860,6 +28866,7 @@ zzzyk.com###Tinfo
 ||l9moubljmc.com^
 ||l9qxrmda6.com^
 ||laawmmy.cn^
+||labrosehomburg.com^
 ||labuladong.github.io/algo/pictures/ad/
 ||ladepeche.fr/taffrail^
 ||lady177.com^$popup
@@ -31688,7 +31695,6 @@ zzzyk.com###Tinfo
 ||pvajlmhjjq.xyz^
 ||pvgcyyh.icu^
 ||pvhbhnqip.com^
-||pvixgcirbpcrm.com^
 ||pvkc.cn^
 ||pvtd.cn^
 ||pvtest.zol.com.cn^
@@ -32533,6 +32539,7 @@ zzzyk.com###Tinfo
 ||ruanyifeng.com/9he/
 ||rubrafoz.com^
 ||rucksack85.top^
+||ruderalweiring.com^
 ||rudhjah.top^
 ||rugao35.com/Public/config/Couplet/Index
 ||ruguoapp.com^$domain=aixiaoju.com
@@ -37037,6 +37044,7 @@ zzzyk.com###Tinfo
 ||zatnawqy.net/Webservices/jsParseLinks.aspx$script,third-party
 ||zatnawqy.net/visitScript/$script,third-party
 ||zaupjw.xyz^
+||zavatzxhi.in^
 ||zawqwpajq.club^
 ||zay7gs1xkl.com^
 ||zazgbqg*.xyz^
