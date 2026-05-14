@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-14 21:54:58(GMT+8)
-! Total count: 38639
+! Version: 2026-05-15 03:39:26(GMT+8)
+! Total count: 38643
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -3515,7 +3515,7 @@ $websocket,domain=wap.yushuwu.cloud
 1337x.*#$#abort-on-property-write window.onload false
 1337x.*,himovies.*,komikav.com,limetorrents.lol,manhuascan.com,moviesda1.com,moviesjoy.*,realgfporn.com,soap2day.*,strikeout.cc,sxyprn.*,theflixertv.*,thepiratebay10.xyz#$#abort-current-inline-script document.createElement script
 137.175.73.220##a[target="_blank"][rel="nofollow"] > img
-1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,minochinos.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
+1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,minochinos.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,putarvid.com,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
 13tv.top,freehao123.com##.box
 13tv.top,sina.com##.aditem
 141hongkong.com###dialog
@@ -6892,7 +6892,7 @@ abstream.to,advertape.*,bunkr.*,easyvidplayer.com,marissasharecareer.com,livecam
 abtranny.com#$#abort-current-inline-script document.createElement popunder_ssp_url; abort-current-inline-script document.createElement vast_url; override-property-read _834t32miib undefined
 abtranny.com#$#hide-if-matches-xpath './/*[text()="AD"]/parent::div[@*[starts-with(name(), "data-")]][@style]'; hide-if-matches-xpath './/button/following-sibling::*[text()="AD"]/ancestor::div[@*[starts-with(name(), "data-")]][1][.//a[contains(@class,"banner__") and contains(@style,"width: 100%")]]'
 abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com#$#abort-current-inline-script document.getElementById openPop
-abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com,www.bachnguyetquang.online#$#override-property-read open noopFunc
+abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com,www.bachnguyetquang.online,www.qmh.cat#$#override-property-read open noopFunc
 ac.qq.com###qgirlRefreshLead
 ac.qq.com##.in-hd-mod
 aces.gg#$#abort-current-inline-script $ window.open
@@ -12728,7 +12728,7 @@ kocpc.com.tw##ads
 koding.work##.sidebar > .widget_text:has(> .textwidget > .adsbygoogle)
 komentare.sme.sk###js-top-info-bar-wrapper
 komikcast.*#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
-komikdewasa.*#$#abort-on-property-write adsbyjuicy; override-property-read R undefined; prevent-listener click tampilkanUrl; abort-on-property-write window.open; hide-if-matches-xpath '//a[@target="_blank"]/img[contains(@class,"align")]/ancestor::div[starts-with(@class,"blox")]'; hide-if-matches-xpath '//a[@target="_blank"]/img[contains(@class,"align")]/ancestor-or-self::a[@href][1]'
+komikdewasa.*#$#override-property-read R undefined; prevent-listener click tampilkanUrl; abort-on-property-write window.open; hide-if-matches-xpath '//a[@target="_blank"]/img[contains(@class,"align")]/ancestor::div[starts-with(@class,"blox")]'; hide-if-matches-xpath '//a[@target="_blank"]/img[contains(@class,"align")]/ancestor-or-self::a[@href][1]'
 kongzhong.com###dn
 koolearn.com##.news_pf
 koolearn.com##.show_ad
@@ -15516,6 +15516,8 @@ rsload.net#$#abort-current-inline-script window.addEventListener load
 rtl.be##div[class="adm-ad-loading"]
 rtl.fr#@##bottomAd
 rtlxl.nl##.adblock
+ruangbokep.*#$#hide-if-matches-xpath '//*[@id="floatadsbawah"]/div/a[@id]/ancestor-or-self::div[@id][1]'
+ruangbokep.*,komikdewasa.*#$#abort-on-property-write adsbyjuicy;
 ruanjianxia.com###gaosu_downloads
 ruanyifeng.com###cre
 ruanyifeng.com###gd1
@@ -23010,6 +23012,7 @@ zzzyk.com###Tinfo
 ||changsha.cn/front_js/site_ad/4/site_ad_284.js
 ||changshuohr.net^
 ||changyangadvertising.com^
+||chankairportjuvite.cyou^
 ||channelcamp.com^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
 ||chaomi.cc/js/cms_
@@ -25188,6 +25191,7 @@ zzzyk.com###Tinfo
 ||ettoday.net/style/video-ad/
 ||ettoday.net^*/ad/
 ||etwzue.icu^
+||etymonstheine.shop^
 ||eucnwtw.top^
 ||euitx.cn^
 ||eujxqgh.cn^
