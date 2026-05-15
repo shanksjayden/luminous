@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-15 10:37:27(GMT+8)
-! Total count: 38648
+! Version: 2026-05-15 16:41:39(GMT+8)
+! Total count: 38658
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -10025,7 +10025,7 @@ fastadmin.net##a[href^="https://www.fastadmin.net/go/"]
 fastadmin.net##body > a[target="_blank"]
 fastconverter.net#$#abort-on-property-read afScript
 fastconverter.net#?#:xpath(//div[contains(@style,"fixed") and contains(@style,"z-index")]/ancestor-or-self::div[@style][1])
-fastpic.org,~new.fastpic.org#$#prevent-listener /click|load/ /exopop|popMagic|Math.floor/; prevent-listener DOMContentLoaded /0x|popMagic/; abort-on-property-read Element.prototype.attachShadow
+fastpic.org,~new.fastpic.org#$#prevent-listener /click|load/ /exopop|popMagic|preventDefault|Math.floor/; prevent-listener DOMContentLoaded /0x|popMagic/; abort-on-property-read Element.prototype.attachShadow
 faxingw.cn##.detailadv
 faxingw.cn##.detailgc
 faxingw.cn##.indadv1
@@ -21306,6 +21306,7 @@ zzzyk.com###Tinfo
 ||apk.qqvv88.com^
 ||apk.tw/static/js/showpic.js
 ||apmcx60sm5.com^
+||aporiaecabda.com^
 ||app-g.39.net/NNN/
 ||app-measurement.com^
 ||app.bugsnag.com^
@@ -23014,7 +23015,6 @@ zzzyk.com###Tinfo
 ||changsha.cn/front_js/site_ad/4/site_ad_284.js
 ||changshuohr.net^
 ||changyangadvertising.com^
-||chankairportjuvite.cyou^
 ||channelcamp.com^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
 ||chaomi.cc/js/cms_
@@ -23677,6 +23677,7 @@ zzzyk.com###Tinfo
 ||csgkj.com^
 ||csgola.com/Public/img/lala/1.jpg
 ||csjkb.com^
+||cskscenery.com^
 ||cslbahf.top^
 ||cslpf.cn^
 ||cspb1.5w5w.com^
@@ -24610,6 +24611,7 @@ zzzyk.com###Tinfo
 ||duboku.net/static/images/20201111
 ||duboku.net/static/images/yabo
 ||ducatflapper.com^
+||dudgeonideo.com^
 ||dufile.com/jsa/
 ||duier.top^
 ||duiwai.baidu.com^
@@ -25166,6 +25168,7 @@ zzzyk.com###Tinfo
 ||essayspin.com^
 ||estcruden.biz^
 ||estuary98.top^
+||esutamed.com^
 ||et3lc8yoe.com^
 ||etadult.com*/images/20
 ||etahub.com^
@@ -26919,6 +26922,7 @@ zzzyk.com###Tinfo
 ||hdc.maxli.cn^
 ||hdcast.info/adcompany.php$subdocument
 ||hdchina.*/styles/topshow/AD/
+||hdcvecyv8.com^
 ||hdfdsdaw.com^
 ||hdjthzg.cn^
 ||hdmoli.pro/a_d/
@@ -26980,6 +26984,7 @@ zzzyk.com###Tinfo
 ||heiye.cc/js/bf.js
 ||heiye.cc/js/hei
 ||heiye.cc/js/xuanfu.js
+||helcoiduncity.com^
 ||heliobedlamp.com^
 ||hello-jm.com/foot.js
 ||helloavgirls.com/public/hg/
@@ -27692,6 +27697,7 @@ zzzyk.com###Tinfo
 ||igao17.com/need/h5.js
 ||igetnaughty.com^
 ||igexin.com^
+||ignatiapaler.com^
 ||ignoresfahlerz.com^
 ||ignslkgs.com^
 ||ignulsniy.com^
@@ -28238,6 +28244,7 @@ zzzyk.com###Tinfo
 ||jads.co^$domain=avgle.com
 ||jadxs.org/themes/*/js/fixed.js
 ||jadxs.org/themes/*/js/test.js
+||jahvismresined.com^
 ||jailbulb.com^
 ||jaimbai2b1.com^
 ||jakid.xyz^
@@ -31309,6 +31316,7 @@ zzzyk.com###Tinfo
 ||offerniche.com^
 ||offerwall.yandex.net^
 ||offgridcrops.com^
+||officeklafter.com^
 ||offletsoroche.life^
 ||offshoreassets.com^
 ||offshorecyclone.com^
@@ -31741,6 +31749,7 @@ zzzyk.com###Tinfo
 ||partnership75.com^
 ||partplanes.com^
 ||passivepolo.com^
+||pastel-help.com^
 ||pastoralroad.com^
 ||patchstoopedconceited.com^
 ||patient15.top^
@@ -33408,6 +33417,7 @@ zzzyk.com###Tinfo
 ||sandbank56.com^
 ||sandbank68.com^
 ||sandboxbid.com^
+||sandboxto370.com^
 ||sandstrophies.com^
 ||sandypocket.com^
 ||sange20221226.xyz^
@@ -33418,6 +33428,7 @@ zzzyk.com###Tinfo
 ||sapnest.com^
 ||saptorge.com^
 ||saptuqse29.com^
+||sarukcopei.com^
 ||sasadown.cn/ad/
 ||sasadown.cn/source/plugin/drk_ledadv/
 ||sascwt.cn^
@@ -38101,7 +38112,6 @@ zzzyk.com###Tinfo
 ||zatnawqy.net/Webservices/jsParseLinks.aspx$script,third-party
 ||zatnawqy.net/visitScript/$script,third-party
 ||zaupjw.xyz^
-||zavatzxhi.in^
 ||zawqwpajq.club^
 ||zay7gs1xkl.com^
 ||zazgbqg*.xyz^
