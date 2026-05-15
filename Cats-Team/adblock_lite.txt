@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-15 03:39:26(GMT+8)
-! Total count: 38643
+! Version: 2026-05-15 10:37:27(GMT+8)
+! Total count: 38648
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20132,6 +20132,7 @@ zzzyk.com###Tinfo
 ||8mhcc.top^
 ||8oghu1wcau.com^
 ||8p14q886v2.com^
+||8pbiddjtp.com^
 ||8pjqjxmr.com^
 ||8proe3xx6.com^
 ||8radc6a0m2.com^
@@ -21437,6 +21438,7 @@ zzzyk.com###Tinfo
 ||atrx7.com^$popup
 ||atsgiu.icu^
 ||att.ydss.cn/attachments/portal/
+||attainder41.com^
 ||attendant36.top^
 ||attendchase.com^
 ||attraction85.com^
@@ -24020,6 +24022,7 @@ zzzyk.com###Tinfo
 ||dbw.cn/eap/js/hl/hlj_ad
 ||dbxok6uo.icu^
 ||dbzolzzy7s.com^
+||dc5koxhfh.com^
 ||dceuhnpc57.shop^
 ||dciep.xyz^
 ||dcpgdj.icu^
@@ -26710,6 +26713,7 @@ zzzyk.com###Tinfo
 ||gzasiatech.net^
 ||gzfzcj.cn^
 ||gzk72wa1f.com^
+||gzldas.icu^
 ||gzqvd.cn^
 ||gzsjym.xyz^
 ||gzsy12348.com^
@@ -27925,6 +27929,7 @@ zzzyk.com###Tinfo
 ||innovations260.net^
 ||innovationswith1200.net^
 ||innveu2ji6.com^
+||ino4637d0.com^
 ||inone517.com^
 ||inoreader.com/adv/$domain=inoreader.com
 ||inowe.xyz^
