@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-16 03:22:24(GMT+8)
-! Total count: 38644
+! Version: 2026-05-16 10:27:19(GMT+8)
+! Total count: 38648
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20030,6 +20030,7 @@ zzzyk.com###Tinfo
 ||80yc.com/js/yidong/
 ||8131.qizhihaotian.cn^
 ||8181zx.com^
+||81bkkx81zd.com^
 ||81book.com/static/scripts/1.js
 ||81book.com/static/scripts/common.
 ||81wx.info^
@@ -25985,7 +25986,6 @@ zzzyk.com###Tinfo
 ||gamersky.com/common/tg/
 ||gamersky.com/g/gamerskyflash.js
 ||gamersky.com/wap/js/gs/gsAllOpenAppBtn.
-||gamersky.com^*/getAdPositionIncDetail?
 ||games.ifeng.com^$subdocument
 ||games.ifeng.com^*.shtml?v=
 ||games95.com^
@@ -28050,6 +28050,7 @@ zzzyk.com###Tinfo
 ||iruacwa.xyz^
 ||iry7addri8.com^
 ||irzi.cn^
+||is16yobjh7.com^
 ||isancio.top^
 ||isdfbvkvsc.xyz^
 ||isdspeed.qq.com^
@@ -31763,6 +31764,7 @@ zzzyk.com###Tinfo
 ||pcb840.com^
 ||pcbeta.com/data/cache/_djwbhgprrtnmby.js
 ||pcbeta.com/data/cache/common_fbdbbsyuzhttpx.js
+||pcc980pvul.com^
 ||pccoo.cn/js/dlv1.0.js
 ||pcgames.com.cn*/index.js
 ||pcgames.com.cn/g/
@@ -32158,6 +32160,7 @@ zzzyk.com###Tinfo
 ||prelude69.com^
 ||prepareplanes.com^
 ||prepaymint.net^
+||prescription55.top^
 ||preserved32.top^
 ||presetrabbits.com^
 ||presscoder.com^
@@ -32705,6 +32708,7 @@ zzzyk.com###Tinfo
 ||qucncfo.cn^
 ||qucnmty.top^
 ||qucnwty.top^
+||qucxwvt.com^
 ||qudajie.com^
 ||qudao.com/common/minisite.js
 ||queenjam.com^
