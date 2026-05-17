@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-17 02:55:55(GMT+8)
-! Total count: 38300
+! Version: 2026-05-17 10:34:36(GMT+8)
+! Total count: 38304
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -24219,6 +24219,7 @@ zzzyk.com###Tinfo
 ||direfuldesk.com^
 ||dirgesimious.com^
 ||dirtstyle.tv/img/adblock.jpg
+||disability29.top^
 ||disagreeabledrop.com^
 ||discards55.com^
 ||discepttaked.com^
@@ -28489,6 +28490,7 @@ zzzyk.com###Tinfo
 ||js1.122cha.com^
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
+||js154azzn.com^
 ||js22f.net^
 ||js6.efyt6.com^
 ||jsb.qianzhan.com^
@@ -35922,6 +35924,7 @@ zzzyk.com###Tinfo
 ||vktztp.xyz^
 ||vkur.cn^
 ||vl3rw9roj.com^
+||vle6r0hma.com^
 ||vlgkotr.cn^
 ||vlion.cn^$3p
 ||vlpq.cn^
@@ -37223,6 +37226,7 @@ zzzyk.com###Tinfo
 ||xzblht.icu^
 ||xzji.com/data/block_js/softShow_
 ||xzkumjdqj.com^
+||xzswn87hm.com^
 ||xzvhyx.com^
 ||xzxhpcdz.icu^
 ||y.gtimg.cn/music/common//upload/kg_ad^
