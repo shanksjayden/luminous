@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-19 10:42:22(GMT+8)
-! Total count: 38320
+! Version: 2026-05-19 17:31:50(GMT+8)
+! Total count: 38325
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8232,7 +8232,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.today,sexmanh.net,animehay.today,cliphot69.hair,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.org,dualeotruyendb.com,goctruyentranhvui19.com,hentaivkl.com,hhtq5.vip,ihentai.network,javtiful.com,luottruyen5.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,mupsexphim.net,newtruyentranh10.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,sexmanh.net,animehay.today,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.org,dualeotruyendb.com,goctruyentranhvui19.com,hentaivkl.com,hhtq5.vip,ihentai.network,javtiful.com,luottruyen5.com,lxmanga.space,misskon.com,motphim.pokemonviet.com,mupsexphim.net,newtruyentranh10.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvn96.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.xyz,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
@@ -21165,6 +21165,7 @@ zzzyk.com###Tinfo
 ||ancheonyo.fun^
 ||ancientact.com^
 ||anciliaoat.com^
+||andriesmemoir.com^
 ||android.bugly.qq.com^
 ||anemonew33.top^
 ||anesthesia58.top^
@@ -23591,6 +23592,7 @@ zzzyk.com###Tinfo
 ||crinukpd.com^
 ||crirzaitai.com^
 ||criteo.net^
+||criticismgodlessauthors.com^
 ||critictruck.com^
 ||crjitvekbx.com^
 ||crobotb.com^
@@ -25257,6 +25259,7 @@ zzzyk.com###Tinfo
 ||facebook.com/xti.php?
 ||facebook.net^*/fbevents.js$third-party
 ||facilitatebreakfast.com^
+||factoriesin5050.com^
 ||fadechildren.com^
 ||fadedsnow.com^
 ||fadjqqe.top^
@@ -26407,6 +26410,7 @@ zzzyk.com###Tinfo
 ||gridfrom1111.net^
 ||gridsumdissector.cn/gs.gif?
 ||gripcorn.com^
+||grizzlepeonage.com^
 ||grjasq.com^
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 ||grocerycrew.com^
@@ -28411,7 +28415,6 @@ zzzyk.com###Tinfo
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokeconnate.com^
-||jokedecays.com^
 ||jokerlu.com/upload/addon/
 ||jokerlu.com/upload/vod/
 ||jokerlulm.com^
@@ -30224,7 +30227,6 @@ zzzyk.com###Tinfo
 ||mitbbs.ca/ad_
 ||mitbbs.com/ad_
 ||mitbbs.com/img/app
-||mitresaxillae.com^
 ||mittencattle.com^
 ||miwifi.com^*ads/
 ||mixedreading.com^
@@ -30637,6 +30639,7 @@ zzzyk.com###Tinfo
 ||nappyneck.com^
 ||naqiwjj.icu^
 ||naryvz.xyz^
+||nasodresser.com^
 ||naszig.cn^
 ||natgeomedia.com/js/ads-parallax.
 ||naturallon.com^
@@ -30807,6 +30810,7 @@ zzzyk.com###Tinfo
 ||nicefollows.com^
 ||nicehuh.com^
 ||nicelinks.site/ad-block-
+||nichtkendir.com^
 ||nidckjnc.com^
 ||nie8fe9far.com^
 ||nieae.xyz^
@@ -34589,6 +34593,7 @@ zzzyk.com###Tinfo
 ||teenytinyshirt.com^
 ||teenytinytongue.com^
 ||teeshining.com^
+||teetymitring.com^
 ||tejr.cn^
 ||tekproxy.com/$popup,domain=turkdown.com
 ||telecome.cn^
