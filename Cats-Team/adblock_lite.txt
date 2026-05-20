@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-20 22:46:50(GMT+8)
-! Total count: 38343
+! Version: 2026-05-21 04:05:35(GMT+8)
+! Total count: 38346
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -19500,6 +19500,7 @@ zzzyk.com###Tinfo
 ||4y13js.work^
 ||4yduy53ik.com^
 ||4yl3e3fmv.com^
+||4z48fqo12n.com^
 ||4z50jczq2.com^
 ||4zm6p17ppr.com^
 ||5.61.55.143^
@@ -29001,6 +29002,7 @@ zzzyk.com###Tinfo
 ||kslbahd.top^
 ||ksqfwxu.cn^
 ||ksr6uu1mk.com^
+||kssms.com/click/play.
 ||kssolo.com^
 ||kstj.baidu.com^
 ||kszvmqo.cn^
@@ -34089,6 +34091,7 @@ zzzyk.com###Tinfo
 ||sss777.net/Alove-A/
 ||sssvd.china.com^
 ||sssxwsry.com^
+||ssyegkbu0g.com^
 ||ssyy881.com/zz/
 ||st-fly.b-cdn.net^
 ||st.huliyinzi.com/ads_app_pic/^
