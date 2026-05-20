@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-20 10:42:53(GMT+8)
-! Total count: 38340
+! Version: 2026-05-20 16:57:10(GMT+8)
+! Total count: 38346
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -181,6 +181,7 @@
 ###fc_foot > #f_skyf
 ###fixed-bottom-modal[style^="right:"][style$="px; display: block;"]
 ###fk_faiVisitStateAd
+###float-ad
 ###floatad-winpop
 ###fnAdblockingOverlay
 ###fnbt
@@ -218,6 +219,7 @@
 ###hongbao20201217
 ###imgad
 ###imgs5[height="60px"]
+###index-ad-banner
 ###index_aside_ad
 ###index_banner[src*=".imgdd.com"]
 ###index_banner[src*=".meituan.net"]
@@ -22692,6 +22694,7 @@ zzzyk.com###Tinfo
 ||camep.xyz^
 ||camerain.top^
 ||camspic.com/imguang/*.gif
+||cancellation10.top^
 ||cancellation39.com^
 ||cancellation58.top^
 ||canimgs.com/images/
@@ -22934,6 +22937,7 @@ zzzyk.com###Tinfo
 ||ceshi1.ink^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||cesu.ai/uploads/AdvertImages/
+||ceyxnepeta.com^
 ||cfdns.vip^
 ||cfepws.com^
 ||cfoxpgfzxl.com^
@@ -25610,6 +25614,7 @@ zzzyk.com###Tinfo
 ||flqa83yic.com^
 ||flsfzr.cn^
 ||flushingbeast.com^
+||fluteparental.com^
 ||flutteringfireman.com^
 ||flystranger.com^
 ||flyzy2005.com/wp-content/*/bandwagonhost-top.
@@ -27465,6 +27470,7 @@ zzzyk.com###Tinfo
 ||i5le8m3qxs.com^
 ||i5q1t8vj9.com^
 ||i5qquywfz.com^
+||i5rd6bukys.com^
 ||i5rp73ne9h.com^
 ||i6nnwepgm.com^
 ||i73u6dnnh.com^
@@ -29494,6 +29500,7 @@ zzzyk.com###Tinfo
 ||lm865.com^
 ||lm882.com^
 ||lm995.com^
+||lmd6dc1aq7.com^
 ||lmhrchi.com^
 ||lmldxd.icu^
 ||lmlmvip.com^
@@ -30651,7 +30658,6 @@ zzzyk.com###Tinfo
 ||nappyneck.com^
 ||naqiwjj.icu^
 ||naryvz.xyz^
-||nasodresser.com^
 ||naszig.cn^
 ||natgeomedia.com/js/ads-parallax.
 ||naturallon.com^
@@ -31445,6 +31451,7 @@ zzzyk.com###Tinfo
 ||ox3e5wyy79.com^
 ||oxggiwdp57.com^
 ||oxidation83.com^
+||oxidesearching.com^
 ||oxj8hcfg.xyz^
 ||oxkrcrlw.com^
 ||oxozgy.icu^
@@ -34417,7 +34424,6 @@ zzzyk.com###Tinfo
 ||sync960.com^
 ||syncope12.top^
 ||syndication.exosrv.com/splash.php?$xhr,redirect=noop.txt,important,domain=hboav.com
-||synochaauca.com^
 ||synonymoussticks.com^
 ||synopsis95.com^
 ||synthesizescarecrow.com^
