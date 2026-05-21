@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-21 11:33:08(GMT+8)
-! Total count: 38354
+! Version: 2026-05-21 17:27:49(GMT+8)
+! Total count: 38359
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8238,7 +8238,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,sexmanh.net,animehay03.site,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.org,dualeotruyengl.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen5.com,lxmanga.space,misskon.com,mupsexphim.com,newtruyentranh10.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,sexmanh.net,animehay03.site,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.org,dualeotruyengl.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen6.com,lxmanga.space,misskon.com,mupsexphim.com,newtruyentranh10.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
@@ -14406,6 +14406,7 @@ numberempire.com###toplink > h3[style="color: red"]
 numberempire.com#@##perm_ad
 nunuju.net,bz88888.net##+js(abort-current-script, document.getElementsByTagName, _mtj)
 nunuyy3.org##+js(abort-current-script, $, infoid)
+nurtureart.org#$#abort-on-property-read adsRedirectPopups
 nv.ua##img[src="/images/dis_blocker_big.jpg"]
 nwell.net##.f14hui[width="25%"]
 nxflv.com##div[style="position: absolute; width: 100%; height: 133px; bottom: 0px;"]
@@ -14480,6 +14481,7 @@ olx.pl#$#abort-on-property-write _gde_ingPriceImg
 olx.pl#$#hide-if-matches-xpath '//a[contains(@href,"promoted")]/parent::div/ancestor-or-self::div[@data-testid="l-card"]/preceding::h2[contains(., "Ogłoszenia promowane")]/parent::div'
 olx.pt#$#hide-if-matches-xpath '//a[contains(@href,"promoted")]/parent::div/ancestor-or-self::div[@data-testid="l-card"]/preceding::h2[contains(., "Destaques no OLX")]/parent::div'
 olx.ro#$#hide-if-matches-xpath '//a[contains(@href,"promoted")]/parent::div/ancestor-or-self::div[@data-testid="l-card"]/preceding::h2[contains(., "Anunturi promovate")]/parent::div'
+ombak700.org#$#abort-on-property-read sp
 omegascans.org#$#abort-on-property-read window.__adFormats
 omnitalk.com##td[bgcolor="#ffffc8"]
 omnitalk.com##tr[bgcolor="ffffc8"]
@@ -16755,7 +16757,6 @@ topcraft.ru##.ad-info
 topfilmz.com#@##adsense
 topflix.fm#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 tophub.today##.ax
-topnovelhub.com#$#abort-on-property-read sp
 topwwnews.com#$#abort-on-property-read localStorage
 torkitty.*#$#prevent-listener click handlePopunder
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
@@ -17915,7 +17916,6 @@ xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write Spacial
 xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisement")]/parent::div[@class][1]'; hide-if-matches-xpath './/div[contains(@class,"logo")]/ancestor::div[@data-ga_action="join"]/ancestor::aside[@id][1]';
 xnxx.com#$#override-property-read html5player.loadVideoPostRollAds noopFunc; override-property-read html5player.loadVideoPreRollAds noopfunc
 xnxx.com,xv-ru.com,xvideos.com#$#prevent-listener DOMContentLoaded /loadAdsDelayed/; override-property-read xv.sda.pp.init noopFunc; override-property-read xv.conf.dyn.exoclick_domain undefined; abort-on-property-read html5player.enableVideoPreRollAds;
-xoilacku.tv#$#abort-on-property-read adsRedirectPopups
 xoilaczaaz.tv#$#abort-current-inline-script jQuery open
 xoilaczaaz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
 xoilaczaaz.tv#$#override-property-read adsPlayer ''; override-property-read adsTvcs ''
@@ -23437,6 +23437,7 @@ zzzyk.com###Tinfo
 ||consciouscheese.com^
 ||considerice.com^
 ||construct2replicas.net^
+||constructsupernatural.com^
 ||consumerknowhow.com^
 ||consumerzero.com^
 ||contagion77.com^
@@ -27988,6 +27989,7 @@ zzzyk.com###Tinfo
 ||islandssouth.com^
 ||islandwebhelp.com^
 ||islbaho.top^
+||isolatedfrom82.com^
 ||isso.com.cn/club/adv
 ||isso.com.cn^*/A-D/
 ||isthmus08.top^
@@ -33044,6 +33046,7 @@ zzzyk.com###Tinfo
 ||ruanyifeng.com/9he/
 ||rubrafoz.com^
 ||rucksack85.top^
+||ruddytoph.com^
 ||ruderalweiring.com^
 ||rudhjah.top^
 ||rugao35.com/Public/config/Couplet/Index
@@ -33762,6 +33765,7 @@ zzzyk.com###Tinfo
 ||skillfullyfrugal.com^
 ||skillsresults.com^
 ||skinnedjets.com^
+||skirlakawai.com^
 ||skirmish33.top^
 ||skisofa.com^
 ||skluff.com^
@@ -34241,6 +34245,7 @@ zzzyk.com###Tinfo
 ||stockstar.com/api/?id=
 ||stockstar.com/info/1200x90/
 ||stocktheme.com^
+||stolascribe.com^
 ||stomachscience.com^
 ||stonechin.com^
 ||stonepole.com^
