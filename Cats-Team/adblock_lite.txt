@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-22 22:25:39(GMT+8)
-! Total count: 38388
+! Version: 2026-05-23 03:26:27(GMT+8)
+! Total count: 38390
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -4560,6 +4560,7 @@ $websocket,domain=wap.yushuwu.cloud
 8se.me,xchina.*##div[class^="item photo zone"]
 8se.me,xchina.*##div[style*="width: 300px;"][style*="height: 455px;"]
 8teenxxx.com,between-legs.com#$#prevent-listener /click|load/ popMagic
+8tsu.net#$#abort-on-property-read open
 8ziyuan.com##.deanadsside
 900.la##.banner_ad1
 900.la##.font-ad
@@ -16310,6 +16311,7 @@ storm.mg##.storm_magic_placeholder
 storm.mg##div[data-addom="storm_ad_wrapper"]
 storm.mg,mobile01.com##div[id^="dablewidget_"]
 storytrain.info##.responsive_ad
+stravers.live#$#json-prune list
 stream-happy.com###layer2
 stream2watch.me###moveads
 streamcloud.my#$#hide-if-matches-xpath './/div[@style="pointer-events: none; position: absolute; top: 0px; left: 0px; width: 1839px; height: 1815px; z-index: 2147483647;"]/self::*[1]'
