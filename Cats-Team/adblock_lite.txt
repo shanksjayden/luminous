@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-22 10:46:20(GMT+8)
-! Total count: 38369
+! Version: 2026-05-22 16:52:42(GMT+8)
+! Total count: 38372
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20756,6 +20756,7 @@ zzzyk.com###Tinfo
 ||adutp.com^$third-party
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
+||advancingtheirs.com^
 ||adventurousamount.com^
 ||advertclicks.ru^$domain=pronpic.org
 ||advertising-api-eu.amazon.com^
@@ -20828,6 +20829,7 @@ zzzyk.com###Tinfo
 ||agreeablearch.com^
 ||agreeabletouch.com^
 ||agricultural64.top^
+||agriculturalcoyhose.com^
 ||aguo.com^$3p
 ||ah.5l59k.com^
 ||ah.sina.com.cn/iframe/
@@ -21636,6 +21638,7 @@ zzzyk.com###Tinfo
 ||baeldung.com/*/library/dist/js/recovery.
 ||baeriapiacula.com^
 ||bagbeam.com^
+||baggerspaces.com^
 ||baggvon.icu^
 ||bagsurprise.com^
 ||bahamashello.com^
@@ -23438,6 +23441,7 @@ zzzyk.com###Tinfo
 ||connect.facebook.net/en_US/fbevents.js$script,redirect=noop.js,domain=linetv.tw
 ||connect.facebook.net^*/fbds.js$third-party
 ||connectashelf.com^
+||connected16.net^
 ||connectormwi.laterpay.net^$script,domain=schoener-wohnen.de
 ||connectreadoasis.com^
 ||conscience34.top^
@@ -23446,6 +23450,7 @@ zzzyk.com###Tinfo
 ||considerice.com^
 ||construct2replicas.net^
 ||constructsupernatural.com^
+||consultingestablishmenthedgehog.com^
 ||consumerknowhow.com^
 ||consumerzero.com^
 ||contagion77.com^
@@ -23804,7 +23809,6 @@ zzzyk.com###Tinfo
 ||d227cncaprzd7y.cloudfront.net^
 ||d24fx92qb.com^
 ||d2c1htpgj.com^
-||d2f5h9m0jmnhjh.cloudfront.net^
 ||d2gx36c54v062j.cloudfront.net^$script,domain=golfmonthly.com
 ||d2gx36c54v062j.cloudfront.net^$script,domain=pcgamer.com
 ||d2iofuc7qmlf14.cloudfront.net^$script,rewrite=abp-resource:blank-js,domain=9gag.com
@@ -24490,7 +24494,6 @@ zzzyk.com###Tinfo
 ||dpbgnf.xyz^
 ||dpijohb.icu^
 ||dpjbpj.top^
-||dpjf9a2rbjbvp.cloudfront.net^
 ||dpjzr.top^
 ||dpjzzgw.cn^
 ||dpsusqs20.com^
@@ -26435,7 +26438,6 @@ zzzyk.com###Tinfo
 ||gridfrom1111.net^
 ||gridsumdissector.cn/gs.gif?
 ||gripcorn.com^
-||grizzlepeonage.com^
 ||grjasq.com^
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 ||grocerycrew.com^
@@ -29160,7 +29162,6 @@ zzzyk.com###Tinfo
 ||lamtc2wny.com^
 ||lancdn.com/public/images/view/Tencent-
 ||lancdn.com/tmp3/GG_Notice.png
-||lanceyatigan.com^
 ||landkarts.com^
 ||landlordspy.com^
 ||landwestern.com^
@@ -29989,6 +29990,7 @@ zzzyk.com###Tinfo
 ||maxthonimg.com/v6/festival/
 ||maybetony.com^
 ||maydaciting.com^
+||mayhapmonisms.com^
 ||mazincike.com^
 ||mb.gulongbbs.com^
 ||mbaedurr.com^
@@ -31685,6 +31687,7 @@ zzzyk.com###Tinfo
 ||pearpouch.com^
 ||pebfvv.icu^
 ||peculiar93.top^
+||peculiaritieswatcher.com^
 ||pedestrian94.top^
 ||pediatrist53.com^
 ||pedropanther.com^
@@ -31813,7 +31816,6 @@ zzzyk.com###Tinfo
 ||pics.xgo-img.com.cn^
 ||picsuperfast.xyz/imageUpload/images/*.gif
 ||picsuperfast.xyz/imageUpload/images/*AD_
-||pictureshosierygauntlet.com^
 ||picyq.com/index.php/Home/run/get_ad/
 ||pierrebotton.com/global/
 ||pietexture.com^
@@ -34450,6 +34452,7 @@ zzzyk.com###Tinfo
 ||synopsis95.com^
 ||synthesizescarecrow.com^
 ||syr66.com.cn^
+||syriacgrumose.com^
 ||syseen.com/content/uploadfile/*/hongbao.png
 ||sysin.org/img/promotion-
 ||systemssummit.com^
