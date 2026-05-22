@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-22 03:45:53(GMT+8)
-! Total count: 38366
+! Version: 2026-05-22 10:46:20(GMT+8)
+! Total count: 38369
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -844,6 +844,7 @@
 ##.nQIAj1
 ##.nav-ads
 ##.nav-area + .wrapper .tuiguang
+##.newsAD
 ##.newstyle > .container > a[target="_blank"]
 ##.newstyle > a > img[src*="img.com/i/"]
 ##.no-ad-reminder
@@ -4742,6 +4743,7 @@ $websocket,domain=wap.yushuwu.cloud
 :81/c/i.php?id=$script
 :81/s/i.php?id=$script
 :818/nowscore/
+:866/o.js$script,3p
 :8686/8888/*.gif$3p,image
 :88/999pc/
 :88/lighttpd/default/
@@ -16269,6 +16271,7 @@ starmusiq.com###adblock-detector-popup-alert
 start.firefoxchina.cn##.mod-delay-resource
 start.firefoxchina.cn##.wrap > div[style]:last-child
 stat-nba.com###ad_video
+staticfile.link###player_pause
 stbemucode.com##DIV.header-ads
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 stc.gov.cn###mov
