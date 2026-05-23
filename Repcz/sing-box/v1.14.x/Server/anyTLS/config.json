@@ -4,13 +4,35 @@
         "level": "info",
         "timestamp": true
     },
-    
+
+    "certificate_providers": [
+        {
+            "type": "acme",
+            "tag": "ip_cert",
+            "domain": [
+                "your_server_ip"
+            ],
+            "email": "admin@example.com"
+        }
+    ],
+
     "dns": {
         "servers": [
-            {"tag": "cloudflare","type": "udp","server": "1.1.1.1"}
+            {
+                "tag": "cloudflare",
+                "type": "udp",
+                "server": "1.1.1.1"
+            }
         ],
         "rules": [
-            {"query_type": ["A","AAAA"],"action": "route","server": "cloudflare"}
+            {
+                "query_type": [
+                    "A",
+                    "AAAA"
+                ],
+                "action": "route",
+                "server": "cloudflare"
+            }
         ],
         "strategy": "prefer_ipv4",
         "final": "cloudflare"
@@ -31,18 +53,18 @@
             "padding_scheme": [],
             "tls": {
                 "enabled": true,
-                "server_name": "bing.com",
-                // openssl req -x509 -nodes -days 3650 -newkey rsa:2048 -keyout /etc/sing-box/bing.key -out /etc/sing-box/bing.crt -subj "/C=US/CN=www.bing.com" > /dev/null 2>&1
-                "certificate_path": "/etc/sing-box/bing.crt",
-                "key_path": "/etc/sing-box/bing.key"
+                "server_name": "your_server_ip",
+                "certificate_provider": "ip_cert"
             }
         }
     ],
-    
+
     "route": {
         "rules": [
             {
-                "inbound": ["anytls-in"],
+                "inbound": [
+                    "anytls-in"
+                ],
                 "action": "sniff"
             }
         ],
@@ -54,7 +76,7 @@
             "type": "direct"
         }
     ],
-    
+
     "ntp": {
         "enabled": true,
         "server": "time.apple.com",
