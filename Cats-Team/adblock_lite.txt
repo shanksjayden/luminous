@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-23 16:10:18(GMT+8)
-! Total count: 38393
+! Version: 2026-05-23 21:11:14(GMT+8)
+! Total count: 38397
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -19129,6 +19129,7 @@ zzzyk.com###Tinfo
 ||257298.a.siteapps.com/257298.js$script,domain=listamais.com.br
 ||258zw.com^$3p
 ||25rpllbbg.com^
+||25t9uxgnx.com^
 ||268de.com/js/
 ||26gg.bnq86.com^$3p
 ||26img.com/nnn2/188.js
@@ -19392,6 +19393,7 @@ zzzyk.com###Tinfo
 ||3rre9r4t2.com^
 ||3rsppty.cn^
 ||3ryin2uj0x.com^
+||3s7m2ss7g.com^
 ||3sd6w6oga9.com^
 ||3sqvexc60y.com^
 ||3t769up6.com^
@@ -20242,6 +20244,7 @@ zzzyk.com###Tinfo
 ||96zddjwn2.com^
 ||973.com/static/js/pccom.js
 ||97kpz.com/js/bbk/g.js
+||97vk351gi.com^
 ||98.126.219.*/ads/
 ||98158.com^
 ||9831tb.com^
@@ -36178,6 +36181,7 @@ zzzyk.com###Tinfo
 ||w3cfba6ufr.com^
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
 ||w3cschool.cn/index/*Advert
+||w3fov7zal.com^
 ||w3xue.com/js/pro541.js
 ||w3ytzqm3d.com^
 ||w41.i7x3.fun^
