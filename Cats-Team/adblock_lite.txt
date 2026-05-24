@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-24 03:00:53(GMT+8)
-! Total count: 38397
+! Version: 2026-05-24 10:42:11(GMT+8)
+! Total count: 38402
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -25222,6 +25222,7 @@ zzzyk.com###Tinfo
 ||exinariuminix.info^
 ||existences2.top^
 ||exitblocked.com^
+||exmoo.com/js/ad-position/
 ||exonerrotter.com^
 ||expansioneggnog.com^
 ||expediency36.com^
@@ -31359,6 +31360,7 @@ zzzyk.com###Tinfo
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
 ||open.oneplus.net^
+||opendsp.vip^
 ||openinstall.io^$third-party
 ||openrcv.baidu.com^
 ||operated501.com^
@@ -32916,6 +32918,7 @@ zzzyk.com###Tinfo
 ||rhiolf.cn^
 ||rhlxm.top^
 ||rhmt1jjyo.com^
+||rhododendron15.top^
 ||rhrrf.cn^
 ||rhtc.quanminyouxi.cn^
 ||rhymezebra.com^
@@ -36185,6 +36188,7 @@ zzzyk.com###Tinfo
 ||w3xue.com/js/pro541.js
 ||w3ytzqm3d.com^
 ||w41.i7x3.fun^
+||w4nw434j7n.com^
 ||w4sn20zpvz.com^
 ||w505cb.cc^
 ||w505cb.com^
@@ -36303,6 +36307,7 @@ zzzyk.com###Tinfo
 ||wddsva0.com^
 ||wde0a1qrm.com^
 ||wdff.buzz/hengf.
+||wdp5rczwlp.com^
 ||wdpkx.cn^
 ||wdrn97z1o.com^
 ||wdswgjn.cn^
