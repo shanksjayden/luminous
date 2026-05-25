@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-25 17:54:45(GMT+8)
-! Total count: 38399
+! Version: 2026-05-25 22:42:28(GMT+8)
+! Total count: 38404
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -14796,7 +14796,7 @@ pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
 ping0.cc###adbright
 ping0.cc##.xzeles
-ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> .closead)
+ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 ping0.cc#$#hide-if-matches-xpath './/span[@class="tipad"]/following::img/parent::a[@rel][@target="_blank"]'
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
@@ -22879,7 +22879,7 @@ zzzyk.com###Tinfo
 ||cdn.jquery-cdn.cc^
 ||cdn.ouo.io/js/full-page-script.js$script,third-party
 ||cdn.pcworld.*/idg_gpt_pipeline_$script
-||cdn.ping0.cc/images/ax/*.gif$~3p
+||cdn.ping0.cc/images/dx/*.gif$~3p
 ||cdn.q.gs/js/display.js$script,third-party
 ||cdn.q.gs/js/entry.js$script,third-party
 ||cdn.q.gs/js/link-converter.js$script,third-party
@@ -23843,6 +23843,7 @@ zzzyk.com###Tinfo
 ||d48paxyhx.com^
 ||d49-a.sdn.cz^$image,domain=ahaonline.cz|info.cz|iprima.cz|kinobox.cz|kupi.cz|lidovky.cz|nasepenize.cz|novinky.cz|onetv.cz|sport.cz|super.cz
 ||d49-a.sdn.cz^$image,domain=auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
+||d4dlgw9mi.com^
 ||d4rxxm6ig.com^
 ||d4vd.life/love/
 ||d4xmm7es84.com^
@@ -29471,6 +29472,7 @@ zzzyk.com###Tinfo
 ||lizardslaugh.com^
 ||lizehuandian.top^
 ||lj0hx1sboy.com^
+||lj43bm3y8.com^
 ||ljarfvg.cn^
 ||ljvt4pnl9.com^
 ||lk0v8teerw.com^
@@ -31240,6 +31242,7 @@ zzzyk.com###Tinfo
 ||ohvk.cn^
 ||ohvtrokyq.com^
 ||ohwb.cn^
+||oi0wm8b09.com^
 ||oi9rp7.online^
 ||oiewpw.com^
 ||oifyeldk.top^
@@ -35909,6 +35912,7 @@ zzzyk.com###Tinfo
 ||vhsutpgui.xyz^
 ||vhulan.com^
 ||vhutitpu.icu^
+||vhwrju18p.com^
 ||vhxahf.icu^
 ||vibrantcelebration.com^
 ||vibrantgale.com^
@@ -37834,6 +37838,7 @@ zzzyk.com###Tinfo
 ||z84dbowgc.com^
 ||z93grqmdaq.com^
 ||z9dy1kq9wv.com^
+||z9o0rgee8.com^
 ||z9sab7vr0b.com^
 ||zabdybod*.club^
 ||zacff.com^
