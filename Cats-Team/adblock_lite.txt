@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-26 22:53:46(GMT+8)
-! Total count: 38437
+! Version: 2026-05-27 04:00:57(GMT+8)
+! Total count: 38439
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -3511,7 +3511,7 @@ $websocket,domain=wap.yushuwu.cloud
 1337x.*#$#abort-on-property-write window.onload false
 1337x.*,himovies.*,komikav.com,limetorrents.lol,manhuascan.com,moviesda1.com,moviesjoy.*,realgfporn.com,soap2day.*,strikeout.cc,sxyprn.*,theflixertv.*,thepiratebay10.xyz#$#abort-current-inline-script document.createElement script
 137.175.73.220##a[target="_blank"][rel="nofollow"] > img
-1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,camslib.com,camwhores.*,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,embdmstrplayer.com,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,minochinos.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,putarvid.com,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
+1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,camslib.com,camwhores.*,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,embdmstrplayer.com,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,minochinos.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,putarvid.com,tpead.net,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
 13tv.top,freehao123.com##.box
 13tv.top,sina.com##.aditem
 141hongkong.com###dialog
@@ -9668,7 +9668,6 @@ ebay.*##div#placement100379 + section
 ebay.*##div.picture-panel-container section[data-viewport]
 ebay.*##div.s-clipped[aria-hidden="true"]
 ebay.*##div.x-atf-left-bottom-river
-ebay.*##div.x-evo-atf-top-river
 ebay.*##div.x-evo-btf-river > div.vim.d-vi-evo-region > section:not([class])
 ebay.*##div.x-evo-middle-river section[data-viewport]
 ebay.*##div.x-pda-placements
@@ -16875,6 +16874,7 @@ tuliu.com###vFloat
 tuliu.com##.info-recommend
 tuliu.com##.zx-advertising-box
 tumutanzi.com###text-3
+tupaki.com##div[id^="detail_wrap_ad"]
 turbodebrideur.com#@##pubdirecte
 turbogenerator.info###anuncio
 turbogenerator.info###blanuncio
@@ -32177,6 +32177,7 @@ zzzyk.com###Tinfo
 ||ptju.cn^
 ||ptmabek.cn^
 ||pttzjo.top^
+||ptukalqfarwi.in^
 ||ptvfzv.xyz^
 ||ptxcfn.icu^
 ||ptyw.yiche.com/ssp/
@@ -36018,6 +36019,7 @@ zzzyk.com###Tinfo
 ||viroffyy.com^
 ||virtual2.top^
 ||virtualvincent.com^
+||virtuewich.com^
 ||visageagar.com^
 ||visit-japan.jp/parts/visitjapan_f35_170_170.jpg
 ||visitstor.com^
