@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-27 04:00:57(GMT+8)
-! Total count: 38439
+! Version: 2026-05-27 10:49:32(GMT+8)
+! Total count: 38443
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -26858,6 +26858,7 @@ zzzyk.com###Tinfo
 ||hatefulrequest.com^
 ||hauqou.top^
 ||hawfeniku.com^
+||hawthorn33.top^
 ||hawthorng66.top^
 ||hax.co.id/dist/js/ajax.js
 ||hayweb.net^
@@ -28270,6 +28271,7 @@ zzzyk.com###Tinfo
 ||jcquhetqcp.com^
 ||jcrb.com/ZYW$subdocument
 ||jcwtml.icu^
+||jcyy3wifq.com^
 ||jd-bbs.com^*/gif/
 ||jd.com/bottom/cps
 ||jd.com/ddimg/$domain=bimiacg.net
@@ -32582,6 +32584,7 @@ zzzyk.com###Tinfo
 ||qscvli.com^
 ||qselic.top^
 ||qsj8fd.com^
+||qsjdi1vyq.com^
 ||qsjfd2.com^
 ||qsjfd2.xyz^
 ||qsko05060mas.com^
@@ -32699,6 +32702,7 @@ zzzyk.com###Tinfo
 ||r0eybo511.com^
 ||r0hpdbkqs.com^
 ||r0l7cp.com^
+||r1jprcr42.com^
 ||r36ku.site^
 ||r3nvrr4uzh.com^
 ||r3sub.com/images/aaa^
