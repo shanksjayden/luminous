@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-27 10:49:32(GMT+8)
-! Total count: 38443
+! Version: 2026-05-27 17:35:07(GMT+8)
+! Total count: 38441
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -7322,7 +7322,7 @@ audiotag.info###dclaim
 audiotag.info##.dialog-fog
 audiotruyenfull.com#$#abort-current-inline-script document.addEventListener ai_run
 audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
-audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.aphim5.com#$#abort-current-inline-script setTimeout Aff
+audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.aphim6.com#$#abort-current-inline-script setTimeout Aff
 aupetitparieur.com,mamieastuce.com,meilleurpronostic.fr##div[class] > div[id] > main[class][id]
 aura.cn##.foot-xcx
 aura.cn##.left-zc
@@ -8650,7 +8650,7 @@ clicknupload.co,clicknupload.link,clicknupload.org,clicknupload.to#$#abort-curre
 client=ca-pub-$subdocument,domain=expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 client=ca-pub-$subdocument,domain=iprima.cz|www.ahaonline.cz|info.cz|onetv.cz
 clikcoin.pl#@##adsense
-cliphotnewc.blog#$#abort-current-inline-script window.addEventListener Ads
+cliphotnewd.blog#$#abort-current-inline-script window.addEventListener Ads
 cliphubs.com,viet69hay.site#$#abort-current-inline-script document.addEventListener pop
 clipphot.vip#$#abort-current-inline-script document.addEventListener POP
 closermag.fr##div[id^="detection-block"]
@@ -8670,7 +8670,7 @@ clubedohardware.com.br#@#.ipsAd
 clubedohardware.com.br#@#.nexusad
 cm.k366.com##.rightpart td[height="260"]
 cm.k366.com##.rightpart td[width="300"][height="270"]
-cmangax16.com#$#cookie-remover ads_num true
+cmangax17.com#$#cookie-remover ads_num true
 cmbc.com.cn#@#.adBox
 cmhello.com##.gpost-above
 cmmonitor.com#@#.adsbygoogle
@@ -9044,6 +9044,7 @@ cupfox.app##.banner > div.banner-content.right
 cupfox.app##.t-img-box > a[target="_blank"] > img
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 cupfox.love,hcomic.net,olevod.com##.swiper
+curiousonstage.com#$#abort-on-property-read adsRedirectPopups
 cuttlefish.baidu.com##.link-pc-client
 cvs.com#$#hide-if-contains /Sponsored/ 'cvs-shop-product-shelf-container' 'cvs-shop-product-shelf-container ^^sh^^ * ^^sh^^ section[id] span'
 cvs.com#$#hide-if-contains /Sponsored/ 'cvs-shop-product-shelf-criteo-container' 'cvs-shop-product-shelf-criteo-container ^^sh^^ span'
@@ -10251,7 +10252,6 @@ foerderland.de#@#.text-ads
 foerderland.de#@#.textAd
 foerderland.de#@#.text_ad
 foerderland.de#@#.text_ads
-fogcitysf.com#$#abort-on-property-read adsRedirectPopups
 followme.cn##.fm-banner-social
 followme.cn##.money-box
 fontsquirrel.com###bottom_banner_ad_container
@@ -11008,7 +11008,7 @@ hax.co.id#@#.ad-box
 hax.co.id#@#.ad-wrapper
 hayan.tv#@##uzcrsite
 hayhaytv.vn#@#.ads_wrapper
-haysexvn.online#$#abort-current-inline-script document.addEventListener adx
+haysexvn.shop#$#abort-current-inline-script document.addEventListener adx
 hb.qq.com##div[style*="width:960px; height:90px;"]
 hb.qq.com##div[style=" width:300px; height:250px; overflow:hidden"]
 hb163.cn##.ad_panel_980
@@ -14241,6 +14241,7 @@ newsmth.net##.Smthtwenty_float
 newsmth.net##.b-content > #sogou_banner:nth-child(3)
 newsmth.net##.ns-ad
 newtalk.tw###_popIn_recommend
+newtalk.tw##.ad-half
 newtalk.tw##.dable_response
 newtalk.tw##.extend_ad
 newtalk.tw##div[id^="ATS_"]
@@ -16505,7 +16506,7 @@ tbtdg.com##.s11text
 tbxt.com###headad2
 tctruyen.org#$#abort-current-inline-script $ popup
 teachinghand.com##.actions__wrapper
-teamlanhlung8.shop,javgiga.wordpress.com,www.aphim5.com#$#abort-on-property-read localStorage
+teamlanhlung8.shop,javgiga.wordpress.com,www.aphim6.com#$#abort-on-property-read localStorage
 teamlanhlungday.store,moontruyen.com#$#abort-current-inline-script $ window.open
 tech.ifeng.com##body > div[style^="width:"][style*="margin: 0px auto; transition:"][style*="position: fixed; z-index:"]
 tech.qq.com##.kjad2
@@ -18824,7 +18825,6 @@ zzzyk.com###Tinfo
 ||127.net/external/js6public126_
 ||127.net/external/js6public163_
 ||127.net/m/*/promPic.jpg
-||127e2202ec.com^
 ||129esrd5q5.com^
 ||12img.com/ad/
 ||12ybs41sa.com^
@@ -22858,6 +22858,7 @@ zzzyk.com###Tinfo
 ||ccement.com/index/index/fetchAd
 ||ccement.com/js/ccement_new/open.js
 ||cchvc.net^
+||ccjyphp.forum^
 ||cckke.com/fanhao/v/ad
 ||ccmeng.com^$3p
 ||ccnim.xyz^
@@ -26077,7 +26078,6 @@ zzzyk.com###Tinfo
 ||gdyjs.com^
 ||gdzshoes.com^
 ||gearbubbles.com^
-||geastyetis.com^
 ||gedu.org/js/meiqia_pc_groupmarket.
 ||geecradv.com^
 ||geekactive.com^
@@ -27886,6 +27886,7 @@ zzzyk.com###Tinfo
 ||indiatimes.in/*/detector.js$script
 ||indriwhats.com^
 ||indusacta.com^
+||industries78.net^
 ||infamousstream.com^
 ||infinityhedge.com^
 ||info.vip.iqiyi.com/promotion/
@@ -27958,7 +27959,6 @@ zzzyk.com###Tinfo
 ||ioiksw.cn^
 ||iojnask.com^
 ||iokmey.icu^
-||ioniumdwarfs.com^
 ||ionksfefe.xyz^
 ||iosppk.com^
 ||ioswhi.com^
@@ -28181,6 +28181,7 @@ zzzyk.com###Tinfo
 ||j33xvvanl.com^
 ||j3fvhzit0.com^
 ||j3gkwzt7o.com^
+||j3idyosut.com^
 ||j4mxrs21gh.com^
 ||j4s12kfavg.com^
 ||j5sgdum5n4.com^
@@ -28917,6 +28918,7 @@ zzzyk.com###Tinfo
 ||kiki18.com^
 ||kikinote.net/iframe
 ||killcovid2021.com/*.mp4
+||killdeesolaria.com^
 ||kindasingle.com^
 ||kindhush.com^
 ||kindlereunion.com^
@@ -30828,6 +30830,7 @@ zzzyk.com###Tinfo
 ||newsboydurance.cfd^
 ||newspage.xilu.com/model/visitlog.js
 ||newsres.cn/temp/tempad
+||newtalk.tw/js/ad/
 ||newtsbowk.com^
 ||newume.com/v1/data/ume-
 ||newwcrsed.com^
@@ -31772,7 +31775,6 @@ zzzyk.com###Tinfo
 ||persinners.com^
 ||perspective44.top^
 ||petalen88.top^
-||petatebors.com^
 ||petitechili.com^
 ||petiteumbrella.com^
 ||pevmdv.top^
@@ -32179,7 +32181,6 @@ zzzyk.com###Tinfo
 ||ptju.cn^
 ||ptmabek.cn^
 ||pttzjo.top^
-||ptukalqfarwi.in^
 ||ptvfzv.xyz^
 ||ptxcfn.icu^
 ||ptyw.yiche.com/ssp/
@@ -33311,7 +33312,6 @@ zzzyk.com###Tinfo
 ||sapnest.com^
 ||saptorge.com^
 ||saptuqse29.com^
-||sarukcopei.com^
 ||sasadown.cn/ad/
 ||sasadown.cn/source/plugin/drk_ledadv/
 ||sascwt.cn^
@@ -34396,7 +34396,6 @@ zzzyk.com###Tinfo
 ||sudugu.com/config/tj.js
 ||sudugu.com/config/v7.js
 ||sudupan.com^*.gif
-||suffarilbf.com^
 ||sufile.com/jsa/
 ||sugar.zhihu.com^
 ||suggestionbridge.com^
@@ -36023,7 +36022,6 @@ zzzyk.com###Tinfo
 ||viroffyy.com^
 ||virtual2.top^
 ||virtualvincent.com^
-||virtuewich.com^
 ||visageagar.com^
 ||visit-japan.jp/parts/visitjapan_f35_170_170.jpg
 ||visitstor.com^
