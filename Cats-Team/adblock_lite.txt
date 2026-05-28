@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-28 04:06:04(GMT+8)
-! Total count: 38452
+! Version: 2026-05-28 10:36:57(GMT+8)
+! Total count: 38456
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -19888,6 +19888,7 @@ zzzyk.com###Tinfo
 ||6iiz8ni96v.com^
 ||6iwoif.com^
 ||6iyq4atled.com^
+||6j7ywcn8sx.com^
 ||6jei0t6xp.com^
 ||6jtqdplfz7.com^
 ||6jyi7mzae.com^
@@ -24464,6 +24465,7 @@ zzzyk.com###Tinfo
 ||dogfight360.com/Usbeam/*_ad/
 ||dogfight360.com/Usbeam/yuelun_ad/
 ||doggieshome.com^
+||dogwood96.com^
 ||dogwoode09.top^
 ||dohihf.com^
 ||doii.cc/mmm/
@@ -27545,6 +27547,7 @@ zzzyk.com###Tinfo
 ||i97wqa881u.com^
 ||i9i3ko2o70.com^
 ||i9w8p.pw^
+||ia3lxhd539.com^
 ||iabao.com/sladewap.js
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
@@ -31086,6 +31089,7 @@ zzzyk.com###Tinfo
 ||nsclick.baidu.com^
 ||nshvhfw.cn^
 ||nslfhb.icu^
+||nsthczdba1.com^
 ||nstltp.icu^
 ||nsul.cn^
 ||nsvohb.top^
