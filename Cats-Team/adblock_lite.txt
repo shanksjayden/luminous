@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-28 17:51:40(GMT+8)
-! Total count: 38458
+! Version: 2026-05-28 23:35:57(GMT+8)
+! Total count: 38463
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8237,7 +8237,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,phimsex247.net,animehay03.site,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.org,dualeotruyengl.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen6.com,lxmanga.space,misskon.com,mupsexphim.com,newtruyentranh10.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,phimsex247.net,animehay03.site,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.org,dualeotruyengl.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen6.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 buonaporno.com#$#abort-current-inline-script document.querySelectorAll popMagic; abort-on-property-read popMagic;
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
@@ -16457,7 +16457,6 @@ tabootube.to#$#prevent-listener click popMaigc
 tahua.net###frameJjnBIp
 taian.com##.ggtp
 taihainet.com##.top-info
-tailieumoi.vn#$#override-property-read linkAff null
 taiwan.cn##div[style*="height:250px;padding:5px 17px 5px 18px;"]
 taiwancall.com##.gad
 taiwandaily.net##.gofollow[data-track] > img
@@ -19290,6 +19289,7 @@ zzzyk.com###Tinfo
 ||354xxcdt1.com^
 ||3562wsgkbcm.xyz^
 ||35kjurwwb6.com^
+||35lnvz97cg.com^
 ||35processors.net^
 ||35vc.com^
 ||35wo96wkjs.com^
@@ -20143,6 +20143,7 @@ zzzyk.com###Tinfo
 ||8cnd.com^
 ||8d7hhh8x.com^
 ||8d8d.me/images/dealer.gif
+||8eo93qj18r.com^
 ||8fdmj67f5e.com^
 ||8feichai.com^
 ||8g0j.cn^
@@ -25903,6 +25904,7 @@ zzzyk.com###Tinfo
 ||fvlqjw.top^
 ||fvxlhn.xyz^
 ||fwepd.xyz^
+||fwjtfo8f4z.com^
 ||fwlrv.cn^
 ||fwmbjrl.cn^
 ||fwsir.com/static/cpt/
@@ -32714,6 +32716,7 @@ zzzyk.com###Tinfo
 ||r.99waiyu.com^
 ||r.bat.bing.com/?ld=$script,redirect=noop.js,domain=mcappx.com
 ||r.trwl1.com/s1/$subdocument
+||r0d2dzltw7.com^
 ||r0eybo511.com^
 ||r0hpdbkqs.com^
 ||r0l7cp.com^
@@ -37395,6 +37398,7 @@ zzzyk.com###Tinfo
 ||y40milgijh.com^
 ||y4g8fgj6ra.com^
 ||y4re1yokqv.com^
+||y55lspa2v6.com^
 ||y63eay93i.com^
 ||y66xvgo5i.chuimg.com^
 ||y673shtv.xyz^
@@ -37468,6 +37472,7 @@ zzzyk.com###Tinfo
 ||ydstatic.com/fanyi/fanyi-ad-place/
 ||ydtykj.net^
 ||ydxdg.xyz^
+||ydxgph.top^
 ||ye120.com/swt.js
 ||ye120.com/zool.js
 ||yea.im/5hq.gif
