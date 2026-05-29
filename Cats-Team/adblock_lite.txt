@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-29 17:41:54(GMT+8)
-! Total count: 38473
+! Version: 2026-05-29 22:49:56(GMT+8)
+! Total count: 38467
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8664,7 +8664,7 @@ cloud.tencent.com##.cdc-commercial-swiper
 cloud.tencent.com##.mod-commercial
 cloudflareinsights.com$third-party
 cloudme.one#@#.ad-button
-cloudnestra.com,knaben.*,myflixerfree.com,lurvian.space,seeflix.*,stellarthread.com,tvsportslive.*#$#abort-on-property-read aclib false
+cloudnestra.com,knaben.*,moviepire.*,myflixerfree.com,lurvian.space,seeflix.*,stellarthread.com,tvsportslive.*#$#abort-on-property-read aclib false
 cloudvideo.tv,flashx.tv,gomovies.*,gostream.nu,govid.*,hdvid.tv,openloadmovies.*,vidshare.tv#$#abort-on-property-write Fingerprint2
 cls.cn#@#.share-body
 club.6parkbbs.com##.body_center:has(> div.adv-6park)
@@ -13539,6 +13539,7 @@ manhuagui.com##div[class]:has(> .adsbyexoclick)
 manhuagui.com##div[style^="width: 300px; height: 250px;"]
 manhuapica.com##a[href^="/ad/"]
 manhuaren.com###lb-win
+manhuatop.org,myflixerfree.com,streamm4u.*#$#abort-on-property-write _showApk
 manmanbuy.com##.app-activity-download
 manmanw.net##.tlads
 manwa.me#@#.ad-area
@@ -14049,7 +14050,6 @@ mydrivers.com#@#.baidu, a[href^=http][target=_blank]
 mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
 myexception.cn##.c_a_3
 myexception.cn##.m_a
-myflixerfree.com,streamm4u.*#$#abort-on-property-write _showApk
 myflixerz.*#$#hide-if-matches-xpath './/div[(@style="position: fixed; inset: 0px; z-index: 2147483647; pointer-events: auto;") or (@class and starts-with(@style, "pointer-events: none; position: absolute; top: 0px; left: 0px; width:"))]';
 myfreax.com##main > div.w-full:has(> ins.adsbygoogle)
 myhack58.com##.adv32
@@ -21225,7 +21225,6 @@ zzzyk.com###Tinfo
 ||ancheonyo.fun^
 ||ancientact.com^
 ||anciliaoat.com^
-||andriesmemoir.com^
 ||android.bugly.qq.com^
 ||anemonew33.top^
 ||anesthesia58.top^
@@ -22037,7 +22036,6 @@ zzzyk.com###Tinfo
 ||becode.xiao84.com^
 ||become.songche.net^
 ||becomeo21.com^
-||bedlessresizes.com^
 ||bedrapiona.com^
 ||bedsberry.com^
 ||beephone.com.tw/ad-middle.php
@@ -25683,7 +25681,6 @@ zzzyk.com###Tinfo
 ||flqa83yic.com^
 ||flsfzr.cn^
 ||flushingbeast.com^
-||fluteparental.com^
 ||flutteringfireman.com^
 ||flystranger.com^
 ||flyzy2005.com/wp-content/*/bandwagonhost-top.
@@ -29130,7 +29127,6 @@ zzzyk.com###Tinfo
 ||kuke99.com/static/home/js/index/index.js
 ||kuku99.com^$3p
 ||kukudm.com/mg/show2.js
-||kulakswindows.com^
 ||kumphurwyr.com^
 ||kunpeng-sc.csdnimg.cn/?timestamp=$subdocument,domain=blog.csdn.net
 ||kunzhang.name^
@@ -30306,7 +30302,6 @@ zzzyk.com###Tinfo
 ||mingtians.top^
 ||mini.hao123.com^
 ||minibilling.com^
-||minikenfiercen.com^
 ||miniurls.co/Webservices/jsParseLinks.aspx$script,third-party
 ||miniurls.co/visitScript/$script,third-party
 ||minixiazai.com/others/all_soft.js
@@ -33593,7 +33588,6 @@ zzzyk.com###Tinfo
 ||shakyseat.com^
 ||shakysurprise.com^
 ||shakytaste.com^
-||shalakobiarchy.com^
 ||shallowart.com^
 ||shallowblade.com^
 ||shamerain.com^
