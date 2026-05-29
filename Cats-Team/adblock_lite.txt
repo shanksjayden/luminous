@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-29 04:10:42(GMT+8)
-! Total count: 38463
+! Version: 2026-05-29 10:40:29(GMT+8)
+! Total count: 38467
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -19396,6 +19396,7 @@ zzzyk.com###Tinfo
 ||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
 ||3kfvgobkw.com^
+||3llzzztmz.com^
 ||3lxk4afsb.com^
 ||3ml8v.cn^
 ||3nopvvhju5.com^
@@ -26695,6 +26696,7 @@ zzzyk.com###Tinfo
 ||gxxyclub.top^
 ||gxzxiww.com^
 ||gybyxsy1588.com^
+||gycz2v4ch.com^
 ||gyhgcgj.xyz^
 ||gyjinchuang.vip^
 ||gyoqnunyfy.com^
@@ -26740,6 +26742,7 @@ zzzyk.com###Tinfo
 ||h6295.com^$popup
 ||h6cp.icu^
 ||h6fh0e4hg.com^
+||h6n6i7v98.com^
 ||h731.icu^
 ||h78xb.pw^
 ||h7ima6w5k.com^
@@ -36520,6 +36523,7 @@ zzzyk.com###Tinfo
 ||wirypaste.com^
 ||wisedotcom.com^
 ||wispycity.com^
+||wisteria37.top^
 ||wistfulwaste.com^
 ||wit.qq.com^$3p
 ||withsharks.com^
