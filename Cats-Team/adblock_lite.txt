@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-30 04:11:31(GMT+8)
-! Total count: 38470
+! Version: 2026-05-30 10:34:56(GMT+8)
+! Total count: 38475
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -4395,12 +4395,12 @@ $websocket,domain=wap.yushuwu.cloud
 58pic.com##.xyyh
 591hx.com##.banner_w
 5dm.app##[src*="sinaimg.cn"]
+5dm.dev##div[id^="player_p"]
 5dm.link###popop
 5dm.link###rip
 5dm.link###xaify
 5dm.link##a[href^="https://aigirlfriendstudio.com/"]
 5dm.link##a[href^="https://equity.tmall.com/"]
-5dm.link##div[id^="player_p"]
 5dm.link#@#.tm-share-this
 5dy15.cc##div[id][class^="is_"][style^="margin"]
 5eplay.com##.ad_img-bg-bg-p
@@ -19327,6 +19327,7 @@ zzzyk.com###Tinfo
 ||3798.com^$3p
 ||37bhof.com^
 ||37lwjdaua.com^
+||37nu0riwfd.com^
 ||38.33.15.*.gif
 ||380.tw^$popup,3p
 ||380tv.com/upload/*-ad-
@@ -19727,7 +19728,7 @@ zzzyk.com###Tinfo
 ||5bkhq0lwmq.com^
 ||5d7k30pv1u.com^
 ||5dfiuae82.com^
-||5dm.link/htm$image
+||5dm.*/htm$image
 ||5dm.link/htmI/*.gif
 ||5dm.tv/html/5dmm.jpg
 ||5dmail.net/image/$object
@@ -22046,6 +22047,7 @@ zzzyk.com###Tinfo
 ||beewhispering.com^
 ||befitkersey.com^
 ||beginnerpancake.com^
+||begonia20.com^
 ||behavior65.top^
 ||beigekismat.com^
 ||beijing-air.com/images/a/j
@@ -24233,6 +24235,7 @@ zzzyk.com###Tinfo
 ||dh1dh.top^
 ||dh5t3pyb6r.com^
 ||dh8ypn3lq8.com^
+||dhckj73qr3.com^
 ||dhduc.com^
 ||dheblxw.com^
 ||dheear.site^
@@ -24974,6 +24977,7 @@ zzzyk.com###Tinfo
 ||ejolul.xyz^
 ||ejunshi.com^
 ||ejyymghi.com^
+||ek946br7uy.com^
 ||ekdky.cn^
 ||ekdtywtkc.com^
 ||eklzt1bvv.com^
@@ -34970,6 +34974,7 @@ zzzyk.com###Tinfo
 ||tjqwb.cn^
 ||tjv250730ads.com^
 ||tjv251109ads.com^
+||tjv260529xxx.com^
 ||tjvpnh.icu^
 ||tjwzyjx.icu^
 ||tk.504pk.com^
