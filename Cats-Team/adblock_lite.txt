@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-30 16:21:12(GMT+8)
-! Total count: 38476
+! Version: 2026-05-30 21:15:14(GMT+8)
+! Total count: 38479
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -19328,6 +19328,7 @@ zzzyk.com###Tinfo
 ||37bhof.com^
 ||37lwjdaua.com^
 ||37nu0riwfd.com^
+||37shrmvlju.com^
 ||38.33.15.*.gif
 ||380.tw^$popup,3p
 ||380tv.com/upload/*-ad-
@@ -19728,7 +19729,7 @@ zzzyk.com###Tinfo
 ||5bkhq0lwmq.com^
 ||5d7k30pv1u.com^
 ||5dfiuae82.com^
-||5dm.*/htm$image
+||5dm.*/ggjpg/
 ||5dm.link/htmI/*.gif
 ||5dm.tv/html/5dmm.jpg
 ||5dmail.net/image/$object
@@ -22619,6 +22620,7 @@ zzzyk.com###Tinfo
 ||bxwccii.cn^
 ||bxzm9a.icu^
 ||by.dyq.cn^
+||by2lc7429r.com^
 ||by4d.com/dh/
 ||by4d.com/love/
 ||by8428.com^
@@ -28926,6 +28928,7 @@ zzzyk.com###Tinfo
 ||kgimg.com/public/root//images/hardware.jpg
 ||kgoj4nrhe.com^
 ||khayaltenses.com^
+||kheejcqnll.com^
 ||kheivutb.com^
 ||khgjfm16.com^
 ||khinyugbfad0dlkiunapldnka3sdeuhn.com^
