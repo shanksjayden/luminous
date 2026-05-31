@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-05-31 03:04:06(GMT+8)
-! Total count: 38480
+! Version: 2026-05-31 10:51:42(GMT+8)
+! Total count: 38485
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -23805,6 +23805,7 @@ zzzyk.com###Tinfo
 ||cxsh.cn.com^
 ||cxy88.friok.com^
 ||cyberspace92.net^
+||cyclamen46.com^
 ||cyclinghere.com^
 ||cyclopsdial.com^
 ||cycyw.com/mf/
@@ -23842,6 +23843,7 @@ zzzyk.com###Tinfo
 ||d1.yingyongge.com/production/*/production/ihth.js
 ||d1.yingyongge.com/qmoshe.js
 ||d1.zhuangxiu6.com^
+||d1129ldr7.com^
 ||d11a2fzhgzqe7i.cloudfront.net^$script
 ||d12ysuoljjyfqa.cloudfront.net^$script
 ||d13gni3sfor862.cloudfront.net^
@@ -24072,6 +24074,7 @@ zzzyk.com###Tinfo
 ||ddckenbga.com^
 ||ddgjjj.com^
 ||ddgjjj.com^$3p
+||ddhwxwi6h.com^
 ||ddjs5wde2.com^
 ||ddpoupmu.icu^
 ||ddrqd9eox.com^
@@ -25527,6 +25530,7 @@ zzzyk.com###Tinfo
 ||fg.daochengwowo.top^
 ||fg.yilianqing.com^
 ||fg544vwr2v.com^
+||fgbomsqo4j.com^
 ||fgetmzx.icu^
 ||fgfhgvtj.com^
 ||fghelmorotvn.com^
@@ -36550,6 +36554,7 @@ zzzyk.com###Tinfo
 ||wj8i1rlp2b.com^
 ||wj9uod3838.com^
 ||wjxc92bc.xyz^
+||wk5fo6pyf.com^
 ||wk70ccjk1a.com^
 ||wkjwumtex3.com^
 ||wkrcbszi.xyz^
