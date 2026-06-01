@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-01 03:07:25(GMT+8)
-! Total count: 38492
+! Version: 2026-06-01 11:27:14(GMT+8)
+! Total count: 38496
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20214,6 +20214,7 @@ zzzyk.com###Tinfo
 ||90oo.com/tp/msn.jpg
 ||90q0tq3bwo.com^
 ||90qxskdmn9.com^
+||90tsdpml6.com^
 ||9112rj8wo.com^
 ||91160.com/nykj/f=static/v4/common/tj.js
 ||9129666tp.com^$domain=9xav.cc
@@ -25814,6 +25815,7 @@ zzzyk.com###Tinfo
 ||freehao123.com/wp-content/uploads/2017/05/mmkdm.png
 ||freeiptvplayer.net/wp-content/uploads/$script
 ||freejavbt.com/assets/images/banner
+||freesia45.top^
 ||freevaluator.com^*/js/check.js
 ||freezeassets.com^
 ||freezingbuilding.com^
@@ -28259,6 +28261,7 @@ zzzyk.com###Tinfo
 ||jappy.tv/i/wrbng/abb.png
 ||jashautchord.com^
 ||jasjas.xyz^
+||jasmine33.top^
 ||jasmined544.com^
 ||jaspersfamilia.cyou^
 ||jauql.top^
@@ -32687,6 +32690,7 @@ zzzyk.com###Tinfo
 ||qushucheng.com/public/
 ||quspga.xyz^
 ||qutyan8848.com^
+||quu175kt3.com^
 ||quudraidfg.com^
 ||quzmtpxw.xyz^
 ||qvdn.cn^
