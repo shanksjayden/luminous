@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-02 01:25:04(GMT+8)
-! Total count: 38501
+! Version: 2026-06-02 05:24:17(GMT+8)
+! Total count: 38502
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -17841,6 +17841,7 @@ xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
 xchina.co##.block-overlay
+xchina.co##.photo-items > div[class^="item auto-height"]
 xchina001.online###core-zone-4
 xchina001.online###z-extra-2
 xchina001.online###z-extra-3
@@ -22939,7 +22940,7 @@ zzzyk.com###Tinfo
 ||cdn.q.gs/js/display.js$script,third-party
 ||cdn.q.gs/js/entry.js$script,third-party
 ||cdn.q.gs/js/link-converter.js$script,third-party
-||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noop-0.1s.mp3,domain=m.yichengwlkj.com
+||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noop-0.1s.mp3,domain=yichengwlkj.com
 ||cdn.shdsp.net/ad
 ||cdn.shorte.st/link-converter.min.js$script,third-party
 ||cdn.trustpielote.com^$domain=bigfuck.tv
@@ -29915,7 +29916,6 @@ zzzyk.com###Tinfo
 ||m.ybstwl.com/public/tpl/m2/js/
 ||m.ygexing.com/d/js/acmsd
 ||m.yhdm.so/bar/yfgg.js
-||m.yichengwlkj.com/ssp_ad_sdk.js
 ||m.yinghuacd.com/bar
 ||m.ysxs8.com/js/content_db.js
 ||m03dv.xyz^
@@ -37579,6 +37579,7 @@ zzzyk.com###Tinfo
 ||yibian.hopto.org/apng/load.php$important
 ||yiboshangmao3.com^
 ||yichengjiajupt.com^
+||yichengwlkj.com/ssp_ad_sdk.js
 ||yidengfe.com/launches/01/yd.png
 ||yield70.net^
 ||yieldingwoman.com^
