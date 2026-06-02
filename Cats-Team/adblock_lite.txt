@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-02 10:57:20(GMT+8)
-! Total count: 38506
+! Version: 2026-06-02 18:11:27(GMT+8)
+! Total count: 38507
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -6892,7 +6892,7 @@ abstream.to,advertape.*,bunkr.*,easyvidplayer.com,marissasharecareer.com,livecam
 abtranny.com#$#abort-current-inline-script document.createElement popunder_ssp_url; abort-current-inline-script document.createElement vast_url; override-property-read _834t32miib undefined
 abtranny.com#$#hide-if-matches-xpath './/*[text()="AD"]/parent::div[@*[starts-with(name(), "data-")]][@style]'; hide-if-matches-xpath './/button/following-sibling::*[text()="AD"]/ancestor::div[@*[starts-with(name(), "data-")]][1][.//a[contains(@class,"banner__") and contains(@style,"width: 100%")]]'
 abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com#$#abort-current-inline-script document.getElementById openPop
-abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com,www.bachnguyetquang.online,www.cap3.homes#$#override-property-read open noopFunc
+abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com,www.bachnguyetquang.online,www.cap3.buzz#$#override-property-read open noopFunc
 ac.qq.com###qgirlRefreshLead
 ac.qq.com##.in-hd-mod
 aces.gg#$#abort-current-inline-script $ window.open
@@ -8239,7 +8239,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,phimsex24h.net,animehay04.site,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.info,dualeotruyenpy.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen7.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,phimsex24h.net,animehay04.site,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.live,dualeotruyenpy.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen7.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 buonaporno.com#$#abort-current-inline-script document.querySelectorAll popMagic; abort-on-property-read popMagic;
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
@@ -8315,7 +8315,7 @@ caoporn.com###middleimg
 caoporn.com##.container + #wrapper:not(.container)
 caoporn.com##.jw-icon-replay-contain > div[style^="display: block; position: absolute; background-color: white; width:"]
 caoporn.com##div[style="height:160px; max-width:100%; width:945px; padding-top:10px; margin:0px auto;"]
-cap3.homes#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
+cap3.buzz#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
 caq98i.top##+js(abort-on-property-read, alertadmodal)
 car16.com##.modal-overlay
 cardu.com.tw###crazy_layer
@@ -17745,8 +17745,8 @@ www.sina.com.cn##.mod-01
 www.sina.com.cn##.part-l
 www.sina.com.cn##.secondtj-wrapper
 www.sogou.com##.tgad-box + div
-www.toptruyenzone2.com#$#abort-current-inline-script Promise instance
-www.toptruyenzone2.com#$#abort-current-inline-script setTimeout open
+www.toptruyenzone3.com#$#abort-current-inline-script Promise instance
+www.toptruyenzone3.com#$#abort-current-inline-script setTimeout open
 www.toutiao.com##.download-app-banner
 www.toutiao.com##.download.tool-item
 www.toutiao.com##.ttp-portal-anime-show
@@ -21359,7 +21359,6 @@ zzzyk.com###Tinfo
 ||apk.qqvv88.com^
 ||apk.tw/static/js/showpic.js
 ||apmcx60sm5.com^
-||aporiaecabda.com^
 ||app-g.39.net/NNN/
 ||app-measurement.com^
 ||app.bugsnag.com^
@@ -21824,6 +21823,7 @@ zzzyk.com###Tinfo
 ||balloonbelieve.com^
 ||ballsbanana.com^
 ||balmoralmkt.com^$3p
+||balsam18.com^
 ||balvehgmhw.com^
 ||bamboohugs.com^
 ||bananabarrel.com^
@@ -22382,6 +22382,7 @@ zzzyk.com###Tinfo
 ||bootscritp.com^
 ||bootstron.com^
 ||boraerzutd.com^
+||borderalacrity.com^
 ||boredcrown.com^
 ||borelmazatec.com^
 ||borghaswing.com^
@@ -23799,6 +23800,7 @@ zzzyk.com###Tinfo
 ||cuvetteacknown.com^
 ||cv3qb5813.com^
 ||cv5gezvaj.com^
+||cvd2jag5ru.com^
 ||cvftv2.com^
 ||cvpl9qbz6.com^
 ||cvsheil.com^
@@ -24173,7 +24175,6 @@ zzzyk.com###Tinfo
 ||detourgame.com^
 ||deuxseethe.com^
 ||develenv.com^$third-party
-||developdomicile.com^
 ||developpez.com/template/*.jpg$xmlhttprequest
 ||developpez.net/template/*.jpg$xmlhttprequest
 ||device.fishmobi.com^
@@ -29631,7 +29632,6 @@ zzzyk.com###Tinfo
 ||loaddisplay.com^
 ||loadedhearts.com^
 ||loadsurprise.com^
-||lobefinrewires.com^
 ||lobfigrethink.com^
 ||lobiwearies.com^
 ||localau.vip/plugin/ad_
@@ -32105,6 +32105,7 @@ zzzyk.com###Tinfo
 ||poyc.cn^
 ||ppbtdj.icu^
 ||ppedp.cn^
+||ppkufuc5vg.com^
 ||pplnjoow.com^
 ||ppluoli.xyz^*.gif
 ||pppteennal.com^
