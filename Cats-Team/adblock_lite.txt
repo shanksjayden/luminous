@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-02 05:24:17(GMT+8)
-! Total count: 38502
+! Version: 2026-06-02 10:57:20(GMT+8)
+! Total count: 38506
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -24988,6 +24988,7 @@ zzzyk.com###Tinfo
 ||eitorawrdo.com^
 ||eiv.baidu.com^
 ||eiykmtb.cn^
+||ej8f5vk381.com^
 ||ejieban.com^
 ||ejiwvof.icu^
 ||ejolul.xyz^
@@ -27538,6 +27539,7 @@ zzzyk.com###Tinfo
 ||hznzcn.com/moban/youxiajiao.js
 ||hzrghx.xyz^
 ||hzvcaadn.icu^
+||hzyolohcz6.com^
 ||i-fk.cn^
 ||i-gamer.net/promo_
 ||i-gamer.net^$domain=cartoonmad.com
@@ -29980,6 +29982,7 @@ zzzyk.com###Tinfo
 ||magiczenith.com^
 ||magnetairport.com^
 ||magnetdog.net^$popup
+||magnolia77.top^
 ||magnolian07.top^
 ||magsrv.com^
 ||mahoupao.com/api.php?mod=ad&
@@ -34857,6 +34860,7 @@ zzzyk.com###Tinfo
 ||theweeklydonut.org^
 ||thewindrun.com^
 ||thezbpe5*.xyz^
+||thgh902ny.com^
 ||thiazinamus.com^
 ||thickticket.com^
 ||thicktrucks.com^
