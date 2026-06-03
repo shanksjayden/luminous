@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-04 00:25:20(GMT+8)
-! Total count: 38545
+! Version: 2026-06-04 04:49:21(GMT+8)
+! Total count: 38547
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -11381,11 +11381,11 @@ huarenjie.com###LeftAd2
 huarenjie.com###RightAd2
 huarenjie.com###cftoutiao
 huarenjie.net##div[style*="top: 50px;"]
+huavod.cc,huavod.top,huaren.live,huavod.com,huavod.net##a[href^="/go/baba/"]
+huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
+huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
+huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huavod.com##a[href^="https://lesi198.com"]
-huavod.top,huaren.live,huavod.com,huavod.net##a[href^="/go/baba/"]
-huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
-huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
-huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
@@ -26771,6 +26771,7 @@ zzzyk.com###Tinfo
 ||h1.cfxinxi.cn^
 ||h1.kukuw.com^
 ||h1.wk2.com^
+||h1883c5wn.com^
 ||h1v3fa.com^
 ||h1yfrt.com^
 ||h2ji5.xyz^
@@ -26955,6 +26956,7 @@ zzzyk.com###Tinfo
 ||hcjs.nv7s.com/xif*/*.js$domain=hclips.com
 ||hcjwq.cn^
 ||hcl6pwowqv.com^
+||hcp5dq18h.com^
 ||hcvegu.com^
 ||hczj7w56k.top^
 ||hdapp1003-a.akamaihd.net^
@@ -34325,7 +34327,7 @@ zzzyk.com###Tinfo
 ||static.missav.com/js/plyr.js
 ||static.okokserver.com/js/anti/adblocker.js
 ||static.okokserver.com/uploads/lesi/$image,domain=huaren.live|huavod.com
-||static.okokserver.com/uploads/lesi/$xhr,redirect=noop.txt,domain=huaren.live|huavod.net|huavod.com|huavod.top
+||static.okokserver.com/uploads/lesi/$xhr,redirect=noop.txt,domain=huaren.live|huavod.net|huavod.com|huavod.top|huavod.cc
 ||static.okokserver.com/uploads/lesi/lesi.mp4$media
 ||static.okokserver.com^$media,domain=huaren.live
 ||static.olelive.com/upload/site/*/*.gif
