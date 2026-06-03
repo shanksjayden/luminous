@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-03 04:38:39(GMT+8)
-! Total count: 38526
+! Version: 2026-06-03 11:32:26(GMT+8)
+! Total count: 38531
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -24662,6 +24662,7 @@ zzzyk.com###Tinfo
 ||dufile.com/jsa/
 ||duier.top^
 ||duiwai.baidu.com^
+||dukwznn0x.com^
 ||dunkhj.top^
 ||duo*.top/Runtime/js/psData.js
 ||duodada.com/Tpl/default/system.js
@@ -28382,6 +28383,7 @@ zzzyk.com###Tinfo
 ||jhhv22erzs.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
+||jhpqntyyeezpds.com^
 ||jhqi.cn^
 ||jhvchv.xyz^
 ||jhzfwl.cn^
@@ -30810,6 +30812,7 @@ zzzyk.com###Tinfo
 ||nbsxazr.icu^
 ||nbtfbb.xyz^
 ||nbudas92.shop^
+||nbwsj9gnd.com^
 ||ncb6t8bn4.com^
 ||ncgqmzm.cn^
 ||nchanado.com^
@@ -34620,6 +34623,7 @@ zzzyk.com###Tinfo
 ||t0pan.top^
 ||t1.612.com^
 ||t1.xuefen.com.cn^
+||t19olm6fd.com^
 ||t1d26dvout.com^
 ||t1tgame.com^
 ||t1thmtn5.xyz^
@@ -34702,6 +34706,7 @@ zzzyk.com###Tinfo
 ||taozi888.com/a*.js
 ||taozi888.com/sys
 ||taporn.com/d/
+||taproot44.com^
 ||tarinraiding.com^
 ||tarotmood.com/img/banner$domain=ixdzs.tw
 ||tarqk5.com^
