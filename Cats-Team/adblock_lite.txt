@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-03 11:32:26(GMT+8)
-! Total count: 38531
+! Version: 2026-06-03 18:47:45(GMT+8)
+! Total count: 38529
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8652,7 +8652,7 @@ clicknupload.co,clicknupload.link,clicknupload.org,clicknupload.to#$#abort-curre
 client=ca-pub-$subdocument,domain=expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 client=ca-pub-$subdocument,domain=iprima.cz|www.ahaonline.cz|info.cz|onetv.cz
 clikcoin.pl#@##adsense
-cliphotnewv.blog#$#abort-current-inline-script window.addEventListener Ads
+cliphotnewx.com#$#abort-current-inline-script window.addEventListener Ads
 cliphubs.com,viet69hay.site#$#abort-current-inline-script document.addEventListener pop
 clipphot.vip#$#abort-current-inline-script document.addEventListener POP
 closermag.fr##div[id^="detection-block"]
@@ -20817,7 +20817,6 @@ zzzyk.com###Tinfo
 ||adutp.com^$third-party
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
-||advancingtheirs.com^
 ||adventurousamount.com^
 ||advertclicks.ru^$domain=pronpic.org
 ||advertising-api-eu.amazon.com^
@@ -22536,6 +22535,7 @@ zzzyk.com###Tinfo
 ||bubblessudsman.com^
 ||bubblyaction.com^
 ||bucketlistbob.com^
+||buddhpearled.com^
 ||buddycanvas.com^
 ||budgetea.top^
 ||budl.cn^
@@ -23787,7 +23787,6 @@ zzzyk.com###Tinfo
 ||curlycannon.com^
 ||curogmc.com^
 ||currentcollar.com^
-||cursecrookadvantage.com^
 ||curtaincows.com^
 ||curtcoracii.com^
 ||curthkivew.com^
@@ -24564,7 +24563,6 @@ zzzyk.com###Tinfo
 ||downmn.com^$popup,3p
 ||downmz.com^$popup,3p
 ||downxia.com/dgjs/download.js
-||downyattainprojects.com^
 ||downyi.com/tg/
 ||dowrrav.com^
 ||dozu5h9yql.com^
@@ -26126,6 +26124,7 @@ zzzyk.com###Tinfo
 ||gdxxb.com^$3p
 ||gdyjs.com^
 ||gdzshoes.com^
+||ge99lo1z2.com^
 ||gearbubbles.com^
 ||gedu.org/js/meiqia_pc_groupmarket.
 ||geecradv.com^
@@ -26523,6 +26522,7 @@ zzzyk.com###Tinfo
 ||greenxiazai.com/d/js/v/
 ||gregariousstretch.com^
 ||greikvuth.com^
+||grewiabromus.com^
 ||greyinstrument.com^
 ||gridbelow.com^
 ||gridfrom1111.net^
@@ -27245,6 +27245,7 @@ zzzyk.com###Tinfo
 ||hnxxt.net^
 ||hnyishidengbao.com^$3p
 ||hnzzff.club^
+||hoamt60fa.com^
 ||hocgeese.com^
 ||hodynx.top^
 ||hogtiesturret.com^
@@ -27634,7 +27635,6 @@ zzzyk.com###Tinfo
 ||icnkr.com/cnkradv/
 ||icnkr.com/data/attachment/portal/
 ||icon.zol-img.com.cn/mainpage/js/click.js
-||iconizeshrilly.com^
 ||icourse163.org/dwr/call/plaincall/CommonBean.obtain.dwr
 ||icws.jb51.net/good/arc2019.js
 ||icywinter.com^
@@ -27999,7 +27999,6 @@ zzzyk.com###Tinfo
 ||internalsink.com^
 ||interviewbq.com^
 ||intimidatepropel.com^
-||intortarguing.com^
 ||intricateberry.com^
 ||introjava.com^
 ||inudpbi.com^
@@ -29978,6 +29977,7 @@ zzzyk.com###Tinfo
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
 ||m9sz0hh3f7.com^
+||m9ylqs5rn.com^
 ||ma1.meishij.net^
 ||macd.cn/macd-topads.html
 ||macfans.org/vip/
@@ -31094,7 +31094,6 @@ zzzyk.com###Tinfo
 ||nondescriptstocking.com^
 ||nongjitong.com/adm/
 ||nordpresse.be/wp-content/uploads/$script
-||norimoncremes.com^
 ||norma-external-collect.meizu.com^
 ||norse.mingxiaow.com^
 ||northcookie.xyz^
@@ -32338,7 +32337,6 @@ zzzyk.com###Tinfo
 ||pypwxvo.cn^
 ||pyramidpaw.com^
 ||pyrfpb.icu^
-||pyxisdewrot.com^
 ||pz0d6zc6n.com^
 ||pzjizsyf.icu^
 ||pzkrgcp.cn^
@@ -32477,6 +32475,7 @@ zzzyk.com###Tinfo
 ||qifjksdqwd.xyz^
 ||qifyeldy.top^
 ||qigreveth.com^
+||qihang168.top^
 ||qiji1.jdwx.info^
 ||qijpaih.cn^
 ||qilanxiaozhu.*/data/attachment/portal/
@@ -33742,7 +33741,6 @@ zzzyk.com###Tinfo
 ||shrewsburyshow.com^
 ||shrillspoon.com^
 ||shtatuo.cn^
-||shticksmazut.com^
 ||shuakongbao.com/resource/images/banner/
 ||shufapeixun.shop^
 ||shuhaoxs.com/public/
