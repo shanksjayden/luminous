@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-04 12:03:00(GMT+8)
-! Total count: 38554
+! Version: 2026-06-04 17:47:10(GMT+8)
+! Total count: 38559
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -19759,6 +19759,7 @@ zzzyk.com###Tinfo
 ||5dyx.com/static/js/deny.js
 ||5edf1d2qv.com^
 ||5etv.com^$third-party
+||5eyal1g5a9.com^
 ||5f1qyi04vz.com^
 ||5fyme6x6uy.com^
 ||5fz.cc/t/aimg/tao
@@ -24961,6 +24962,7 @@ zzzyk.com###Tinfo
 ||effulgenttempest.com^
 ||efg.zle.com^
 ||efgh.5lu.com^
+||efh2rahxxq.com^
 ||efmh.cn^
 ||efsy7b1x6.com^
 ||eftd.cn^
@@ -25958,6 +25960,7 @@ zzzyk.com###Tinfo
 ||fx110.*/Scripts/1.0.0/gulpmin/Ghz/
 ||fx110.*/Styles/1.0.0/dist/Ghz/MatrixAds.
 ||fx168.com/am.js
+||fx455rrt4b.com^
 ||fx678.com/htcount/count.js
 ||fx8rurzhbf.com^
 ||fxab9iuprt.com^
@@ -29784,6 +29787,8 @@ zzzyk.com###Tinfo
 ||lt3f9p5ox2.com^
 ||ltbyw.top/data/images/*.gif
 ||ltd.ua/zz
+||ltd.ua/zz$badfilter
+||ltd.ua/zz$xhr,redirect=noop.json
 ||ltfcagrapl.com^
 ||ltht.tech^
 ||lthuvb.icu^
