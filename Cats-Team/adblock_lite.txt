@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-04 17:47:10(GMT+8)
-! Total count: 38559
+! Version: 2026-06-04 22:43:44(GMT+8)
+! Total count: 38561
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -16657,7 +16657,6 @@ tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u5c0
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u5feb\\u8baf\\u5927\\u7ba1\\u5bb6\""]
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u901f\\u8baf\""]
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u8d34\\u5427\\u89e6\\u70b9\\u63a8\\u5e7f\""]
-tieba.baidu.com##.load-more.wake-app
 tieba.baidu.com##.more-image-desc
 tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.only-lz
@@ -17820,6 +17819,7 @@ x3cn.com##div[style="margin:3px auto"] + table
 x6d.com##li:has(>.myad)
 x6d.com,xiaodao0.com##a[href^="/ad."]
 x6g.com##.addd
+x6g.com##.news-article_container > ul > li[class]:has(> a[href^="/ad.php?aHR0c"])
 x99av.com##+js(set-constant, ADSOBJET, {})
 xanimu.com##div[id^="after-boxes"]
 xanimu.com##div[id^="beside-video"]
@@ -28717,6 +28717,7 @@ zzzyk.com###Tinfo
 ||jtienla.top^
 ||jtjh.tw^
 ||jtpu9s.icu^
+||jtzyk9iypb.com^
 ||juandou.com^$3p
 ||juapp5.com/geek_image/chaopai.jpeg
 ||jubilantaura.com^
@@ -29786,7 +29787,6 @@ zzzyk.com###Tinfo
 ||lsnzxzy1.com/Runtime/js/psData.js
 ||lt3f9p5ox2.com^
 ||ltbyw.top/data/images/*.gif
-||ltd.ua/zz
 ||ltd.ua/zz$badfilter
 ||ltd.ua/zz$xhr,redirect=noop.json
 ||ltfcagrapl.com^
@@ -30828,6 +30828,7 @@ zzzyk.com###Tinfo
 ||nbgsintl.com^
 ||nbhedrelpl.com^
 ||nbpczr.icu^
+||nbpicture.xyz^$domain=ltd.ua
 ||nbraenkikrn.com^
 ||nbsdk-baichuan.alicdn.com^
 ||nbsxazr.icu^
@@ -36439,6 +36440,7 @@ zzzyk.com###Tinfo
 ||wbqhehokmy.com^
 ||wbupbv.com^
 ||wbvfj.xyz^
+||wc6y3nrv7g.com^
 ||wcanj.com/2345/
 ||wcdc5.com^
 ||wcehko.juankh.com^
