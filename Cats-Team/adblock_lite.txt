@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-04 22:43:44(GMT+8)
-! Total count: 38561
+! Version: 2026-06-05 03:56:56(GMT+8)
+! Total count: 38553
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -18691,6 +18691,7 @@ zzzyk.com###Tinfo
 ||0ns32h.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0oi1ej7mo.com^
+||0otmh22aj2.com^
 ||0p7w.cn^
 ||0qxfxqif0.com^
 ||0rvv7l6k7g.com^
@@ -19880,7 +19881,6 @@ zzzyk.com###Tinfo
 ||6789.net^$3p
 ||67qlvj0jcj.com^
 ||67u36vmzm.com^
-||680tosystems.com^
 ||6820tp1.com^
 ||68287zubo85737.com^
 ||68710266.com^
@@ -20282,7 +20282,6 @@ zzzyk.com###Tinfo
 ||9527yy.com/js/data2.js
 ||9553.com/otherhtml/
 ||95590.org/v1.
-||95instances.net^
 ||95k62nnvnh.com^
 ||9613gwqee.com^
 ||962.net/show/all.js
@@ -22546,6 +22545,7 @@ zzzyk.com###Tinfo
 ||buddycanvas.com^
 ||budgetea.top^
 ||budl.cn^
+||budtawney.com^
 ||bugly.qq.com^
 ||bugpizza.com^
 ||bugs01070ko.com^
@@ -23241,6 +23241,7 @@ zzzyk.com###Tinfo
 ||cibntv.net/youku/*.mp4?$media,redirect=noop-1s.mp4,domain=v.youku.com,important
 ||cicdserver.com^
 ||cidb5rr2t.com^
+||ciderconcluded.com^
 ||ciderfeast.com^
 ||cidhdgv.xyz^
 ||cidianwang.com/css/tj.
@@ -24755,7 +24756,6 @@ zzzyk.com###Tinfo
 ||dytt8.net/js3/
 ||dytt8.net/jsd
 ||dytt8899.com/js/tj.js
-||dyttgsmq.com^
 ||dytuj6zs26.com^
 ||dyxs39.com/statics/js/jquery.
 ||dyxz*.com/static/gdw.js
@@ -25775,7 +25775,6 @@ zzzyk.com###Tinfo
 ||forflygonom.com^
 ||forgetfulflowers.com^
 ||forgetfulsnail.com^
-||forthbycity.com^
 ||fortunatemark.com^
 ||fortune59.com^
 ||forwardslashetc.com^
@@ -27160,7 +27159,6 @@ zzzyk.com###Tinfo
 ||hinet.net/radio/getAdcode.do
 ||hingidnaa.com^
 ||hiooq0417.com^
-||hipjjdrfpdmqt.com^
 ||hippojump.com^
 ||hiqua.xyz^
 ||histats.com^
@@ -28381,7 +28379,6 @@ zzzyk.com###Tinfo
 ||jfyb6.com^
 ||jg0y00ciyr.com^
 ||jg1668.com^$3p
-||jgbnltrrpotbl.online^
 ||jghklz.xyz^
 ||jgid.cn^
 ||jgo1pcbx9.com^
@@ -29581,7 +29578,6 @@ zzzyk.com###Tinfo
 ||lj0hx1sboy.com^
 ||lj43bm3y8.com^
 ||ljarfvg.cn^
-||ljuloawhjs.com^
 ||ljvt4pnl9.com^
 ||lk0v8teerw.com^
 ||lkancklanklcav.com^
@@ -29787,8 +29783,6 @@ zzzyk.com###Tinfo
 ||lsnzxzy1.com/Runtime/js/psData.js
 ||lt3f9p5ox2.com^
 ||ltbyw.top/data/images/*.gif
-||ltd.ua/zz$badfilter
-||ltd.ua/zz$xhr,redirect=noop.json
 ||ltfcagrapl.com^
 ||ltht.tech^
 ||lthuvb.icu^
@@ -29834,7 +29828,6 @@ zzzyk.com###Tinfo
 ||luyx8.com/tu/666.gif
 ||lv-play.com/web/adv/list
 ||lv.myapks.com^
-||lvaokswa.com^
 ||lvcha99.cc^
 ||lvdvltsid.com^
 ||lvjtiaa.xyz^
@@ -30106,6 +30099,7 @@ zzzyk.com###Tinfo
 ||martylatah.com^
 ||masadora.net/kakusan-
 ||masdk.3g.qq.com^
+||mashersjikungu.com^
 ||masockq.com^
 ||massivemark.com^
 ||masturbation22.com/d/
@@ -31289,7 +31283,6 @@ zzzyk.com###Tinfo
 ||oagirlodug.com^
 ||oaihiiacb.com^
 ||oajfpqojev.net^
-||oaktowarehouses.com^
 ||obaivrek.com^
 ||obanlazed.com^
 ||obdtfijian.com^
@@ -32940,6 +32933,7 @@ zzzyk.com###Tinfo
 ||redbricksoap.com^
 ||redcapsunlime.com^
 ||redmx.cn^$3p
+||redsearoblates.com^
 ||redshu.com/js/pcAdv.js
 ||redshu.com/js/www/jquerygg.js
 ||reduceplan.com^
@@ -35009,6 +35003,7 @@ zzzyk.com###Tinfo
 ||tinjsicyt.com^
 ||tinnerydunging.com^
 ||tinthenorthofuro.com^
+||tintskrag.qpon^
 ||tinybluewhale.com^
 ||tinylinks.co/Webservices/jsParseLinks.aspx$script,third-party
 ||tinylinks.co/visitScript/$script,third-party
@@ -36012,7 +36007,6 @@ zzzyk.com###Tinfo
 ||verysadfun.com/assets/publish/jquery.*.js
 ||vetxpx.icu^
 ||veuf2obzc8.com^
-||vewikvuvrucdc.online^
 ||vexilorath.com^
 ||vextslows.com^
 ||veybl6f3o.com^
@@ -36172,7 +36166,6 @@ zzzyk.com###Tinfo
 ||vnig0.cn^
 ||vnlozunyvl.com^
 ||vns86.oss-*.aliyuncs.com^
-||vnsvifdfhuehe.com^
 ||vnurqroibt.com^
 ||vnvmif.cn^
 ||vnyqemhir.com^
@@ -37724,7 +37717,6 @@ zzzyk.com###Tinfo
 ||ymmegy.icu^
 ||ymmiyun.com^
 ||ympl9l9b.xyz^
-||ymtcthpn.com^
 ||ymtwmhh43.com^
 ||ymyile.xyz^
 ||yn0mbg4p1.com^
