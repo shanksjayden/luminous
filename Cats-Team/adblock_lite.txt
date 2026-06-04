@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-04 04:49:21(GMT+8)
-! Total count: 38547
+! Version: 2026-06-04 12:03:00(GMT+8)
+! Total count: 38554
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -5920,6 +5920,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||jsjiami.com^$generichide
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||jswenhui.com^*/ad/
+@@||jsxx.gds.edu.cn^$genericblock
 @@||juduo.cc^$generichide
 @@||jupako.uk/ads.php$subdocument
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$domain=viu.tv
@@ -22443,6 +22444,7 @@ zzzyk.com###Tinfo
 ||brainybasin.com^
 ||brainynut.com^
 ||braised58.top^
+||branch20.top^
 ||branchborder.com^
 ||brand.sogou.com/micro?yyid=
 ||brandsfive.com^
@@ -24091,6 +24093,7 @@ zzzyk.com###Tinfo
 ||dd6364.com/js/777/
 ||dd667788dd.com^
 ||dd778899dd.com^
+||dd81bp3qbj.com^
 ||ddbuwo.cn^
 ||ddc888.com^
 ||ddckenbga.com^
@@ -29971,6 +29974,7 @@ zzzyk.com###Tinfo
 ||m2k3j7x8.com^
 ||m3cqjc3og6.com^
 ||m3ks1o8jz.com^
+||m3v8x28jut.com^
 ||m43ocq1uoj.com^
 ||m485oq2gym.top^
 ||m4fxreb5s.com^
@@ -32336,6 +32340,7 @@ zzzyk.com###Tinfo
 ||px.ucweb.com^
 ||px02mouzas.com^
 ||pxdb08b82.com^
+||pxlizduukhnpps.com^
 ||pxvbnt.top^
 ||pxwu.cn^
 ||pxx.tnklrs.cn^$3p
@@ -35905,6 +35910,7 @@ zzzyk.com###Tinfo
 ||v8fjvv9o3.com^
 ||v8j1rkai1.com^
 ||v9gfm.xyz^
+||va3yq7si6w.com^
 ||vacationsgolf.com^
 ||vainews.cn^
 ||vakarm.net/css/sprite_vkm_2.css
@@ -37073,6 +37079,7 @@ zzzyk.com###Tinfo
 ||xghylt.com/api.php?mod=ad&adid=
 ||xgilfhwxre.com^
 ||xgo.com.cn/pv.js
+||xgsspao.com^
 ||xgsvpsz7f4.com^
 ||xgzdys.com^
 ||xgzxpdy.com^
