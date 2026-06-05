@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-05 03:56:56(GMT+8)
-! Total count: 38553
+! Version: 2026-06-05 10:49:49(GMT+8)
+! Total count: 38556
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -22277,6 +22277,7 @@ zzzyk.com###Tinfo
 ||blackbelted.com^
 ||blackbrake.com^
 ||blackhead35.com^
+||blackthorn88.com^
 ||blazeoccamy.com^
 ||bld.mobi^
 ||bleachbubble.com^
@@ -29668,6 +29669,7 @@ zzzyk.com###Tinfo
 ||locateskill.com^
 ||lockuplookup.com^
 ||locolava.com^
+||lodipq3zb.com^
 ||lofter.com/blogPhotoAd?
 ||lofter.com/mailEntry.do?blogad
 ||lofter.com/mailEntryMobile.do
@@ -36776,6 +36778,7 @@ zzzyk.com###Tinfo
 ||ww7814.win/pic
 ||ww9874.com/asset/playerInit.js
 ||wwads.cn^
+||wwavo59q3.com^
 ||wwggnaw.xyz^
 ||wwgqqq.com^
 ||wwkh9ku.xyz^
