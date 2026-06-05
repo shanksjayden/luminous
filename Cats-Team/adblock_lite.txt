@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-05 10:49:49(GMT+8)
-! Total count: 38556
+! Version: 2026-06-05 17:36:06(GMT+8)
+! Total count: 38565
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -7288,6 +7288,8 @@ aqicn.org#$#abort-on-property-read alert
 arabseed.*#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
 arakpop.net#$#abort-current-inline-script btoa /replace|last_click_/
 arakpop.net#$#hide-if-matches-xpath './/div[@id="smart-overlay" and contains(@style, "position: fixed") and contains(@style, "z-index: 999999") and contains(@style, "background: rgba(0, 0, 0, 0)")]/ancestor-or-self::div[@id="smart-overlay" and contains(@style, "position: fixed") and contains(@style, "z-index: 999999") and contains(@style, "background: rgba(0, 0, 0, 0)")]'
+aramgg.com##.bg-red-950
+aramgg.com##a[rel^="sponsored"]
 aratta-ukraine.com,drawnstories.ru,gisclub.tv,kinda.media,teremok.org.ua,webos-forums.ru###mdl_adb
 artfile.me###jadb
 articlerewritertool.com#@#.adsbygoogle
@@ -14828,8 +14830,8 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc###adbright
-ping0.cc##.xzeles
+ping0.cc###adfright
+ping0.cc##.xaeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 ping0.cc#$#hide-if-matches-xpath './/span[@class="tipad"]/following::img/parent::a[@rel][@target="_blank"]'
 pinggu.org##.banner2015
@@ -19562,6 +19564,7 @@ zzzyk.com###Tinfo
 ||4wym8gups.com^
 ||4xdma060ad.com^
 ||4xicd08qs.com^
+||4xr7sy3gu.com^
 ||4y13js.work^
 ||4yduy53ik.com^
 ||4yl3e3fmv.com^
@@ -22107,7 +22110,6 @@ zzzyk.com###Tinfo
 ||betteredu.net/js/pop_tuiguang_
 ||bettienh.com^
 ||betylife.com^
-||bewetunbold.com^
 ||bewilderedbattle.com^
 ||bewilderedblade.com^
 ||bf99.com/User*/Ad_
@@ -22405,6 +22407,7 @@ zzzyk.com###Tinfo
 ||botnrr.xyz^
 ||botonmetaverse.com^
 ||boucleseidolic.com^
+||bouncermillier.com^
 ||bouncyproperty.com^
 ||boundarybusiness.com^
 ||boundlessargument.com^
@@ -22870,6 +22873,7 @@ zzzyk.com###Tinfo
 ||cautiouscredit.com^
 ||cautiousfloor.com^
 ||cavecurtain.com^
+||cawnygelosefenagle.cfd^
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
 ||cbdm.weathercn.com^
@@ -23242,7 +23246,6 @@ zzzyk.com###Tinfo
 ||cibntv.net/youku/*.mp4?$media,redirect=noop-1s.mp4,domain=v.youku.com,important
 ||cicdserver.com^
 ||cidb5rr2t.com^
-||ciderconcluded.com^
 ||ciderfeast.com^
 ||cidhdgv.xyz^
 ||cidianwang.com/css/tj.
@@ -25450,6 +25453,7 @@ zzzyk.com###Tinfo
 ||farmergoldfish.com^
 ||farshake.com^
 ||farsnails.com^
+||fascescrewet.com^
 ||fast8.cc/skin/default/images/630652.png
 ||fastadmin.net/uploads/store/aliyun
 ||fastadmin.net/uploads/store/tencent
@@ -30788,6 +30792,7 @@ zzzyk.com###Tinfo
 ||naajie.com/float.js
 ||naarnurm.com^
 ||naemailom.fun^
+||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
 ||naiep.xyz^
 ||nainepidia.com^
@@ -30844,6 +30849,7 @@ zzzyk.com###Tinfo
 ||ndd3wvq0cw.com^
 ||ndfsl.com^
 ||ndja.cn^
+||ndpfxnu.com^
 ||ndqcz0e.xyz^
 ||ndrimmers.com^
 ||neatbadger.com^
@@ -32694,6 +32700,7 @@ zzzyk.com###Tinfo
 ||quantumlagoon.com^
 ||quantumshine.com^
 ||quanxiaozi.com^
+||quasheenunhood.com^
 ||qubdjkqwl.com^
 ||qucncfo.cn^
 ||qucxwvt.com^
@@ -35005,7 +35012,6 @@ zzzyk.com###Tinfo
 ||tinjsicyt.com^
 ||tinnerydunging.com^
 ||tinthenorthofuro.com^
-||tintskrag.qpon^
 ||tinybluewhale.com^
 ||tinylinks.co/Webservices/jsParseLinks.aspx$script,third-party
 ||tinylinks.co/visitScript/$script,third-party
@@ -35312,6 +35318,7 @@ zzzyk.com###Tinfo
 ||tt1069.com/script.min.js
 ||tt1069.com/t0602.js
 ||tt123.eastday.com^
+||tt144jrfu.com^
 ||ttavav6.com/zz/
 ||tthelitnfv.com^
 ||tthrirgud.com^
@@ -35739,6 +35746,7 @@ zzzyk.com###Tinfo
 ||unwieldyhealth.com^
 ||unwieldyimpulse.com^
 ||unwieldyplastic.com^
+||unwrapsstow.cyou^
 ||unypud.cn^
 ||uo12.com^
 ||uoosqk.xyz^
@@ -37723,6 +37731,7 @@ zzzyk.com###Tinfo
 ||ymtwmhh43.com^
 ||ymyile.xyz^
 ||yn0mbg4p1.com^
+||yn68b5vn9.com^
 ||yn9k86cpsf.com^
 ||yncjsc.cn^
 ||ynet.com/c/js/manto.min.js
