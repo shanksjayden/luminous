@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-07 16:48:04(GMT+8)
-! Total count: 38586
+! Version: 2026-06-07 21:28:38(GMT+8)
+! Total count: 38591
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -18708,6 +18708,7 @@ zzzyk.com###Tinfo
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
 ||0x7iufg8hy.com^
+||0xr7ii3df.com^
 ||0xzxwnkqdu.com^
 ||0yjeii25x4.com^
 ||0yq00i.cn^
@@ -28731,6 +28732,7 @@ zzzyk.com###Tinfo
 ||jtienla.top^
 ||jtjh.tw^
 ||jtpu9s.icu^
+||jtzqhxtutqzfze.com^
 ||jtzyk9iypb.com^
 ||juandou.com^$3p
 ||juapp5.com/geek_image/chaopai.jpeg
@@ -30424,6 +30426,7 @@ zzzyk.com###Tinfo
 ||mjji.cn^
 ||mjufus.icu^
 ||mjursnb.com^
+||mk0d5qbdj.com^
 ||mk10ow7zoi.com^
 ||mkd88.cc/16.32.jpg
 ||mkff.cn^
@@ -34610,6 +34613,7 @@ zzzyk.com###Tinfo
 ||sxundrh.cn^
 ||sxzl6x4k9p.com^
 ||sybnzs.cn^
+||sycamore63.top^
 ||sycrgc.xyz^
 ||sydz.tw^
 ||sygmtz.com^
@@ -38002,6 +38006,7 @@ zzzyk.com###Tinfo
 ||z1el6lgol.com^
 ||z1fl848ft.com^
 ||z1hihu.xmcimg.com^
+||z1lmjks4l.com^
 ||z2.fakutownee.cn^
 ||z2ke56999.com^
 ||z2ubj8bpk.com^
