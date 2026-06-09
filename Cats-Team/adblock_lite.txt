@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-09 04:06:02(GMT+8)
-! Total count: 38641
+! Version: 2026-06-09 10:35:33(GMT+8)
+! Total count: 38646
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -22364,6 +22364,7 @@ zzzyk.com###Tinfo
 ||bmyrihf.icu^
 ||bmzzojmzu.com^
 ||bnbagnut.com^
+||bncqucpia.com^
 ||bnds3.site^
 ||bnds4.site^
 ||bnds6.site^
@@ -22911,6 +22912,7 @@ zzzyk.com###Tinfo
 ||cavecurtain.com^
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
+||cb07whvmx.com^
 ||cbdm.weathercn.com^
 ||cbembusgcl.com^
 ||cbff1ao9.xyz^
@@ -27661,6 +27663,7 @@ zzzyk.com###Tinfo
 ||i9w8p.pw^
 ||ia3lxhd539.com^
 ||iabao.com/sladewap.js
+||iachpi.icu^
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
 ||iadsvbox2.com^
@@ -30169,6 +30172,7 @@ zzzyk.com###Tinfo
 ||materialisticmoon.com^
 ||materialmilk.com^
 ||materialparcel.com^
+||mathematics34.com^
 ||matwbp.iask.sina.com.cn^
 ||mavrtracktor.com^
 ||maxcruisers.com^
@@ -31311,6 +31315,7 @@ zzzyk.com###Tinfo
 ||nzl10011oa.com^
 ||nzl10041oa.com^
 ||nzlelmarw.com^
+||nzrdfrlsfrznrk.com^
 ||nzrlx6wc.icu^
 ||nzrovf.xyz^
 ||nzydzsw.com^$3p
