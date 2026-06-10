@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-10 23:19:44(GMT+8)
-! Total count: 38678
+! Version: 2026-06-11 04:21:21(GMT+8)
+! Total count: 38680
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -16575,6 +16575,8 @@ technews.tw##.inside_AD
 technologypep.com##.main-container-wrap > div[class$="-bg"]
 technologypep.com##.main-container-wrap > div[id][class][style*="opacity"]
 techonthenet.com###sabl
+techorange.com##a[href^="https://supr.link/"]
+techorange.com##div.elementor-widget > div.elementor-widget-container:has(> a[href*="utm_campaign"] > img)
 techritual.com##.th-single-ad
 techug.com##a[href*="/222.html"]
 techug.com##a[href*="/eee.html"]
