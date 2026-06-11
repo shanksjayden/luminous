@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-11 10:59:07(GMT+8)
-! Total count: 38686
+! Version: 2026-06-11 18:13:03(GMT+8)
+! Total count: 38698
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -17877,6 +17877,7 @@ xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
 xchina.co##.block-overlay
+xchina.co##.photo-items > .auto-height
 xchina.co##.photo-items > div[class^="item auto-height"]
 xchina001.online###core-zone-4
 xchina001.online###z-extra-2
@@ -20226,6 +20227,8 @@ zzzyk.com###Tinfo
 ||8g2a7mifv.com^
 ||8gp4wjq3.com^
 ||8gptk28oag.com^
+||8h6oiw0uo.com^
+||8h7j79qxm.com^
 ||8h93.com^*.gif
 ||8hx7k0211.com^
 ||8iav2fuiy.com^
@@ -22352,6 +22355,7 @@ zzzyk.com###Tinfo
 ||bluelionlabs.net^
 ||bluenest.net^
 ||bluevinebooks.com^
+||blurtsbrerd.com^
 ||blushingbeast.com^
 ||blushingbread.com^
 ||blvhq.com^
@@ -22518,6 +22522,7 @@ zzzyk.com###Tinfo
 ||bridgetnbe.com^
 ||briefcase95.com^
 ||briefstem.com^
+||brightline.tv^
 ||brighttoe.com^
 ||brirriek.com^
 ||briskedge.net^
@@ -24249,6 +24254,7 @@ zzzyk.com###Tinfo
 ||developpez.com/template/*.jpg$xmlhttprequest
 ||developpez.net/template/*.jpg$xmlhttprequest
 ||device.fishmobi.com^
+||deviletcolog.com^
 ||devilishdinner.com^
 ||devll8j4n.com^
 ||devpz.cn^
@@ -24965,6 +24971,7 @@ zzzyk.com###Tinfo
 ||eco.taobao.com^
 ||ecoefh.com^
 ||ecolesmauve.com^
+||ecologystoter.com^
 ||economysoil.com^
 ||ecosystemeo.com^
 ||ecpoc.com/style/ad
@@ -25210,7 +25217,6 @@ zzzyk.com###Tinfo
 ||eqqi.cn^
 ||eqqp.cn^
 ||equablekettle.com^
-||equalfall.pro^
 ||equwxrqjyl.com^
 ||er.5ykj.cn^
 ||er.5ykj.com^
@@ -30058,6 +30064,7 @@ zzzyk.com###Tinfo
 ||m3v8x28jut.com^
 ||m43ocq1uoj.com^
 ||m485oq2gym.top^
+||m4dynuge4.com^
 ||m4fxreb5s.com^
 ||m4pgay.com^
 ||m5.66077.cn^
@@ -30873,6 +30880,7 @@ zzzyk.com###Tinfo
 ||n906n29tm.com^
 ||naajie.com/float.js
 ||naarnurm.com^
+||nableroberto.com^
 ||naemailom.fun^
 ||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
@@ -31921,7 +31929,6 @@ zzzyk.com###Tinfo
 ||peculiaritieswatcher.com^
 ||pedestrian94.top^
 ||pediatrist53.com^
-||pedigreeamiableferry.com^
 ||pedropanther.com^
 ||peer-stream.com/api/AdvertisementPlugin$object-subrequest,domain=schoener-fernsehen.com
 ||peeredupseize.com^
@@ -32333,6 +32340,7 @@ zzzyk.com###Tinfo
 ||ps557.com/link/
 ||ps886.us/js/*.js
 ||psa1xoeve.com^
+||pschenttidier.com^
 ||psgpllf.com^
 ||psrfbr.icu^
 ||pstatp.com/growth/fe_sdk/bannersdk
@@ -32961,6 +32969,7 @@ zzzyk.com###Tinfo
 ||ratedxbiz.com/d/
 ||raurread.com^
 ||raxkvb.icu^
+||rayanbordel.com^
 ||razlozhi.ru^$script,header=report-to
 ||razrzh.xyz^
 ||razzweb.com^
@@ -33109,6 +33118,7 @@ zzzyk.com###Tinfo
 ||restorationbowelsunflower.com^
 ||restrainstorm.com^
 ||restructureinvention.com^
+||retedrabs.com^
 ||rethephrased.com^
 ||retiadraffy.top^
 ||retinaspealer.com^
@@ -33893,7 +33903,6 @@ zzzyk.com###Tinfo
 ||sicksmash.com^
 ||siderain.com^
 ||sidetrades.com^
-||sieclesreagins.com^
 ||sierrakermit.com^
 ||sifa.aak7.cn^
 ||sifyeldb.top^
@@ -34532,6 +34541,7 @@ zzzyk.com###Tinfo
 ||storyren.top/imgg/
 ||straightnest.com^
 ||straindrinks.com^
+||straitsveiler.com^
 ||strangeclocks.com^
 ||strangesink.com^
 ||strawberryy14.top^
@@ -34846,6 +34856,7 @@ zzzyk.com###Tinfo
 ||tasksimplify.com^
 ||tasselapp.com^
 ||tastelesstrees.com^
+||tasterdinger.com^
 ||tastesnake.com^
 ||tattvaballute.com^
 ||taujubarb.com^
@@ -35294,6 +35305,7 @@ zzzyk.com###Tinfo
 ||toutiaoyule.com/n/dspshow.
 ||tovbus.cn^
 ||tovppl.cn^
+||towerhavenet.com^
 ||towerloftier.com^
 ||toysbasics.com^
 ||toytakeover.com^
