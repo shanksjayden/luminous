@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-11 23:43:02(GMT+8)
-! Total count: 38700
+! Version: 2026-06-12 04:12:31(GMT+8)
+! Total count: 38709
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -12834,6 +12834,7 @@ kupi.cz,novinky.cz,sport.cz,super.cz##iframe[data-cx-loaded]
 kupi.cz,novinky.cz,sport.cz,super.cz##iframe[data-cy-loaded]
 kurs.com.ua#$#abort-current-inline-script document.documentElement.clientWidth
 kuruma-news.jp#$#override-property-read adshield.isAdBlockerDetected false
+kuruma-news.jp#$#prevent-element-src-loading script /\/feed\//
 kuruma-news.jp^$csp=script-src-attr 'none'
 kuwo.cn##.qr_wrapper
 kuwo.cn##.tuiguang
@@ -17792,6 +17793,8 @@ www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 www.wenxuecity.com###leftside
 www.wenxuecity.com###rightside
 www.wenxuecity.com##.col > ul:not([id]) > li > a[href^="http"]:not([href*=".wenxuecity."])
+www.wetter.com#$#abort-on-property-write window.alert
+www.wetter.com#$#override-property-read wcomBlock noopFunc false; override-property-read wcomAdFrameworkInit noopFunc false; override-property-read hasDisplayAds false;
 www.wp.pl#$#abort-on-property-read SlotRegistrar; abort-current-inline-script PRELOAD randvar
 www.wp.pl#$#abort-on-property-write Object.prototype.advViewability
 www.wp.pl#$#abort-on-property-write Object.prototype.bodyCode
@@ -23598,6 +23601,7 @@ zzzyk.com###Tinfo
 ||content-loader.com^$script,domain=gamewith.jp
 ||content-loader.com^$script,domain=gutefrage.net|timesofindia.indiatimes.com|tz.de|winfuture.de
 ||content-loader.com^$script,domain=index.hr
+||content-loader.com^$script,domain=www.wetter.com
 ||content-loader.com^$script,rewrite=abp-resource:blank-js,domain=9gag.com
 ||content-loader.com^$script,rewrite=abp-resource:blank-js,domain=bab.la
 ||content-loader.com^$script,rewrite=abp-resource:blank-js,domain=dreadcentral.com
@@ -27471,12 +27475,14 @@ zzzyk.com###Tinfo
 ||html-load.com^$script,domain=gamewith.jp
 ||html-load.com^$script,domain=idokep.hu
 ||html-load.com^$script,domain=index.hr
+||html-load.com^$script,domain=kuruma-news.jp
 ||html-load.com^$script,domain=namemc.com
 ||html-load.com^$script,domain=nikkansports.com
 ||html-load.com^$script,domain=pcgamer.com
 ||html-load.com^$script,domain=pcgamesn.com
 ||html-load.com^$script,domain=trilltrill.jp
 ||html-load.com^$script,domain=voici.fr|femmeactuelle.fr|caminteresse.fr
+||html-load.com^$script,domain=www.wetter.com
 ||html-load.com^$script,xmlhttprequest,domain=convertcase.net|manta.com|wfmz.com|golf-live.at|eurointegration.com.ua|sourceforge.net|bab.la|pons.com|loawa.com|gazetaprawna.pl|malaymail.com|winfuture.de|dictionary.cambridge.org|collinsdictionary.com|sankei.com|timesofindia.indiatimes.com|gutefrage.net|tz.de
 ||html-load.com^$script,xmlhttprequest,domain=golfmonthly.com
 ||htqyy.com/kiees/
@@ -30510,6 +30516,7 @@ zzzyk.com###Tinfo
 ||mkqdj.cn^
 ||mkue.cn^
 ||ml4xbwg73.top^
+||mliyokonw.com^
 ||mlog.aipai.com^
 ||mlougq.icu^
 ||mlstx.cn^
@@ -33129,6 +33136,7 @@ zzzyk.com###Tinfo
 ||reversible68.com^
 ||revivalvoice.com^
 ||revocation30.com^
+||rewardingfill.com^$domain=kuruma-news.jp
 ||rewvfghoya.com^
 ||rf.cnlongshou.com^
 ||rf10b9mq8.com^
@@ -37237,6 +37245,7 @@ zzzyk.com###Tinfo
 ||xhqgymmb.com^
 ||xhr7cqlob.com^
 ||xhtkm35sw.com^
+||xhxtdjx.com^
 ||xhymsq.com/data/attachment/portal/
 ||xhzmjs.com^
 ||xiacaidd.com/xiacai/ad/
