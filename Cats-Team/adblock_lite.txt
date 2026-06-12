@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-12 18:00:41(GMT+8)
-! Total count: 38719
+! Version: 2026-06-12 22:44:42(GMT+8)
+! Total count: 38725
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -6897,7 +6897,7 @@ abstream.to,advertape.*,bunkr.*,easyvidplayer.com,marissasharecareer.com,livecam
 abtranny.com#$#abort-current-inline-script document.createElement popunder_ssp_url; abort-current-inline-script document.createElement vast_url; override-property-read _834t32miib undefined
 abtranny.com#$#hide-if-matches-xpath './/*[text()="AD"]/parent::div[@*[starts-with(name(), "data-")]][@style]'; hide-if-matches-xpath './/button/following-sibling::*[text()="AD"]/ancestor::div[@*[starts-with(name(), "data-")]][1][.//a[contains(@class,"banner__") and contains(@style,"width: 100%")]]'
 abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com#$#abort-current-inline-script document.getElementById openPop
-abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com,www.bachnguyetquang.online,cap3.hair,hopphim.online,streamc.xyz#$#override-property-read open noopFunc
+abysscdn.com,freeplayervideo.com,player-cdn.com,playhydrax.com,www.bachnguyetquang.online,cap3.asia,hopphim.online,streamc.xyz#$#override-property-read open noopFunc
 ac.qq.com###qgirlRefreshLead
 ac.qq.com##.in-hd-mod
 aces.gg#$#abort-current-inline-script $ window.open
@@ -8241,7 +8241,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,sexvietlive.net,animehay05.site,cliphot69.shop,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.live,dualeotruyenbs.com,hentaixvn.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen8.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.now,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,sexvietlive.net,animehay05.site,cliphot69.shop,phimsexsuong3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.live,dualeotruyenbs.com,hentaixvn.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen8.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.now,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 buonaporno.com#$#abort-current-inline-script document.querySelectorAll popMagic; abort-on-property-read popMagic;
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
@@ -8317,7 +8317,7 @@ caoporn.com###middleimg
 caoporn.com##.container + #wrapper:not(.container)
 caoporn.com##.jw-icon-replay-contain > div[style^="display: block; position: absolute; background-color: white; width:"]
 caoporn.com##div[style="height:160px; max-width:100%; width:945px; padding-top:10px; margin:0px auto;"]
-cap3.hair#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
+cap3.asia#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
 caq98i.top##+js(abort-on-property-read, alertadmodal)
 car16.com##.modal-overlay
 cardu.com.tw###crazy_layer
@@ -18004,7 +18004,7 @@ xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write Spacial
 xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisement")]/parent::div[@class][1]'; hide-if-matches-xpath './/div[contains(@class,"logo")]/ancestor::div[@data-ga_action="join"]/ancestor::aside[@id][1]';
 xnxx.com#$#override-property-read html5player.loadVideoPostRollAds noopFunc; override-property-read html5player.loadVideoPreRollAds noopfunc
 xnxx.com,xv-ru.com,xvideos.com#$#prevent-listener DOMContentLoaded /loadAdsDelayed/; override-property-read xv.sda.pp.init noopFunc; override-property-read xv.conf.dyn.exoclick_domain undefined; abort-on-property-read html5player.enableVideoPreRollAds;
-xoilackk.io#$#abort-on-property-read adsRedirectPopups
+xoilaciiw.cc#$#abort-on-property-read adsRedirectPopups
 xpiaotian.net#@#.pagead
 xpornium.net#$#abort-on-property-write _pop; prevent-listener '' dtnoppu; abort-current-inline-script document.createElement window.open
 xslca.cc##.footer ~ div[class$="fanye"][onclick$="fanye()"]
@@ -18698,6 +18698,7 @@ zzzyk.com###Tinfo
 ||086123.xyz^
 ||087tqb.cn^
 ||08pkgxft0u.com^
+||08su45co5x.com^
 ||093yuht.com^
 ||0941.org^
 ||094kk.com^
@@ -19287,6 +19288,7 @@ zzzyk.com###Tinfo
 ||2r2zhs64a7.com^
 ||2r69dkb1a.com^
 ||2rwonuh.com^
+||2top98spp.shop^
 ||2u1h56851n.top^
 ||2u3v4w5x6y.com^
 ||2vcb9onxjm.com^
@@ -20423,6 +20425,7 @@ zzzyk.com###Tinfo
 ||9kh5b.cn^$3p
 ||9kld.com/ad*.html
 ||9kp.cc/js/bbk/
+||9kqh3r24zv.com^
 ||9ku.com/aaa/
 ||9l4i9edu.top^
 ||9l9ck7mdd2.com^
@@ -20575,6 +20578,7 @@ zzzyk.com###Tinfo
 ||a8age.com^
 ||a8h4zhbmxi.com^
 ||a8qwjt7dwi.com^
+||a8wqu3fbmk.com^
 ||a962m.xyz^
 ||a9able.com^
 ||aa.gushiwen.org^
@@ -37485,6 +37489,8 @@ zzzyk.com###Tinfo
 ||xqblnei.cn^
 ||xqcjfcb.cn^
 ||xqhfb9hzrs.com^
+||xqishen.com^*/0
+||xqishen.com^*/1
 ||xqmd2dzzvh.com^
 ||xqoh.cn^
 ||xqtcpf.icu^
