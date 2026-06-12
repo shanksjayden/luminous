@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-12 04:12:31(GMT+8)
-! Total count: 38709
+! Version: 2026-06-12 10:56:14(GMT+8)
+! Total count: 38716
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -18697,6 +18697,7 @@ zzzyk.com###Tinfo
 ||085cczz.com^
 ||086123.xyz^
 ||087tqb.cn^
+||08pkgxft0u.com^
 ||093yuht.com^
 ||0941.org^
 ||094kk.com^
@@ -25666,6 +25667,7 @@ zzzyk.com###Tinfo
 ||fifzsym.top^
 ||figsprotein.com^
 ||figurehunter.net^
+||fih3r.com^
 ||fijipic.xyz^
 ||fikppvmul.com^
 ||fiktvlnc.icu^
@@ -26097,6 +26099,7 @@ zzzyk.com###Tinfo
 ||g5xu1dslr6.com^
 ||g64njjhyh.com^
 ||g66ryy88z.com^
+||g6ird1tez2.com^
 ||g6x2uvza37.com^
 ||g7htk7ls7.com^
 ||g8hi6r3odr.com^
@@ -27501,6 +27504,7 @@ zzzyk.com###Tinfo
 ||huananxs.top/static/jp/js/ad
 ||huancaicp.com/?pid=$popup
 ||huanjugu.com/dm
+||huanle97.com^
 ||huanqiu.com/resource/js/base
 ||huanqiu.com/ssi/show_*_mall.ssi
 ||huanqiu.com/statics/*/dist/js/detected_block.js
@@ -31592,6 +31596,7 @@ zzzyk.com###Tinfo
 ||openinstall.io^$third-party
 ||openrcv.baidu.com^
 ||operated501.com^
+||operation67.com^
 ||operationchicken.com^
 ||operationnail.com^
 ||operetta17.com^
@@ -32094,6 +32099,7 @@ zzzyk.com###Tinfo
 ||pipette22.top^
 ||pipi.cn/player/
 ||pipix.cc/gg.gif
+||piplnlkmoandbq.com^
 ||piqtpbxo.icu^
 ||piquantgrove.com^
 ||piquantmeadow.com^
@@ -35786,6 +35792,7 @@ zzzyk.com###Tinfo
 ||ukfp.cn^
 ||ukjwyv.icu^
 ||ukpsal.icu^
+||uks8suop4b.com^
 ||ukx6umuvu.com^
 ||ulatammyspb.com^
 ||ulgroiklf.com^
