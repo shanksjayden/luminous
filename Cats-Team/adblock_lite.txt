@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-13 16:50:09(GMT+8)
-! Total count: 38759
+! Version: 2026-06-13 21:45:57(GMT+8)
+! Total count: 38761
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -26791,6 +26791,7 @@ zzzyk.com###Tinfo
 ||gulliblegrip.com^
 ||gulsachbevil.com^
 ||gumgo.cn^$3p
+||gummy-debt.com^
 ||gunmi.cn^$3p
 ||guoguoks.com/1.
 ||guohexinxiang.com^
@@ -36839,6 +36840,7 @@ zzzyk.com###Tinfo
 ||wmqfey.com^
 ||wmwcym.icu^
 ||wmxke.com^
+||wn4x4bzhx.com^
 ||wn68din.cn^
 ||wn80drk.shop^
 ||wnacammull.com^
