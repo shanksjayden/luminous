@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-13 04:00:37(GMT+8)
-! Total count: 38748
+! Version: 2026-06-13 12:26:43(GMT+8)
+! Total count: 38756
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -21483,6 +21483,7 @@ zzzyk.com###Tinfo
 ||aricinquerida.com^
 ||ariososlepage.com^
 ||arisingwinze.com^
+||arithmetic48.top^
 ||ark.le.com/s?vid=
 ||ark.letv.com/s?
 ||ark.letv.com/t?
@@ -24877,6 +24878,7 @@ zzzyk.com###Tinfo
 ||e2us4880k.com^
 ||e3c7.com/dh/
 ||e3c7.com/love/
+||e3j60qqdk.com^
 ||e3ol.com/inc/
 ||e49.xyz^
 ||e4iwtfza99.com^
@@ -28433,6 +28435,7 @@ zzzyk.com###Tinfo
 ||jbdch1.appmobile.cn^
 ||jbhhxd.xyz^
 ||jbiwvt6x1e.com^
+||jbriyba0f.com^
 ||jbw4kkuf2y.com^
 ||jbzyw.com/Application/M/adv/
 ||jc001.cn/ci/jad/fix.
@@ -29706,6 +29709,7 @@ zzzyk.com###Tinfo
 ||lknhrnd.com^
 ||lknlkndasda.top^
 ||lknnbd.xyz^
+||lkpda6xuy.com^
 ||lkpjbr.icu^
 ||lkpmprksau.com^
 ||lkpseyc3d.com^
@@ -29944,6 +29948,7 @@ zzzyk.com###Tinfo
 ||lustroushaven.com^
 ||lutouwang.net/static/images/boss_gao_hb.jpeg
 ||lutouwang.net/static/js/mv_ad
+||luujhia.com^
 ||luwkhuku.com^
 ||luxformula.com^
 ||luxrbx.icu^
@@ -31199,6 +31204,7 @@ zzzyk.com###Tinfo
 ||nl2v1uw9e.com^
 ||nlbb3dvqh.com^
 ||nlkylpo.com^
+||nllgzvgoudbdnq.com^
 ||nlvgxr.xyz^
 ||nly9u12pi.com^
 ||nlyuuy.cn^
@@ -35852,6 +35858,7 @@ zzzyk.com###Tinfo
 ||un-acs.youku.com^
 ||un.ubaike.cn^
 ||un1.lawyernet.cn^
+||un8hlx.com^
 ||unablehope.com^
 ||unaccountablepie.com^
 ||unarmedindustry.com^
@@ -36882,6 +36889,7 @@ zzzyk.com###Tinfo
 ||wpizqi.icu^
 ||wples.com/pc/common.js
 ||wpoarjokzgi.com^
+||wpsxwkz.com^
 ||wpuzzcudultv.com^
 ||wpwpquse.cn^
 ||wpy6xuq4.xyz^
