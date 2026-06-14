@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-14 03:15:24(GMT+8)
-! Total count: 38764
+! Version: 2026-06-14 11:24:33(GMT+8)
+! Total count: 38771
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -4447,6 +4447,7 @@ $websocket,domain=wap.yushuwu.cloud
 699pic.com##.winpopbg
 69story.com###main > div[style="margin-top: 15px;"]
 69story.com##aside#secondary > section[id="text-2"]
+69tang.org##a[id^="imgs_link"]
 69vj.com###nta
 69xx.one,69xx487.xyz,8mav.cc,av411.xyz,cable2055.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz##[class]:has(>a>.q-responsive)
 69xx.one,theav.xyz,theporn.cc#$#override-property-read is_show false
@@ -19111,6 +19112,7 @@ zzzyk.com###Tinfo
 ||1tvg524vih.com^
 ||1u0oqad.diqx.namemc.com^$domain=namemc.com
 ||1u5gy.xyz^
+||1u6hvoykk3.com^
 ||1ub29e88i.com^
 ||1uo9djbnsr.com^
 ||1v9d7vx.cob.autojournal.fr^$script
@@ -20131,6 +20133,7 @@ zzzyk.com###Tinfo
 ||7nb71ub2xi.com^
 ||7o2l520r0a.com^
 ||7p5ruxflv0.com^
+||7q2701vx8e.com^
 ||7qo2met.com^
 ||7qxv9s5q16.com^
 ||7r227ut.cn^
@@ -29823,6 +29826,7 @@ zzzyk.com###Tinfo
 ||logs.amap.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
+||lohylfnkagnlzw.com^
 ||loispp.com^
 ||lokindt.com^
 ||lokngd.com^
@@ -34649,6 +34653,7 @@ zzzyk.com###Tinfo
 ||subsequentswim.com^
 ||substantialcarpenter.com^
 ||substantialgrade.com^
+||subtraction59.com^
 ||successbuffet.com^
 ||successfuelevents.com^
 ||successfulscent.com^
@@ -35215,6 +35220,7 @@ zzzyk.com###Tinfo
 ||tjappzvz.xyz^
 ||tjfavx.icu^
 ||tjfskxz0t6.com^
+||tjgssn.com^
 ||tjj.com^
 ||tjjd83.xyz^
 ||tjnwfjy.cn^
@@ -35837,6 +35843,7 @@ zzzyk.com###Tinfo
 ||ukx6umuvu.com^
 ||ulatammyspb.com^
 ||ulgroiklf.com^
+||ulk8je1fv9.com^
 ||ulkoxbra.com^
 ||ulny.cn^
 ||ulogs.umeng.com^
