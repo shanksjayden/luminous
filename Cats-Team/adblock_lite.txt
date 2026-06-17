@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-17 11:28:37(GMT+8)
-! Total count: 38822
+! Version: 2026-06-17 18:43:41(GMT+8)
+! Total count: 38818
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8244,7 +8244,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,phimsexlive.net,animehay05.site,cliphot69.shop,phimsexsuong3x.net,damconuong.mom,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenbs.com,hentaixvn.net,hhtq5.vip,qmanga.art,javtiful.com,luottruyen8.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.one,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,phimsexlive.net,animehay05.site,cliphot69.shop,phimsexsuong3x.net,damconuong.mom,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenbs.com,hentaixvn.net,hhtq5.vip,qmanga.art,javtiful.com,luottruyen9.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.one,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 buonaporno.com#$#abort-current-inline-script document.querySelectorAll popMagic; abort-on-property-read popMagic;
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
@@ -29712,7 +29712,6 @@ zzzyk.com###Tinfo
 ||linuxidc.com/linuxfile/linux$script
 ||linuxidc.com/linuxfile/list
 ||linyongming.top^
-||liquorssquab.com^
 ||lirdawkin.com^
 ||lishuaibin.cn^
 ||listlessly1.top^
@@ -30281,7 +30280,6 @@ zzzyk.com###Tinfo
 ||martylatah.com^
 ||masadora.net/kakusan-
 ||masdk.3g.qq.com^
-||mashersjikungu.com^
 ||masockq.com^
 ||massivemark.com^
 ||masturbation22.com/d/
@@ -32410,7 +32408,6 @@ zzzyk.com###Tinfo
 ||productsurfer.com^
 ||proewildfire.cn/fd.js
 ||profanstee.com^
-||profitable-grocery.com^
 ||profitablecpmratenetwork.com^
 ||profitrumour.com^
 ||profusesupport.com^
@@ -35954,7 +35951,6 @@ zzzyk.com###Tinfo
 ||union.china.com.cn^
 ||union.yihaodian.com^
 ||unionli.com^$3p
-||unitarycambism.com^
 ||unitedscans.com^
 ||universe7.top^
 ||uniway.cn.com^
