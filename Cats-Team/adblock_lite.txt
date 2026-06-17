@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-17 18:43:41(GMT+8)
-! Total count: 38818
+! Version: 2026-06-17 22:59:20(GMT+8)
+! Total count: 38819
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -7108,9 +7108,6 @@ allegro.pl#$#hide-if-contains Sponsorowane 'div[data-box-name="structure-contain
 allegro.pl#$#hide-if-matches-xpath '//div[@data-box-name="Carousel without Image"][.//span[normalize-space(.)="Sponsorowane"]][ancestor::div[@data-box-name="structure-container"][contains(@data-analytics-tags,"offerCarousel")]]'
 allegro.pl#$#hide-if-matches-xpath '//div[@data-box-name="structure-container"][@data-analytics-category="layout.container"]//div[contains(@class,"mj7a_0")][.//span[text()="Sponsorowane"] or .//span[text()="Szponzorált"]]'
 alluc.ee###aovl
-almafestival.info#$#abort-current-inline-script jQuery open
-almafestival.info#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
-almafestival.info#$#override-property-read adsPlayer ''; override-property-read adsTvcs ''
 alphatron.*,anitube.*,edgedeliverynetwork.com#$#abort-current-inline-script EventTarget.prototype.addEventListener delete
 altadefinizione.*#$#abort-current-inline-script document.createElement script; hide-if-matches-xpath './/iframe[@style="position: fixed; width: 100%; height: 100%; inset: 0px; opacity: 0; z-index: 2147483647;"]';
 alternativeto.net##.cuuummmonnnn
@@ -7329,7 +7326,7 @@ audiotag.info###dclaim
 audiotag.info##.dialog-fog
 audiotruyenfull.com#$#abort-current-inline-script document.addEventListener ai_run
 audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
-audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.1phim3.com#$#abort-current-inline-script setTimeout Aff
+audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.1phim4.com#$#abort-current-inline-script setTimeout Aff
 aupetitparieur.com,mamieastuce.com,meilleurpronostic.fr##div[class] > div[id] > main[class][id]
 aura.cn##.foot-xcx
 aura.cn##.left-zc
@@ -8244,7 +8241,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,phimsexlive.net,animehay05.site,cliphot69.shop,phimsexsuong3x.net,damconuong.mom,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenbs.com,hentaixvn.net,hhtq5.vip,qmanga.art,javtiful.com,luottruyen9.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.one,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,clipsex2k.net,animehay05.site,cliphot69.shop,phimsexsuong3x.net,damconuong.mom,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenbs.com,hentaixvn.net,hhtq5.vip,qmanga.art,javtiful.com,luottruyen9.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,vipphimsexhay.com,quatvn.one,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 buonaporno.com#$#abort-current-inline-script document.querySelectorAll popMagic; abort-on-property-read popMagic;
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
@@ -11167,7 +11164,7 @@ hh010.com##.a_hong_t
 hh2d.top#$#abort-current-inline-script $ adblock
 hh3dhay.*#$#abort-current-inline-script Symbol /break|case/
 hh3dhay.life,hh3dhay.xyz#$#abort-current-inline-script document.createElement /break|case/
-hhvsub1.com,sextop1.cab#$#abort-current-inline-script WebAssembly globalThis
+hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
 hianime.*#$#hide-if-matches-xpath './/a[contains(@href,"flix")]/img[@alt="flix"][@style]/ancestor::div[@style]'
 hianime.*#$#prevent-listener pointerdown; abort-on-iframe-property-read localStorage; abort-on-iframe-property-read Math.random
 hibox.hinet.net#@#.adarea
@@ -11405,6 +11402,7 @@ huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(abort-on-stack-trace
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(no-setTimeout-if, /bait\.offsetHeight===0|isAdblocked|requestAnimationFrame\(/)
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
+huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(abort-on-stack-trace, Element.prototype.attachShadow, Object.Score)
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huavod.com##a[href^="https://lesi198.com"]
 huawei.com#@#.ad-section
@@ -14829,7 +14827,7 @@ ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]
 pharmnet.com.cn###img1
 pharmnet.com.cn##.ad9502
-pheclip.my,phim18vip.site,sieudam.dev,subnhanh.plus#$#abort-current-inline-script $ pop
+pheclip.my,phim18vip.site,sieudam.fit,subnhanh.plus#$#abort-current-inline-script $ pop
 phim.haysex.asia#$#abort-current-inline-script Promise /break|case/
 phimhdplus.com#$#json-prune ads; abort-current-inline-script setTimeout click_time
 phimlongtieng.net#$#abort-current-inline-script document.createElement script
@@ -16570,7 +16568,7 @@ tcptest.cn##div.fixed.hidden
 tcptest.cn##div.min-w-0 > .relative
 tctruyen.org#$#abort-current-inline-script $ popup
 teachinghand.com##.actions__wrapper
-teamlanhlung8.shop,javgiga.wordpress.com,www.1phim3.com#$#abort-on-property-read localStorage
+teamlanhlung8.shop,javgiga.wordpress.com,www.1phim4.com#$#abort-on-property-read localStorage
 teamlanhlungday.store,moontruyen.com#$#abort-current-inline-script $ window.open
 tech.ifeng.com##body > div[style^="width:"][style*="margin: 0px auto; transition:"][style*="position: fixed; z-index:"]
 tech.qq.com##.kjad2
@@ -18019,6 +18017,9 @@ xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisemen
 xnxx.com#$#override-property-read html5player.loadVideoPostRollAds noopFunc; override-property-read html5player.loadVideoPreRollAds noopfunc
 xnxx.com,xv-ru.com,xvideos.com#$#prevent-listener DOMContentLoaded /loadAdsDelayed/; override-property-read xv.sda.pp.init noopFunc; override-property-read xv.conf.dyn.exoclick_domain undefined; abort-on-property-read html5player.enableVideoPreRollAds;
 xoilackve.tv#$#abort-on-property-read adsRedirectPopups
+xoilaczmmz.tv#$#abort-current-inline-script jQuery open
+xoilaczmmz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+xoilaczmmz.tv#$#override-property-read adsPlayer ''; override-property-read adsTvcs ''
 xpiaotian.net#@#.pagead
 xpornium.net#$#abort-on-property-write _pop; prevent-listener '' dtnoppu; abort-current-inline-script document.createElement window.open
 xslca.cc##.footer ~ div[class$="fanye"][onclick$="fanye()"]
