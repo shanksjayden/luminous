@@ -1,45 +1,78 @@
 # Author:https://github.com/Repcz
 # TG:https://t.me/LUCYChannel_1024
-# 最后更新时间: 2026-6-13 15:00
+# 最后更新时间: 2026-06-18 19:14:52
 #
-# Egern Version ≥ v2.0.0(552)
+# Egern Version ≥ v2.20.0(772)
 # 官方文档: https://doc.egernapp.com
 #
 # 以 ';' 或 '#' 或 '//' 开头的配置文件行为注释行
 #
 # ================
-
-# TUN模式
+http_port: 6152
+socks_port: 6153
 vif_only: true
-# 劫持 DNS 服务器
 hijack_dns:
 - '*:53'
-# 自定义 MaxMind 数据库
 geoip_db_url: https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
-# 自定义 ASN 数据库
 asn_db_url: https://raw.githubusercontent.com/Loyalsoldier/geoip/release/GeoLite2-ASN.mmdb
-# 代理延迟测试
 proxy_latency_test_url: http://1.1.1.1/generate_204
-# 直连延迟测试
 direct_latency_test_url: http://connectivitycheck.platform.hicloud.com/generate_204
 dns:
-  # DNS 引导器：用于解析上游DNS(DoT、DoH、DoQ)，默认 system
   bootstrap:
-    - system
+  - system
   upstreams:
-    # 国内公共 DNS
     Domestic-DNS:
     - 223.5.5.5
     - 119.29.29.29
-  # DNS 转发规则
+    Domestic-Encrypted-DNS:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+    Foreign-Encrypted-DNS:
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.google/dns-query
   forward:
-  - wildcard: # 通配符规则
-      match: "*"
+  - proxy_rule_set:
+      match: https://github.com/Repcz/Tool/raw/X/Egern/Rules/Reject.yaml
+      value: REJECT
+      disabled: false
+  - proxy_rule_set:
+      match: https://github.com/Repcz/Tool/raw/X/Egern/Rules/ChinaDomain.yaml
       value: Domestic-DNS
+      disabled: false
+  - domain_wildcard:
+      match: '*'
+      value: Foreign-Encrypted-DNS
+      disabled: false
   hosts:
-    # App Store 下载请求解析 金山CDN
-    iosapps.itunes.apple.com:
-    - iosapps.itunes.apple.com.download.ks-cdn.com
+    dns.google:
+    - 8.8.8.8, 8.8.4.4, 2001:4860:4860::8888, 2001:4860:4860::8844
+    cloudflare-dns.com:
+    - 104.16.249.249, 104.16.248.249, 2606:4700::6810:f8f9, 2606:4700::6810:f9f9
+    dns.alidns.com:
+    - 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
+    doh.pub:
+    - 1.12.12.12, 120.53.53.53
+    dot.pub:
+    - 1.12.12.12, 120.53.53.53
+  proxy_nameservers:
+  - 119.29.29.29
+  - 223.5.5.5
+real_ip_domains:
+- lancache.steamcontent.com
+- '*.msftconnecttest.com'
+- '*.msftncsi.com'
+- '*.srv.nintendo.net'
+- '*.stun.playstation.net'
+- xbox.*.microsoft.com
+- '*.xboxlive.com'
+- '*.logon.battlenet.com.cn'
+- '*.logon.battle.net'
+- stun.l.google.com
+- easy-login.10099.com.cn
+- '*-update.xoyocdn.com'
+- '*.prod.cloud.netflix.com'
+- appboot.netflix.com
+- '*-appboot.netflix.com'
 policy_groups:
 - external:
     name: 手动选择
@@ -259,7 +292,49 @@ rules:
 mitm:
   enabled: true
 modules:
-- url: https://github.com/Repcz/Tool/raw/X/Egern/Module/YouTube.yaml
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/广告平台拦截器.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/拦截HTTPDNS.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/高德地图去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/闲鱼去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/酷安去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/知乎去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/滴滴出行去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/微博轻享版去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/微信小程序去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/微信公众号去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/小红书去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/什么值得买去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/IT之家去广告.beta.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Surge/module/XWebAds.module
+  enabled: true
+- url: https://raw.githubusercontent.com/Keywos/rule/main/script/wy/wy.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/Maasea/sgmodule/master/YouTube.Enhance.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Module/Block/Advertising.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/githubdulong/Script/master/Surge/jd_price2.sgmodule
+  enabled: true
+- url: https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/kokoryh/Sparkle/refs/heads/master/release/surge/module/bilibili.sgmodule
+  enabled: true
+- url: https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/network-info-lite.sgmodule
+  enabled: false
+- url: https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule
   enabled: false
 - name: SubStore
   url: https://raw.githubusercontent.com/sub-store-org/Sub-Store/refs/heads/master/config/Egern.yaml

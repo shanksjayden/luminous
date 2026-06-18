@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-18 10:56:25(GMT+8)
-! Total count: 38851
+! Version: 2026-06-18 18:11:46(GMT+8)
+! Total count: 38856
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -18859,6 +18859,7 @@ zzzyk.com###Tinfo
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||109218er.xyz^
+||10eni3ogoo.com^
 ||10fang.com/static/skin/tfy/layer/layer.js
 ||11.96131.com.cn^
 ||11.golang8.com^
@@ -22409,7 +22410,6 @@ zzzyk.com###Tinfo
 ||bluelionlabs.net^
 ||bluenest.net^
 ||bluevinebooks.com^
-||blurtsbrerd.com^
 ||blushingbeast.com^
 ||blushingbread.com^
 ||blvhq.com^
@@ -22832,6 +22832,7 @@ zzzyk.com###Tinfo
 ||c6.friok.com^
 ||c64ihqx0gj.com^
 ||c6hhfkvxv.com^
+||c6nxtri65t.com^
 ||c7bijgz6zr.com^
 ||c7o9xp4e4.com^
 ||c81.ipanocloud.com^
@@ -22846,7 +22847,6 @@ zzzyk.com###Tinfo
 ||cacafly.net^
 ||cache.ltn.com.tw/js/cache_ads_h1.js
 ||cachead.com^*.js
-||cacksencl.com^
 ||cad.youku.com^
 ||cadence33.top^
 ||cafefrench.com^
@@ -23457,6 +23457,7 @@ zzzyk.com###Tinfo
 ||clubic.com/assets/js/6f34f4c.js$script
 ||clugqa.com^
 ||clumsycar.com^
+||clutteredclaim.com^
 ||clw99.mobi^
 ||cm.baidu.com^
 ||cmath.fr/images/fond2.gif
@@ -24096,6 +24097,7 @@ zzzyk.com###Tinfo
 ||dafdf.cn^
 ||daffodilo44.com^
 ||dafuhouse.com^
+||dagobasaspasia.com^
 ||dagou2018.com/js/item
 ||dagumanhua.com/style/mdagu.js
 ||dagwi.cn^
@@ -24493,6 +24495,7 @@ zzzyk.com###Tinfo
 ||disturbedquiet.com^
 ||ditorialproce.biz^
 ||ditruntp.com^
+||dittoforgive.com^
 ||divcb7ycs5.com^
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
@@ -26855,6 +26858,7 @@ zzzyk.com###Tinfo
 ||gulsachbevil.com^
 ||gumgo.cn^$3p
 ||gummy-debt.com^
+||gun2v2neoo.com^
 ||gunmi.cn^$3p
 ||guoguoks.com/1.
 ||guohexinxiang.com^
@@ -27431,6 +27435,7 @@ zzzyk.com###Tinfo
 ||hoamt60fa.com^
 ||hocgeese.com^
 ||hodynx.top^
+||hoggiesatieno.com^
 ||hogtiesturret.com^
 ||hohmanrtit.com^
 ||hohmaryt.com^
@@ -31536,6 +31541,7 @@ zzzyk.com###Tinfo
 ||oewtuho.cn^
 ||oeya.com^$domain=myptt.cc
 ||of384py2xt.com^
+||ofcgcdcvk.com^
 ||ofd.meng-an.cn^$3p
 ||ofettail.com^
 ||offcn.com/index.php?m=dbsource&c=call&a=get&id=75
@@ -33244,7 +33250,6 @@ zzzyk.com###Tinfo
 ||restorationbowelsunflower.com^
 ||restrainstorm.com^
 ||restructureinvention.com^
-||retedrabs.com^
 ||rethephrased.com^
 ||retiadraffy.top^
 ||retinaspealer.com^
