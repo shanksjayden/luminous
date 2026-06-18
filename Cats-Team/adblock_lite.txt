@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-18 04:05:04(GMT+8)
-! Total count: 38845
+! Version: 2026-06-18 10:56:25(GMT+8)
+! Total count: 38851
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -22360,6 +22360,7 @@ zzzyk.com###Tinfo
 ||bjmantis.net^
 ||bjnyfav.xyz^
 ||bjs.faxingzhan.com^
+||bjsr03odzu.com^
 ||bjsxt.com/statics/js/bjsxt/js.js
 ||bjwj2y.com/JS/LsJS.aspx
 ||bjxty88.com/js/foot.js
@@ -26475,6 +26476,7 @@ zzzyk.com###Tinfo
 ||gkgktibd.com^
 ||gkhergik.com^
 ||gkjmev3.com^
+||gklsfigkom.com^
 ||gknybkl.cn^
 ||gkryjuqq3.com^
 ||gkuresx.com^
@@ -31353,6 +31355,7 @@ zzzyk.com###Tinfo
 ||nplaf.com^
 ||nplvdodbja.com^
 ||npunr.cn^
+||npuwalz.com^
 ||npvcfn.icu^
 ||npzc1yzag7.com^
 ||nq49x3m8g.com^
@@ -32430,6 +32433,7 @@ zzzyk.com###Tinfo
 ||prodigalpromotion.com^
 ||producecopy.com^
 ||producepickle.com^
+||product28.top^
 ||productivepear.com^
 ||productsurfer.com^
 ||proewildfire.cn/fd.js
@@ -33274,6 +33278,7 @@ zzzyk.com###Tinfo
 ||rgpxop.cn^
 ||rgvqddo.com^
 ||rgzz3rs.icu^
+||rhaol5omof.com^
 ||rhesed.site^
 ||rhetoricalactivity.com^
 ||rhetoricalloss.com^
@@ -34977,6 +34982,7 @@ zzzyk.com###Tinfo
 ||taozi888.com/sys
 ||taporn.com/d/
 ||taproot44.com^
+||tarbfjimpnnbvi.com^
 ||tarinraiding.com^
 ||tarotmood.com/img/banner$domain=ixdzs.tw
 ||tarqk5.com^
