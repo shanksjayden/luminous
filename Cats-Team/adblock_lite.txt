@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-19 11:43:22(GMT+8)
-! Total count: 38890
+! Version: 2026-06-19 18:16:59(GMT+8)
+! Total count: 38899
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -12603,6 +12603,7 @@ jstv.com##.jadv
 jthysh.com##.box980
 juba-get.com##IMG[src="http://goo.gl/KcrEH"]
 juba-get.com##IMG[src="http://linkeasy.org/img/uploaded/468x60x7.gif"]
+jucha.com##.money_item
 juejin.cn##.activity-recommend
 juejin.cn##.aside.index-aside > .shadow.app-download-sidebar-block.sidebar-block
 juejin.cn##.recommend-box
@@ -13793,6 +13794,8 @@ miushuo.com###leftDiv1
 mix.dj###maskads
 mix.dj##.classAds
 mixdrop.*#$#abort-current-inline-script $ String.fromCharCode; override-property-read MDCore.adblock 0; abort-current-inline-script String.fromCharCode; abort-on-property-read window.open; abort-current-inline-script atob popundersPerIP
+mixytalk.com###ad-interstitial
+mixytalk.com##.result-inline-ad
 mjzj.com##div[id^="sidebar-top-carouse"]
 mm-cg.com###ArticlesEx_box
 mm-cg.com###ioshowAD
@@ -13849,9 +13852,11 @@ moe.best##.alert
 moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
 moe.gov.cn,qspfw.com#@#.ad_title
 moeci.com##+js(no-setTimeout-if, _0x)
+moegirl.org.cn##+js(addEventListener-defuser, DOMContentLoaded, sponsored)
 moegirl.org.cn##.capsule-card:has(.n-tag)
 moegirl.org.cn##.moe-card[data-region="oversea"]
 moegirl.org.cn##.moe-card[region="oversea"]
+moegirl.org.cn##.moeautotrans-side-ad
 moegirl.org.cn##[class^='stevrhgmNo']
 moegirl.org.cn##[style*='box-shadow: rgb(136, 136, 136) 0px 0px']
 moerats.com##div[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
@@ -22199,6 +22204,7 @@ zzzyk.com###Tinfo
 ||beizi.biz^
 ||bejson.com/static/la.
 ||bekco.xyz^
+||belchlipin.com^
 ||belindanbd.com^
 ||benchmark84.top^
 ||bendibao.com*/tuangou.gif
@@ -25624,6 +25630,7 @@ zzzyk.com###Tinfo
 ||farshake.com^
 ||farsnails.com^
 ||fascescrewet.com^
+||fascparbate.com^
 ||fast8.cc/skin/default/images/630652.png
 ||fastadmin.net/uploads/store/aliyun
 ||fastadmin.net/uploads/store/tencent
@@ -30074,6 +30081,7 @@ zzzyk.com###Tinfo
 ||lvse.cn/output/block/html/
 ||lvse.com/9
 ||lvuptech.com/wp-content/plugins/deblocker/
+||lvykdmk.icu^
 ||lvzs619n1c.com^
 ||lw54.com/js/
 ||lw881.com/public/js/gw.js
@@ -33206,7 +33214,6 @@ zzzyk.com###Tinfo
 ||redbricksoap.com^
 ||redcapsunlime.com^
 ||redmx.cn^$3p
-||redsearoblates.com^
 ||redshu.com/js/pcAdv.js
 ||redshu.com/js/www/jquerygg.js
 ||redtvxjmgjbtlw.com^
@@ -34166,6 +34173,7 @@ zzzyk.com###Tinfo
 ||singroot.com^
 ||singtao.ca/editions/affiliate_
 ||sinkportal.com^
+||sinnerhealthypoured.com^
 ||sinolub.com/index.php?m=poster&
 ||siodgs.icu^
 ||sirsplajp.com^
@@ -35646,6 +35654,7 @@ zzzyk.com###Tinfo
 ||tubeviral.com/Webservices/jsParseLinks.aspx$script,third-party
 ||tubeviral.com/visitScript/$script,third-party
 ||tuckedshowing.com^
+||tuffoonaskant.com^
 ||tuhzjrr.cn^
 ||tui.cnzz.net^$third-party
 ||tui.gtimg.com//res/
