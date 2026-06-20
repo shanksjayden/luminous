@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-20 03:40:33(GMT+8)
-! Total count: 38924
+! Version: 2026-06-20 10:47:11(GMT+8)
+! Total count: 38930
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -24553,6 +24553,7 @@ zzzyk.com###Tinfo
 ||divehope.com^
 ||divergentld.com^
 ||dividedmidsummer.com^
+||dividend56.top^
 ||division43.top^
 ||diyibanzhu*.com/js/cdn.
 ||diyibanzhu*.com/js/html
@@ -27018,6 +27019,7 @@ zzzyk.com###Tinfo
 ||h6cp.icu^
 ||h6fh0e4hg.com^
 ||h6n6i7v98.com^
+||h702886htm.com^
 ||h731.icu^
 ||h78xb.pw^
 ||h7ima6w5k.com^
@@ -28440,6 +28442,7 @@ zzzyk.com###Tinfo
 ||iuu3j.xyz^
 ||iuuiugbjd.xyz^
 ||iuwkmpol.net^
+||iv6xaoopvq.com^
 ||ivcfsi3dr0.com^
 ||ivdjs.com^
 ||ivdtruneda.com^
@@ -32556,6 +32559,7 @@ zzzyk.com###Tinfo
 ||pthrumeath.com^
 ||ptju.cn^
 ||ptmabek.cn^
+||pttoblakstpjti.com^
 ||pttzjo.top^
 ||ptvfzv.xyz^
 ||ptxcfn.icu^
@@ -32697,6 +32701,7 @@ zzzyk.com###Tinfo
 ||qbox.me/FlnVIdUeIo_LrXyGiOL0OFw0Gpa7
 ||qbox.me/FnjnjJhJZlKZEGJ7qV1AocqusFbf
 ||qbtd.xyz^
+||qbyngdjq8g.com^
 ||qc1.cheshipin.com^
 ||qcb2xeg.icu^
 ||qchannel03.cn$third-party
@@ -38688,6 +38693,7 @@ zzzyk.com###Tinfo
 ||zk.91post.com^
 ||zk789.cn/Res/Scripts/Show/NetSys/Show.ashx
 ||zkcizao.com^
+||zkhjsta.beauty^
 ||zkmnpnt4xg.com^
 ||zknqll.icu^
 ||zkraktak.com^
