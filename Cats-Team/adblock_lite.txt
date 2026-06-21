@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-21 11:30:02(GMT+8)
-! Total count: 38944
+! Version: 2026-06-21 17:40:55(GMT+8)
+! Total count: 38949
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20306,6 +20306,7 @@ zzzyk.com###Tinfo
 ||89mtdab.xyz^
 ||8bnouo6r6.com^
 ||8chj9.com^
+||8cj70f905.com^
 ||8cjk04e7sb.com^
 ||8clkggoo62.com^
 ||8cnd.com^
@@ -28574,6 +28575,7 @@ zzzyk.com###Tinfo
 ||jb.dianshu119.com^
 ||jb.ecar168.cn^
 ||jb51.net/imgby/logo_
+||jba33y5xx.com^
 ||jbazhaheia.top^
 ||jbbydz.icu^
 ||jbdch1.appmobile.cn^
@@ -36643,6 +36645,7 @@ zzzyk.com###Tinfo
 ||vwfppr.xyz^
 ||vwiy.cn^
 ||vwowvu9ha.com^
+||vwpgnvwgywbrfo.com^
 ||vwtbrzymoz.com^
 ||vwtjvd.xyz^
 ||vwuudahnarh.com^
@@ -37776,6 +37779,7 @@ zzzyk.com###Tinfo
 ||xvideo.cc/wefong2.js
 ||xvkz.cn^
 ||xwbspx.xyz^
+||xwcm.net/caches/ahm.
 ||xwdsp.com^
 ||xwlyfl.xyz^
 ||xwqtatnw.icu^
@@ -38165,6 +38169,7 @@ zzzyk.com###Tinfo
 ||ypyr.cn^
 ||ypzps.com^
 ||yqg.jobui.com^
+||yqgtuqf.icu^
 ||yqgzaewe.cn^
 ||yqhorcill.com^
 ||yqrsdfh.top^
