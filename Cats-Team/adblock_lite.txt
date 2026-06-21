@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-21 03:15:46(GMT+8)
-! Total count: 38937
+! Version: 2026-06-21 11:30:02(GMT+8)
+! Total count: 38944
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -22943,6 +22943,7 @@ zzzyk.com###Tinfo
 ||camelspark.com^
 ||camep.xyz^
 ||camerain.top^
+||campfirecroutondecorator.com^
 ||camspic.com/imguang/*.gif
 ||cancellation10.top^
 ||cancellation39.com^
@@ -23369,6 +23370,7 @@ zzzyk.com###Tinfo
 ||chixingkeji.com^
 ||chnci.com^$3p
 ||chnmoney.com/dfile/
+||chnsrv.com^
 ||chnuuee.xyz^
 ||chok8.com/statics/ad/
 ||cholo101.cn^
@@ -25244,6 +25246,7 @@ zzzyk.com###Tinfo
 ||elusivebreeze.com^
 ||elusivecascade.com^
 ||elviraawa.com^
+||elwebmx21.com^
 ||em7ky342lo.com^
 ||embbl8sy3.com^
 ||embellishedmeadow.com^
@@ -26030,6 +26033,7 @@ zzzyk.com###Tinfo
 ||fqtyucit.com^
 ||fqxkj.cn^
 ||fr701hx5vi.com^
+||fraction05.com^
 ||fracture46.com^
 ||fragment.firefoxchina.cn/html/
 ||frailfruit.com^
@@ -33486,6 +33490,7 @@ zzzyk.com###Tinfo
 ||royalespring.com^
 ||royalsbagels.com^
 ||royalsweeper.com^
+||roywc0iql.com^
 ||rpahyhn.cn^
 ||rpdlt.cn^
 ||rpkcqtf.cn^
@@ -33606,6 +33611,7 @@ zzzyk.com###Tinfo
 ||rznscya.cn^
 ||rzrnpx.icu^
 ||rzsgxmm.cn^
+||rzuagqomzl.in^
 ||rzxhrl.icu^
 ||s-msn.com/portal/js/vendor/manto/
 ||s-msn.com/portal/xiatui.js
@@ -33627,6 +33633,7 @@ zzzyk.com###Tinfo
 ||s.yimg.com/uv/dm/scripts/syndication.js
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s.zixuntop.com^
+||s002o2hkg.com^
 ||s00hv1jp8.com^
 ||s06g9qvr5.com^
 ||s0drxaq4v7.com^
