@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-23 00:43:29(GMT+8)
-! Total count: 38983
+! Version: 2026-06-23 04:36:58(GMT+8)
+! Total count: 38989
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20202,6 +20202,7 @@ zzzyk.com###Tinfo
 ||7k7kimg.cn/cms/cms10/20180706/135219_4911.jpg
 ||7kankan.com/scripts/new/indext
 ||7kjiiu.cn^
+||7kqn7qz4g4.com^
 ||7lavkpncj.com^
 ||7li0ohd.com^
 ||7magjd84rd.com^
@@ -29677,6 +29678,7 @@ zzzyk.com###Tinfo
 ||leju.com/scripts/app/pc/indexlayer/v1/indexlayer.js
 ||leju.com^*=abs.processReqChange
 ||lekkrrlel.com^
+||lel704cjev.com^
 ||lele36.com/p/*.gif
 ||lelekan.com/sp/fmt.js
 ||leleketang.com/dat/a/
@@ -32390,6 +32392,7 @@ zzzyk.com###Tinfo
 ||pmvlwjy.cn^
 ||pmxalz.xyz^
 ||pmzhtd.icu^
+||pn9f3utrxu.com^
 ||pnhp3x1.com^
 ||pniao99.com/statics/js/stat.js
 ||pnk95mnqww.com^
@@ -33844,6 +33847,7 @@ zzzyk.com###Tinfo
 ||scribd.com/_fs-ch-*^$script
 ||script-bd.baixing.net^
 ||script.banstex.com/script/
+||scriptcat.org/api/*/advertise?
 ||scrivencaccias.com^
 ||scrollpushyfar.com^
 ||scrollservice.com^
@@ -35306,6 +35310,7 @@ zzzyk.com###Tinfo
 ||thpvrn.icu^
 ||thragmoth.com^
 ||thraittidz.com^
+||thralgrean.com^
 ||threechurch.com^
 ||threetruck.com^
 ||thricroiw.com^
@@ -37972,6 +37977,7 @@ zzzyk.com###Tinfo
 ||ydgh0zc.com^
 ||ydgsvls.cn^
 ||ydhilninhp.com^
+||ydholdred.com^
 ||ydjfdkcv.com^
 ||ydjs.zol.com.cn^
 ||ydss.cn/test.www.jdpay.com
