@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-22 03:21:26(GMT+8)
-! Total count: 38957
+! Version: 2026-06-22 11:35:03(GMT+8)
+! Total count: 38961
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20369,6 +20369,7 @@ zzzyk.com###Tinfo
 ||8zqpw2lj8n.com^
 ||900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
+||903jbw7lr6.com^
 ||90mh.com/mip/qdbao
 ||90mh.com/mip/qdbao77.js
 ||90oo.com/tp/188jj.gif
@@ -24118,6 +24119,7 @@ zzzyk.com###Tinfo
 ||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
 ||d7fl3a3vwh.com^
+||d7rn5gu7i2.com^
 ||d7w6tvhhww.com^
 ||d7ynwsj5l.com^
 ||d7ytrv7yxa.com^
@@ -25518,6 +25520,7 @@ zzzyk.com###Tinfo
 ||exonerrotter.com^
 ||expansioneggnog.com^
 ||expediency36.com^
+||exponent69.com^
 ||exportdialog.com^
 ||expreview.com/baba/
 ||exquisiteartisanship.com^
@@ -35838,6 +35841,7 @@ zzzyk.com###Tinfo
 ||tzfdc.com.cn/userfiles/flash/
 ||tzfdc.com/Images/09/flv/flv_index.js
 ||tzfdc.com/fdcSell/
+||tzlbzndiezpzro.com^
 ||tzlit.cn^
 ||tzwaw.pw^
 ||u.ctrip.com/showcaseadvertisementsit/
