@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-22 11:35:03(GMT+8)
-! Total count: 38961
+! Version: 2026-06-22 19:41:39(GMT+8)
+! Total count: 38969
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -7334,7 +7334,7 @@ audiotag.info###dclaim
 audiotag.info##.dialog-fog
 audiotruyenfull.com#$#abort-current-inline-script document.addEventListener ai_run
 audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
-audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.1phim4.com#$#abort-current-inline-script setTimeout Aff
+audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.1phim5.com#$#abort-current-inline-script setTimeout Aff
 aupetitparieur.com,mamieastuce.com,meilleurpronostic.fr##div[class] > div[id] > main[class][id]
 aura.cn##.foot-xcx
 aura.cn##.left-zc
@@ -15587,7 +15587,7 @@ root-nation.com#$#hide-if-matches-xpath './/img[contains(@alt,"")]/parent::div[@
 root-nation.com#$#hide-if-matches-xpath '//source/following::img[@src]/ancestor::a[@class]/ancestor-or-self::div[@id="tdi_29"]'
 rootz.so#$#prevent-listener click preventDefault; abort-on-property-read window.open
 rophim.moe#$#abort-current-inline-script addEvent popu
-rophimzz.online#$#prevent-listener click ads
+rophimzz.online,motphimz.ac#$#prevent-listener click ads
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > div[id^="ts_ad_native"])
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > ins)
 rouman5.com###headlessui-portal-root
@@ -16607,7 +16607,7 @@ tcptest.cn##div.fixed.hidden
 tcptest.cn##div.min-w-0 > .relative
 tctruyen.org#$#abort-current-inline-script $ popup
 teachinghand.com##.actions__wrapper
-teamlanhlung8.shop,javgiga.wordpress.com,www.1phim4.com#$#abort-on-property-read localStorage
+teamlanhlung8.shop,javgiga.wordpress.com,www.1phim5.com#$#abort-on-property-read localStorage
 teamlanhlungday.store,moontruyen.com#$#abort-current-inline-script $ window.open
 tech.ifeng.com##body > div[style^="width:"][style*="margin: 0px auto; transition:"][style*="position: fixed; z-index:"]
 tech.qq.com##.kjad2
@@ -24542,6 +24542,7 @@ zzzyk.com###Tinfo
 ||discepttaked.com^
 ||discopond.com^
 ||discount63.top^
+||discreditperspirepoetry.com^
 ||discreetfield.com^
 ||discreetquarter.com^
 ||discuss.com.hk/dfp_forum.php?au=Discuss_Web_
@@ -26156,7 +26157,6 @@ zzzyk.com###Tinfo
 ||fuq3sve1gj.com^
 ||furryfork.com^
 ||furryhorses.com^
-||furudloof.com^
 ||fusedcontent.com^
 ||futhacifl.com^
 ||futuristicapparatus.com^
@@ -28417,6 +28417,7 @@ zzzyk.com###Tinfo
 ||itemslice.com^
 ||itheat.com/?show=
 ||itheatmoran.com^
+||ithielalture.com^
 ||ithome.com.tw/media/serve?
 ||ithome.com/api/lapin/
 ||ithome.com/block/headerline$subdocument
@@ -33021,6 +33022,7 @@ zzzyk.com###Tinfo
 ||quantumlagoon.com^
 ||quantumshine.com^
 ||quanxiaozi.com^
+||quarrelsomebitter.com^
 ||qubdjkqwl.com^
 ||qucncfo.cn^
 ||qucxwvt.com^
@@ -35544,8 +35546,10 @@ zzzyk.com###Tinfo
 ||toutiaoyule.com/n/dspshow.
 ||tovbus.cn^
 ||tovppl.cn^
+||toweleyewitnessrubbing.com^
 ||towerhavenet.com^
 ||towerloftier.com^
+||townistchechia.com^
 ||toysbasics.com^
 ||toytakeover.com^
 ||tp.sgcn.com^
@@ -36754,6 +36758,7 @@ zzzyk.com###Tinfo
 ||wafmedia3.com^$script,domain=online.dramacafe.in
 ||wagzqhq.cn^
 ||wai69.com/js/baidu/
+||wailsmasonic.com^
 ||waipian*.com/statics/recommend/
 ||waitingnumber.com^
 ||waivinggilim.com^
@@ -36889,6 +36894,7 @@ zzzyk.com###Tinfo
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
 ||wellmadefrog.com^
+||wellmadesurvey.pro^
 ||wendangku.net/js/common.js
 ||wendellyu.com/banner/
 ||wenhua.jiaoshou.com^
@@ -38768,6 +38774,7 @@ zzzyk.com###Tinfo
 ||zo0nk647a.com^
 ||zoaenkekd.com^
 ||zoeacaring.com^
+||zoileanandean.com^
 ||zokjds.com/js/xiao.js
 ||zol-img.com.cn/ad/
 ||zol-img.com.cn/detail/js/module/app-download-float/script.js
@@ -38791,6 +38798,7 @@ zzzyk.com###Tinfo
 ||zoossoft.cn^$third-party
 ||zorbklqyoabvj.top^
 ||zorkraith.com^
+||zosteralatency.com^
 ||zotcjeig.xyz^
 ||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||zouqiuyyds.com^
