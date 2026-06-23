@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-23 04:36:58(GMT+8)
-! Total count: 38989
+! Version: 2026-06-23 10:41:05(GMT+8)
+! Total count: 38995
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8250,7 +8250,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,clipsex2k.net,animehay06.site,cliphot69.shop,phimsexsuong3x.net,damconuong.mom,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenpt.com,hentaixvn.net,hhtq5.vip,qmanga.art,javtiful.com,luottruyen9.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,vipphimsexhay.com,quatvn.biz,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,clip3xhay.net,animehay06.site,cliphot69.shop,phimsexsuong3x.net,damconuong.mom,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenpt.com,hentaixvn.net,hhtq5.vip,qmanga.art,javtiful.com,luottruyen9.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,vipphimsexhay.com,quatvn.biz,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 buonaporno.com#$#abort-current-inline-script document.querySelectorAll popMagic; abort-on-property-read popMagic;
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
@@ -8666,7 +8666,7 @@ clicknupload.co,clicknupload.link,clicknupload.org,clicknupload.to#$#abort-curre
 client=ca-pub-$subdocument,domain=expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 client=ca-pub-$subdocument,domain=iprima.cz|www.ahaonline.cz|info.cz|onetv.cz
 clikcoin.pl#@##adsense
-cliphott.com#$#abort-current-inline-script window.addEventListener Ads
+cliphotgirl.com#$#abort-current-inline-script window.addEventListener Ads
 cliphubs.com,viet69hay.site#$#abort-current-inline-script document.addEventListener pop
 clipphot.vip#$#abort-current-inline-script document.addEventListener POP
 closermag.fr##div[id^="detection-block"]
@@ -19442,6 +19442,7 @@ zzzyk.com###Tinfo
 ||35336.net/35336.jpg
 ||354xxcdt1.com^
 ||3562wsgkbcm.xyz^
+||359z66txb.com^
 ||35kjurwwb6.com^
 ||35lnvz97cg.com^
 ||35processors.net^
@@ -20373,6 +20374,7 @@ zzzyk.com###Tinfo
 ||8yuwd5lpj.com^
 ||8z1eg6o2j.com^
 ||8ziyuan.com/images/infolinksad.jpg
+||8zovisffy.com^
 ||8zqpw2lj8n.com^
 ||900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
@@ -24369,6 +24371,7 @@ zzzyk.com###Tinfo
 ||derbypops.com^
 ||derew6xbsc.xyz^
 ||derivative10.top^
+||derivative44.top^
 ||dernergazeful.com^
 ||dertyhsf.xyz^
 ||desac10.icu^
@@ -29718,6 +29721,7 @@ zzzyk.com###Tinfo
 ||lfhthokieryf.com^
 ||lfjtiuy.cn^
 ||lflmdm.com^
+||lftw3i7d5.com^
 ||lfzk2cp.icu^
 ||lg0lh2qfj4.com^
 ||lgaekait.com^
@@ -30085,6 +30089,7 @@ zzzyk.com###Tinfo
 ||lslbahl.top^
 ||lsntzzy3.com/Runtime/js/psData.js
 ||lsnzxzy1.com/Runtime/js/psData.js
+||lsoclwa.icu^
 ||lt3f9p5ox2.com^
 ||ltbyw.top/data/images/*.gif
 ||ltfcagrapl.com^
@@ -33525,6 +33530,7 @@ zzzyk.com###Tinfo
 ||roywc0iql.com^
 ||rpahyhn.cn^
 ||rpdlt.cn^
+||rphwjxzekcbzxu.com^
 ||rpkcqtf.cn^
 ||rpox.cn^
 ||rppihz.xyz^
