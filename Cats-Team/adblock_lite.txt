@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-24 10:41:47(GMT+8)
-! Total count: 39012
+! Version: 2026-06-24 16:56:57(GMT+8)
+! Total count: 39018
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -7313,6 +7313,8 @@ asnwish.com,movielair.cc#$#abort-current-inline-script document.createElement __
 asp300.com,asp300.net##.tit01 > a
 asp300.com,asp300.net##.tit02 > a
 assbbs.com##div[id^="ass_adv"]
+assume.gguaklar.cc,51cg1.com,51baoliao01.com,91cg1.com###adFloat
+assume.gguaklar.cc,51cg1.com,51baoliao01.com,91cg1.com##.recommend-layer
 astrakhan.ru,myjane.ru,omskpress.ru,tambovnet.org#$#abort-on-property-read kav_cn
 asura.gg#$#hide-if-matches-xpath './/div[@language]/video[@src]/ancestor::div[@style]/parent::div[@id="tip_text_content"]/ancestor::div[@style][@id][1]'
 asurascanz.com#$#hide-if-matches-xpath './/a[@rel="sponsored"]/parent::div[@style]/ancestor::div[@style][1]'
@@ -11422,7 +11424,6 @@ huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(abort-on-stack-trace
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(abort-on-stack-trace, document.querySelector, isAdblocked)
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(addEventListener-defuser, DOMContentLoaded, showModal)
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(no-setTimeout-if, /bait\.offsetHeight===0|isAdblocked|requestAnimationFrame\(|AdBlock|AdGuard/)
-huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##body > div[class^="hr-t-"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##div[id^="anti-adblock-"]
 huavod.com##a[href^="https://lesi198.com"]
@@ -21598,6 +21599,7 @@ zzzyk.com###Tinfo
 ||aromamirror.com^
 ||arpg2.com^
 ||arrivegrowth.com^
+||arrogancelullabyjan.com^
 ||arts-cloud.net^
 ||arubahello.com^
 ||arullelb.com^
@@ -22579,6 +22581,7 @@ zzzyk.com###Tinfo
 ||boringpirate.com^
 ||boshishuwu.com/js/middlestyle.js
 ||boshishuwu.com/js/zhuanhua.js
+||bossy-hat.com^
 ||bosw.net/js/bos/*960
 ||botakissed.com^
 ||botcm.com/zhanqun/
@@ -31830,6 +31833,7 @@ zzzyk.com###Tinfo
 ||operetta17.com^
 ||ophwrh.cn^
 ||opicrutuk.com^
+||opinesgallate.com^
 ||opjnbmk.com^
 ||opkkjh.xyz^
 ||opkrerkaidf.com^
@@ -34329,6 +34333,7 @@ zzzyk.com###Tinfo
 ||slashlook.com/_resource/html/_bloggerAdsBottom.html
 ||slashlook.com/_resource/html/_bloggerAdsInline1.html
 ||slaysweater.com^
+||sleeklyyallaer.com^
 ||slenderclarify.com^
 ||slfango.ltd^
 ||slickcontent.com^
@@ -37948,6 +37953,7 @@ zzzyk.com###Tinfo
 ||yahekby.cn^
 ||yahoo.com/embed/tv?site=buzzhand&
 ||yahoo.com/gdsale/gdsale.asp$domain=beephone.com.tw
+||yakanorby.com^
 ||yakhaknog.com^
 ||yalingba.com/ggtxjs/
 ||yallowafridi.com^
