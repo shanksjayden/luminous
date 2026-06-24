@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-24 23:38:14(GMT+8)
-! Total count: 39027
+! Version: 2026-06-25 03:28:33(GMT+8)
+! Total count: 39020
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -5611,7 +5611,6 @@ $websocket,domain=wap.yushuwu.cloud
 @@||error-report.com^$xmlhttprequest,domain=golfmonthly.com
 @@||error-report.com^$xmlhttprequest,domain=kuruma-news.jp
 @@||error-report.com^$xmlhttprequest,domain=mr2oc.com
-@@||error-report.com^$xmlhttprequest,domain=namemc.com
 @@||error-report.com^$xmlhttprequest,domain=pcgamer.com
 @@||error-report.com^$xmlhttprequest,domain=pcgamesn.com
 @@||eska.tv/assets/js/ads.js$script,domain=eska.tv
@@ -11596,6 +11595,7 @@ idnes.cz#$#override-property-read Storage.data.gemiuspokus 4
 idnes.cz#$#override-property-read pxReady null
 idokep.hu##div[class*="ad-lockup-top-"]
 idokep.hu#$#hide-if-matches-xpath '//div[contains(@class,"info-small")][text()="Hirdetés"]'
+idokep.hu#$#override-property-read Navigator.prototype.onLine false
 idokep.hu#$#override-property-read adshield.isAdBlockerDetected false
 idokep.hu#$#override-property-read as_-1139087742 true; override-property-read as_-992624185 true; override-property-read as_1212759660 true
 idokep.hu#$#override-property-read as_-1173987845 true; override-property-read as_-1027524288 true; override-property-read as_1177859557 true; override-property-read as_2022485055 true; override-property-read as_-67098396 true; override-property-read as_1537073278 true; override-property-read as_1683536835 true; override-property-read as_1649642013 true; override-property-read as_-1041153609 true; override-property-read as_-293477881 true; override-property-read as_1310693793 true; override-property-read as_-1380101829 true; override-property-read as_-632426101 true; override-property-read as_971745573 true; override-property-read as_-419675937 true
@@ -14153,10 +14153,6 @@ naifei.im##.tg_w
 naifei.im##div[class^="wp-none"]
 naifei.im##div[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
 nakastream.*#$#replace-fetch-response /("adsterraSmartLink[0-9]?":")[^"]+/ '$1' 'adsterraSmartLink'
-namemc.com#$#override-property-read Navigator.prototype.onLine false
-namemc.com#$#override-property-read as_-1456619792 true; override-property-read as_1514845309 true; override-property-read as_-292031020 true; override-property-read as_-1380101829 true; override-property-read as_1310693793 true; override-property-read as_-632426101 true; override-property-read as_-1701653056 true; override-property-read as_989142566 true; override-property-read as_-953977328 true; override-property-read as_-1345201726 true; override-property-read as_1345593896 true; override-property-read as_-597525998 true
-namemc.com#$#override-property-read as_2073418414 true; override-property-read as_-1320722721 true; override-property-read as_-1188240253 true; override-property-read as_1177859557 true; override-property-read as_-1027524288 true; override-property-read as_2022485055 true; override-property-read as_01828408771 true; override-property-read as_91055421694 true; override-property-read as_856308330 true; override-property-read as_-1349075515 true; override-property-read as_1700933828 true; override-property-read as_1212759660 true; override-property-read as_-992624185 true; override-property-read as_2057385158 true;
-namemc.com$csp=script-src-attr 'none'
 nanai.tw,foodieteller.com,candylife.tw,uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##+js(abort-on-property-write, __PROXY_META)
 nanai.tw,foodieteller.com,candylife.tw,uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##+js(abort-on-property-write, __ad_unblock_id_obfuscation)
 nanai.tw,foodieteller.com,candylife.tw,uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##body .code-block
@@ -18656,7 +18652,6 @@ zzzyk.com###Tinfo
 ||*/loader.min.js^$script,domain=goldderby.com
 ||*/loader.min.js^$script,domain=hollywoodreporter.com
 ||*/loader.min.js^$script,domain=indiewire.com
-||*/loader.min.js^$script,domain=namemc.com
 ||*/loader.min.js^$script,domain=programme.tv
 ||*/loader.min.js^$script,domain=rollingstone.com
 ||*/loader.min.js^$script,domain=scribd.com
@@ -23743,9 +23738,9 @@ zzzyk.com###Tinfo
 ||content-loader.com/feed/$domain=oricon.co.jp
 ||content-loader.com/session/$domain=euronews.com
 ||content-loader.com/session/$domain=index.hr
-||content-loader.com^$domain=namemc.com
 ||content-loader.com^$script,domain=gamewith.jp
 ||content-loader.com^$script,domain=gutefrage.net|timesofindia.indiatimes.com|tz.de|winfuture.de
+||content-loader.com^$script,domain=idokep.hu
 ||content-loader.com^$script,domain=index.hr
 ||content-loader.com^$script,domain=www.wetter.com
 ||content-loader.com^$script,rewrite=abp-resource:blank-js,domain=9gag.com
@@ -25451,7 +25446,6 @@ zzzyk.com###Tinfo
 ||error-report.com^$domain=wordhippo.com
 ||error-report.com^$domain=woxikon.de
 ||error-report.com^$subdocument,domain=kuruma-news.jp
-||error-report.com^$subdocument,domain=namemc.com
 ||ert.pengwenli.top^
 ||ertgbme.com^
 ||erty0yx.com^
@@ -27687,7 +27681,6 @@ zzzyk.com###Tinfo
 ||html-load.com^$script,domain=idokep.hu
 ||html-load.com^$script,domain=index.hr
 ||html-load.com^$script,domain=kuruma-news.jp
-||html-load.com^$script,domain=namemc.com
 ||html-load.com^$script,domain=nikkansports.com
 ||html-load.com^$script,domain=pcgamer.com
 ||html-load.com^$script,domain=pcgamesn.com
