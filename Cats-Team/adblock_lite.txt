@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-24 03:53:06(GMT+8)
-! Total count: 39006
+! Version: 2026-06-24 10:41:47(GMT+8)
+! Total count: 39012
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -8250,7 +8250,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,clip3xhay.net,animehay06.site,cliphot69.shop,phimsexsuong3x.net,damconuong.mom,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenpt.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen9.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,vipphimsexhay.com,quatvn.biz,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,clip3xhay.net,animehay06.site,cliphot69.shop,phimsexsuong3x.net,damconuong.mom,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenpt.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen9.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,vipphimsexhay.com,quatvn.biz,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,xvideos.xemvl.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 buonaporno.com#$#abort-current-inline-script document.querySelectorAll popMagic; abort-on-property-read popMagic;
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
@@ -24475,6 +24475,7 @@ zzzyk.com###Tinfo
 ||dh1dh.top^
 ||dh5t3pyb6r.com^
 ||dh8ypn3lq8.com^
+||dhcjty.com^
 ||dhckj73qr3.com^
 ||dhduc.com^
 ||dheblxw.com^
@@ -30000,6 +30001,7 @@ zzzyk.com###Tinfo
 ||log.zijieapi.com^
 ||log.zongheng.com^
 ||log2.mtime.cn^
+||logarithm29.top^
 ||logbak.hicloud.com^
 ||logicalminds.net^
 ||logoquan.com/upload/prd/
@@ -31642,6 +31644,7 @@ zzzyk.com###Tinfo
 ||ocs-pl.oktawave.com/v1/AUTH_*/Reklamy/$object-subrequest,domain=freedisc.pl|reseton.pl
 ||octaneblood.com^
 ||ocvdi0rum.com^
+||od6992uotl.com^
 ||odhivvin.com^
 ||odmerorlzo.com^
 ||odxupm909y.com^
@@ -32585,6 +32588,7 @@ zzzyk.com###Tinfo
 ||ps886.us/js/*.js
 ||psa1xoeve.com^
 ||pschenttidier.com^
+||psdovpvghfphju.com^
 ||psgpllf.com^
 ||psrfbr.icu^
 ||pstatp.com/growth/fe_sdk/bannersdk
@@ -38762,6 +38766,7 @@ zzzyk.com###Tinfo
 ||zjst.net/3.gif
 ||zjthzf.xyz^
 ||zjtu.tv/add.
+||zju16obqzy.com^
 ||zjxc.com/source/plugin/e6_xc_ad/
 ||zjzh2019.com^
 ||zk.91post.com^
@@ -38866,6 +38871,7 @@ zzzyk.com###Tinfo
 ||zrjr81na94.com^
 ||zrkeirapi.com^
 ||zrljzgs.xyz^
+||zrosq6dsha.com^
 ||zrz0c0sh7e.com^
 ||zrzgsdocqm.com^
 ||zsjjob.com/user/member/google.htm
