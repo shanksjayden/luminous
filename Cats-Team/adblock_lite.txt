@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-25 16:51:43(GMT+8)
-! Total count: 39025
+! Version: 2026-06-25 22:12:00(GMT+8)
+! Total count: 39030
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -2961,7 +2961,7 @@ $websocket,domain=wap.yushuwu.cloud
 /pjk/static/tp.php
 /pjk/xjk/*.php
 /player/html.php?aid=*&video_id=*&referer=https*kissjav*^$domain=kissjav.li|kissjav.com
-/player/html.php?aid=*&video_id=*&referer=https*xnhau.hot*^$domain=xnhau.la
+/player/html.php?aid=*&video_id=*&referer=https*xnhau.hot*^$domain=xnhau.kim
 /plugin.php?id=popad_7ree&
 /plugins/adblock-notify-by-bweb/*
 /plugins/anti-block/*
@@ -7160,7 +7160,7 @@ animasu.*#$#hide-if-matches-xpath './/img[contains(@alt,"H")][@class="lazyload"]
 anime-sama.*#$#abort-on-property-read aclib.runBanner
 anime-shinden.info#@##ads_video
 anime14.site,anime47.best,hoctot.hocmai.vn,keysmatterinc.com,maclife.io,player.phimapi.com,z.phimsexvn1.blog,sachmoi.net,javgiga.wordpress.com,vinaurl.net,xfast.sbs,zpic.live,anime47.best,z.phimsexvn1.blog#$#abort-on-property-read open
-anime47.best,chichvn.men,comong.info,forum.timfshare.com,honghotduongpho.vn,mv.dailyphimz.com,mv.phimbathu.one,phimchill.life,quangcaoyenbai.com,vnsexhihi.net,thefaplive.com,truyensieuhay.com,qmhsex.cc#$#abort-on-property-read document.cookie
+anime47.best,chichvn.men,comong.info,forum.timfshare.com,honghotduongpho.vn,mv.dailyphimz.com,mv.phimbathu.one,phimchill.life,quangcaoyenbai.com,xemsexhihi.biz,thefaplive.com,truyensieuhay.com,qmhsex.cc#$#abort-on-property-read document.cookie
 anime4fun.com###hover
 animecomplet.*,cpasbien.ch,cpasbien.si,dadyflix.co,dl-protect.*,dl-protect1.com,ed-protect.org,extreme-down.*,extreme-download.*,filmsexeporno.com,french-stream.*,hds-streaming.tv,hdss.la,hdss.to,ianime-fr.com,japscan.*,jetanimes.*,lelscanfr.com,lelscans.net,mavanimes.*,streaming-french.*,streamingfrance.com,summarynetworks.com,toonanime.*,torrent9.*,vanime.*,vf-film.net,voirseries.*,vostanimey.net,vostanimez.tv,vostfree.*,wawacity.*,zone-annuaire.*,zone-telechargement.*#$#abort-current-inline-script document.documentElement /atob|case|JSON.parse/; abort-current-inline-script String.fromCharCode /atob|break/; abort-on-property-write JSON.parse; abort-current-inline-script Math /atob|break/;
 animedia.tv,vsetut.su#$#abort-on-property-read zfgformats
@@ -7173,8 +7173,8 @@ animeflv.cc#$#abort-current-inline-script JSON.parse
 animeflv.net##iframe[style="position: fixed; width: 100%; height: 100%; inset: 0px; opacity: 0; z-index: 2147483647;"]
 animeflv.net#$#abort-current-inline-script globalThis /break|case/; abort-current-inline-script EventTarget.prototype.addEventListener 'delete window';
 animeflv.net,estrenosdoramas.net#$#abort-on-property-read __DOMAIN; abort-on-property-read window.open
-animehay06.site#$#abort-current-inline-script document.addEventListener window.open; override-property-read list_link_popup emptyArray
-animehay06.site#$#prevent-listener click popup
+animehay07.site#$#abort-current-inline-script document.addEventListener window.open; override-property-read list_link_popup emptyArray
+animehay07.site#$#prevent-listener click popup
 animekun.ru,doramakun.ru,nnmclub.to#$#abort-current-inline-script document.createElement Math.random; abort-current-inline-script setInterval Math.random
 animeland.su,itcats.ru,nekto.me,noadsradio.ru,sharkgame.ru,studies.in.ua,w10.jeanzzz.ru##.no-adb
 animeland.us,kiss-anime.ws,mangareader.net#$#abort-on-property-read bbHideDiv
@@ -8248,7 +8248,7 @@ btvsports.com###ai_tapar
 budport.com.ua##body > div[style^="position:fixed;"][style*="z-index"][style*="background"]
 budport.com.ua#$#abort-current-inline-script $ append
 bukaivip.com##img[onclick]
-buomtv.life,websexviet.net,animehay06.site,cliphot69.shop,phimsexsuong3x.net,damconuong.shop,demo.14412882.com,doctruyen3qhub1.com,dualeotruyenpt.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen9.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,vipphimsexhay.com,quatvn.biz,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,xvideos.xemvl.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,websexviet.net,animehay07.site,cliphot69.shop,phimsexsuong3x.net,damconuong.shop,demo.14412882.com,doctruyen3qhub1.com,dualeotruyendc.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen10.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,vipphimsexhay.com,quatvn.biz,sayhentai.cx,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,xvideos.xemvl.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 buonaporno.com#$#abort-current-inline-script document.querySelectorAll popMagic; abort-on-property-read popMagic;
 burze.dzis.net#@#.adsbygoogle
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
@@ -8664,7 +8664,7 @@ clicknupload.co,clicknupload.link,clicknupload.org,clicknupload.to#$#abort-curre
 client=ca-pub-$subdocument,domain=expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 client=ca-pub-$subdocument,domain=iprima.cz|www.ahaonline.cz|info.cz|onetv.cz
 clikcoin.pl#@##adsense
-cliphotgirl.com#$#abort-current-inline-script window.addEventListener Ads
+cliphot88.com#$#abort-current-inline-script window.addEventListener Ads
 cliphubs.com,viet69hay.site#$#abort-current-inline-script document.addEventListener pop
 clipphot.vip#$#abort-current-inline-script document.addEventListener POP
 closermag.fr##div[id^="detection-block"]
@@ -9509,7 +9509,7 @@ dstar.pzk.pl#@#.adsbygoogle
 dtarihi.com#$#simulate-mouse-event 'xpath(.//div[@class][contains(@style,"display: block;")][@id]//following-sibling::div[@class]/div[contains(@class," ")][1])$delay=0'
 dtf.ru#$#override-property-read Object.prototype.detectAdblock undefined
 dtf.ru,vc.ru##.layout__right-column > div[class*=" "][style] > div[class*=" "] > div:only-child
-dualeotruyenpt.com#$#abort-current-inline-script document.addEventListener popunder
+dualeotruyendc.com#$#abort-current-inline-script document.addEventListener popunder
 duangks.com###a_d_sidebar
 duba.com###J_BottomAdBan
 duba.com###J_BottomAdBan_bg
@@ -17957,7 +17957,7 @@ xdf.cn##.footadv
 xdf.cn##.middleadv
 xdf.cn##.popup-wrap
 xdf.cn##div[style="position:fixed;top:120px;left:4px;width:210px;height:298px;isplay:block;background-position:initial initial;background-repeat:no-repeat no-repeat;"]
-xem16.net#$#json-prune props.children.[].props.tvc
+xem20.net#$#json-prune props.children.[].props.tvc
 xfastest.com##.vw-header-ads-wrapper
 xfastest.com##iframe[src*="//ads.xfastest.com/"]
 xgan.cn##.bottom_fixed
@@ -18061,7 +18061,7 @@ xmfish.com##.advert-entry-list
 xmfish.com##.readCon_right
 xmh/200/200-*.gif
 xn--p3tv7h.com###floating-image-container
-xnhau.la#$#prevent-listener click /acquirecardedsullen|POPUNDER_INTERVAL|lastPopunderTime/; abort-current-inline-script document.addEventListener lastPopunderTime;
+xnhau.kim#$#prevent-listener click /acquirecardedsullen|POPUNDER_INTERVAL|lastPopunderTime/; abort-current-inline-script document.addEventListener lastPopunderTime;
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write SpacialUp;
@@ -18831,6 +18831,7 @@ zzzyk.com###Tinfo
 ||0yq00i.cn^
 ||0yu3bxtqv.com^
 ||0z3zbnbkv.com^
+||0zo9nqijr.com^
 ||1.07swz.com^
 ||1.1010pic.com^
 ||1.11130.com.cn^
@@ -21379,6 +21380,7 @@ zzzyk.com###Tinfo
 ||amethystzenith.com^
 ||amftsawknf.com^
 ||amidsttruly.com^
+||amildarrobomb.com^
 ||amlindred.com^
 ||ammcg.imgscloud.com/toy/
 ||ammonia20.com^
@@ -26546,6 +26548,7 @@ zzzyk.com###Tinfo
 ||gigtoy.icu^
 ||gimy.*/images/eee*.png
 ||gin77czkt.com^
+||gingalbarky.com^
 ||gio07241rp.com^
 ||gio07250rp.com^
 ||gio07251rp.com^
@@ -29332,6 +29335,7 @@ zzzyk.com###Tinfo
 ||kjuwxmi.xyz^
 ||kjvaqbyebqarl.top^
 ||kk3fefl2b3.com^
+||kk51qd5l4.com^
 ||kkh3e6ylwt.com^
 ||kkisoo.com^
 ||kkjshsj.com^
@@ -32596,7 +32600,6 @@ zzzyk.com###Tinfo
 ||ps557.com/link/
 ||ps886.us/js/*.js
 ||psa1xoeve.com^
-||pschenttidier.com^
 ||psdovpvghfphju.com^
 ||psgpllf.com^
 ||psrfbr.icu^
@@ -36377,6 +36380,7 @@ zzzyk.com###Tinfo
 ||vauu8z77p.com^
 ||vaxgyly.cn^
 ||vazhno.ru/cdn-cgi/apps/head/*.js
+||vb5gi1zp5.com^
 ||vbc08091op.com^
 ||vbc08100op.com^
 ||vbc08101op.com^
@@ -36982,6 +36986,7 @@ zzzyk.com###Tinfo
 ||whdx.cc/js/
 ||whe0nqk.icu^
 ||wheelroot.com^$domain=noodlemagazine.com|ukdevilz.com
+||whelmlegge.com^
 ||wheregoes.com/c/uploads/$script
 ||whfpbc.99.com.cn^
 ||whichav.*/qq/qq.js
