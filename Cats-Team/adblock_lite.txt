@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-25 22:12:00(GMT+8)
-! Total count: 39030
+! Version: 2026-06-26 03:50:05(GMT+8)
+! Total count: 39033
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -10553,7 +10553,7 @@ gamestorrents.com,gamestorrents.nu#$#abort-on-property-read open
 gamesubject.com###headb
 gametower.com.tw###tableAD
 gametv.vn#$#abort-current-inline-script $ homeModal
-gamewith.jp#$#override-property-read navigator.onLine false
+gamewith.jp#$#override-property-read Navigator.prototype.onLine false
 gamicsoft.com##.mobileAd-slider
 gamicsoft.com##A[onclick*="'Advertisement"]
 gamicsoft.com##A[onclick*="'Advertisement"] + .absolute
@@ -11596,12 +11596,6 @@ idnes.cz#$#override-property-read Storage.data.gemiuspokus 4
 idnes.cz#$#override-property-read pxReady null
 idokep.hu##div[class*="ad-lockup-top-"]
 idokep.hu#$#hide-if-matches-xpath '//div[contains(@class,"info-small")][text()="Hirdetés"]'
-idokep.hu#$#override-property-read Navigator.prototype.onLine false
-idokep.hu#$#override-property-read adshield.isAdBlockerDetected false
-idokep.hu#$#override-property-read as_-1139087742 true; override-property-read as_-992624185 true; override-property-read as_1212759660 true
-idokep.hu#$#override-property-read as_-1173987845 true; override-property-read as_-1027524288 true; override-property-read as_1177859557 true; override-property-read as_2022485055 true; override-property-read as_-67098396 true; override-property-read as_1537073278 true; override-property-read as_1683536835 true; override-property-read as_1649642013 true; override-property-read as_-1041153609 true; override-property-read as_-293477881 true; override-property-read as_1310693793 true; override-property-read as_-1380101829 true; override-property-read as_-632426101 true; override-property-read as_971745573 true; override-property-read as_-419675937 true
-idokep.hu#$#override-property-read as_-1495539072 true; override-property-read as_-1349075515 true; override-property-read as_856308330 true
-idokep.hu#$#prevent-element-src-loading script /\/(cache|article|session)\//
 idreamx.com###threadlisttableid > tbody:not([id]):has(> tr > td > a[target="_blank"])
 idreamx.com###threadlisttableid > tbody:not([id]):has(> tr > td > ins.adsbygoogle)
 iduba.com,newduba.cn##.m_nav_top
@@ -16692,6 +16686,7 @@ theflixertv.*#$#hide-if-matches-xpath './/div[@dir][@style][attribute::*[starts-
 thegatewaypundit.com#$#abort-on-property-read navigator.userAgent false; abort-current-inline-script JSON.parse /decodeURI/
 theguardian.com##.js-adblock-sticky
 theguardian.com##.site-message--adblock-message
+theisleofthanetnews.com#$#hide-if-matches-xpath './/a[contains(@href,"communityjournalism") or contains(@href,"academyfmthanet") or contains(@href,"impress.press") or contains(@href,"cookeandco") or contains(@href,"rsp.co.uk") or contains(@href,"ekctraining.ac.uk") or contains(@href,"com.cab.despatch") or contains(@href,"thepalacecinema.co") or contains(@href,"javessecurity.com") or contains(@href,"medixishealthcare.co") or contains(@href,"foodanddrinkshop") or contains(@href,"unionchurchmargate.org/food-for-thought") or contains(@href,"hbthanet.com") or contains(@href,"johnston-marketing.co") or contains(@href,"thanet.domestics")]/img[@data-ll-status]/ancestor::div[2]'
 thenewslens.com##div[class^="help-tnl-"]
 thenewslens.com##div[class^="help-tnl-container-"]
 thepaper.cn###QRcode
@@ -16939,8 +16934,8 @@ tram3d.site#$#abort-current-inline-script setTimeout appendChild
 tranny.one#$#abort-on-property-read trAdLibLoaded
 transkarpatia.net#$#abort-current-inline-script document.createElement redtram
 tree.tv#@##adverts
+trilltrill.jp#$#override-property-read Navigator.prototype.onLine false
 trilltrill.jp#$#override-property-read document.write noopFunc
-trilltrill.jp#$#override-property-read navigator.onLine false
 trilltrill.jp#$#prevent-element-src-loading script /\/feed\//
 tripadvisor.com##[data-sponsored]
 tripadvisor.com#$#hide-if-matches-xpath './/a[contains(text(),"Sponsored")][@target="_blank"]/parent::div/ancestor::div[@class][2]'
@@ -17364,7 +17359,7 @@ vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*
 ville-ideale.com###antyp
 ville-ideale.com###enc
 ville-ideale.com###espace
-vimm.net#$#override-property-read navigator.onLine false
+vimm.net#$#override-property-read Navigator.prototype.onLine false
 vip.com##.sidebarcom-qrcode
 vip.com##.wp-phone
 vip.diaoyu18.com##.container > a[target="_blank"]
@@ -17403,8 +17398,8 @@ vocus.cc##article > div[style^="min-height:"]:has(> div[class^="sc-"] > div[clas
 vod1769.com##.banner_img
 vod1769.com##div[id^="a"]
 voici.fr,femmeactuelle.fr,caminteresse.fr#$#abort-current-inline-script btoa /last_bfa_at/
+voici.fr,femmeactuelle.fr,caminteresse.fr#$#override-property-read Navigator.prototype.onLine false
 voici.fr,femmeactuelle.fr,caminteresse.fr#$#override-property-read as_-390371468 true; override-property-read as_-128107517 true; override-property-read as_1588632892 true; override-property-read as_1249684672 true; override-property-read as_-462196583 true; override-property-read as_-801144803 true;
-voici.fr,femmeactuelle.fr,caminteresse.fr#$#override-property-read navigator.onLine false
 voici.fr,femmeactuelle.fr,caminteresse.fr#$#prevent-element-src-loading iframe /report\.error-report\.com/
 voiranime.*#$#abort-current-inline-script document.createElement String.fromCharCode
 volcore.xyz##.avd1
@@ -18168,6 +18163,7 @@ yahoo.com##.bg-card-bg-1[class*="300px"]
 yahoo.com##.crazyad
 yahoo.com##.js-stream-content:has(a[href*=".promotions."])
 yahoo.com##.js-stream-content:has(div:contains(雅虎搜尋))
+yahoo.com##.pointer-events-auto.h-\[91px\]
 yahoo.com##.pointer-events-none > .sticky:has(> div[id^="sda-"][id$="-iframe"]:only-child)
 yahoo.com##.stream-item:has(>div>div>div>span:contains(即日熱搜))
 yahoo.com##.stream-responsive-ad-item
@@ -19553,6 +19549,7 @@ zzzyk.com###Tinfo
 ||3ikcnjvsx.com^
 ||3is34bpqs4.com^
 ||3j1fiw14n9.com^
+||3j4vjpx7k.com^
 ||3jia5.com^$third-party
 ||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
@@ -22458,6 +22455,8 @@ zzzyk.com###Tinfo
 ||blackbrake.com^
 ||blackhead35.com^
 ||blackthorn88.com^
+||blahwhoever.com/feed/$domain=deadline.com
+||blahwhoever.com/session/$domain=deadline.com
 ||blazeoccamy.com^
 ||bld.mobi^
 ||bleachbubble.com^
@@ -23127,7 +23126,7 @@ zzzyk.com###Tinfo
 ||cdn.ay.gy/js/display.js$script,third-party
 ||cdn.ay.gy/js/entry.js$script,third-party
 ||cdn.ay.gy/js/link-converter.js$script,third-party
-||cdn.caprofitx.com/media/$domain=oricon.co.jp
+||cdn.caprofitx.com^$domain=oricon.co.jp
 ||cdn.computerworld.com.au/compressor-staticfiles/adsmin/idg_gpt_pipeline_generated.js$script
 ||cdn.creative-bars1.com^
 ||cdn.dashenya.com^
@@ -23744,7 +23743,6 @@ zzzyk.com###Tinfo
 ||content-loader.com/session/$domain=index.hr
 ||content-loader.com^$script,domain=gamewith.jp
 ||content-loader.com^$script,domain=gutefrage.net|timesofindia.indiatimes.com|tz.de|winfuture.de
-||content-loader.com^$script,domain=idokep.hu
 ||content-loader.com^$script,domain=index.hr
 ||content-loader.com^$script,domain=www.wetter.com
 ||content-loader.com^$script,rewrite=abp-resource:blank-js,domain=9gag.com
@@ -25423,6 +25421,7 @@ zzzyk.com###Tinfo
 ||error-report.com^$domain=goldderby.com
 ||error-report.com^$domain=golfmonthly.com
 ||error-report.com^$domain=guitarworld.com
+||error-report.com^$domain=hfboards.com
 ||error-report.com^$domain=hollywoodreporter.com
 ||error-report.com^$domain=index.hr
 ||error-report.com^$domain=indiewire.com
@@ -25449,7 +25448,9 @@ zzzyk.com###Tinfo
 ||error-report.com^$domain=voici.fr|femmeactuelle.fr|caminteresse.fr
 ||error-report.com^$domain=vwvortex.com
 ||error-report.com^$domain=watchuseek.com
+||error-report.com^$domain=wenxuecity.com
 ||error-report.com^$domain=wordhippo.com
+||error-report.com^$domain=worldofsolitaire.com
 ||error-report.com^$domain=woxikon.de
 ||error-report.com^$subdocument,domain=kuruma-news.jp
 ||ert.pengwenli.top^
@@ -27671,6 +27672,9 @@ zzzyk.com###Tinfo
 ||htienlu.top^
 ||htjrlm.com^
 ||htlwbn.icu^
+||html-load.cc^$script,domain=hfboards.com
+||html-load.cc^$script,domain=wenxuecity.com
+||html-load.cc^$script,domain=worldofsolitaire.com
 ||html-load.com/feed/$domain=euronews.com
 ||html-load.com/feed/$domain=hochi.news
 ||html-load.com/feed/$domain=oricon.co.jp
@@ -27685,7 +27689,6 @@ zzzyk.com###Tinfo
 ||html-load.com^$script,domain=freeconvert.com
 ||html-load.com^$script,domain=gamewith.jp
 ||html-load.com^$script,domain=guitarworld.com
-||html-load.com^$script,domain=idokep.hu
 ||html-load.com^$script,domain=index.hr
 ||html-load.com^$script,domain=kuruma-news.jp
 ||html-load.com^$script,domain=nikkansports.com
