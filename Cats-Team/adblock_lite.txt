@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-25 03:28:33(GMT+8)
-! Total count: 39020
+! Version: 2026-06-25 10:42:12(GMT+8)
+! Total count: 39024
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -1820,7 +1820,7 @@ $websocket,domain=wap.yushuwu.cloud
 *$script,third-party,domain=sxyprn.com
 *$script,xhr,3p,domain=m.1024txt.com
 *$script,xhr,3p,domain=m.niupizhi.net
-*$script,xhr,image,3p,domain=360lele.cc
+*$script,xhr,image,3p,domain=360lele.cc|fxshu.top
 *$xhr,denyallow=ddxsmf.com|apps.bdimg.com|cdnsrc.asp.net,domain=ddxsmf.com
 *.lijie.*/*_*?$third-party
 */blsx_*_*_*?*$third-party
@@ -4002,7 +4002,6 @@ $websocket,domain=wap.yushuwu.cloud
 360kuai.com##.taskbar
 360kuai.com,hao.360.com###cangbao_redbags
 360lele.cc##.container > div[id]:has(> div[style*="width: 100vw; position: relative;"] > span + img)
-360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 360zbz.com#@#.rightad
 365xuet.com##.cd-items
 368015.xyz##div[style="height:60px;width:100%;"]
@@ -10478,6 +10477,8 @@ fx678.com##div[id^="dl_"]
 fx678.com##div[id^="hta_"]
 fx678.com#@##ad_8
 fxedu.com.cn#@#.ad_r
+fxshu.top##.com_t > div[id]:has(> div[style*="width: 100vw; position: relative;"] > span + img)
+fxshu.top,360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 fxykx.com##a[href*="zyttx.com/"]
 fxykx.com,pantsu.cat#@##banner_ad
 fydisk.com###vbox
@@ -23072,6 +23073,7 @@ zzzyk.com###Tinfo
 ||cbh365.club^
 ||cbhzxctgm.com^
 ||cbjg.cqnews.net^
+||cbjk6j85d.com^
 ||cbjs.baidu.com^
 ||cbo9vo98i.com^
 ||cboufsrelp.com^
@@ -24123,6 +24125,7 @@ zzzyk.com###Tinfo
 ||d49-a.sdn.cz^$image,domain=ahaonline.cz|info.cz|iprima.cz|kinobox.cz|kupi.cz|lidovky.cz|nasepenize.cz|novinky.cz|onetv.cz|sport.cz|super.cz
 ||d49-a.sdn.cz^$image,domain=auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
 ||d4dlgw9mi.com^
+||d4ehbdtlw.com^
 ||d4rxxm6ig.com^
 ||d4vd.life/love/
 ||d4xmm7es84.com^
@@ -25387,6 +25390,7 @@ zzzyk.com###Tinfo
 ||eqqi.cn^
 ||eqqp.cn^
 ||equablekettle.com^
+||equation33.com^
 ||equwxrqjyl.com^
 ||er.5ykj.cn^
 ||er.5ykj.com^
