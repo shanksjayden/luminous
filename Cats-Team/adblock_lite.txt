@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-25 10:42:12(GMT+8)
-! Total count: 39024
+! Version: 2026-06-25 16:51:43(GMT+8)
+! Total count: 39025
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -7311,8 +7311,6 @@ asnwish.com,movielair.cc#$#abort-current-inline-script document.createElement __
 asp300.com,asp300.net##.tit01 > a
 asp300.com,asp300.net##.tit02 > a
 assbbs.com##div[id^="ass_adv"]
-assume.gguaklar.cc,51cg1.com,51baoliao01.com,91cg1.com###adFloat
-assume.gguaklar.cc,51cg1.com,51baoliao01.com,91cg1.com##.recommend-layer
 astrakhan.ru,myjane.ru,omskpress.ru,tambovnet.org#$#abort-on-property-read kav_cn
 asura.gg#$#hide-if-matches-xpath './/div[@language]/video[@src]/ancestor::div[@style]/parent::div[@id="tip_text_content"]/ancestor::div[@style][@id][1]'
 asurascanz.com#$#hide-if-matches-xpath './/a[@rel="sponsored"]/parent::div[@style]/ancestor::div[@style][1]'
@@ -11267,6 +11265,8 @@ hmoe.one##.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-pa
 hmoe.one,hmoe.moe##a[href^="https://item.taobao.com"]
 hnonline.sk,info.cz,lupa.cz#$#abort-current-inline-script Math.random adb
 hochi.news#$#override-property-read Navigator.prototype.onLine false
+hokztalt.cc,51cg1.com,51baoliao01.com,91cg1.com###adFloat
+hokztalt.cc,51cg1.com,51baoliao01.com,91cg1.com##.recommend-layer
 holavid.com,liivideo.com#$#abort-on-property-read Math.sin
 hollywoodreporter.com#$#override-property-read confirm noopFunc
 hollywoodreporter.com#$#override-property-read d3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbV9vbmxvYWQ= undefined
@@ -36708,6 +36708,7 @@ zzzyk.com###Tinfo
 ||vvvkp.com/template/ttk/img/
 ||vvwuqxp.icu^
 ||vvxhth.xyz^
+||vvzjhzccndbhva.com^
 ||vwe5pjt0jq.com^
 ||vwfppr.xyz^
 ||vwiy.cn^
