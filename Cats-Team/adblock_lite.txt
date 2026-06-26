@@ -6,7 +6,7 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-26 10:46:12(GMT+8)
+! Version: 2026-06-26 16:54:20(GMT+8)
 ! Total count: 39037
 ###ADtip
 ###AdBlockDialog
@@ -19621,6 +19621,7 @@ zzzyk.com###Tinfo
 ||4444inmint.net^
 ||4444zeply.com^
 ||445nan.com/ad/
+||44b2zlch5q.com^
 ||44ipavmq2n.com^
 ||44pd.com^*xds/
 ||44r9fl.xyz^
@@ -23794,6 +23795,7 @@ zzzyk.com###Tinfo
 ||copyvibes.com^
 ||coralcranes.com^
 ||coralreverie.com^
+||corbedpeckers.com^
 ||corgibeachday.com^
 ||cornershirts.com^
 ||cornpic.com/images/*.gif
@@ -28412,6 +28414,7 @@ zzzyk.com###Tinfo
 ||iry7addri8.com^
 ||irzi.cn^
 ||is16yobjh7.com^
+||is5qd8sk7a.com^
 ||isancio.top^
 ||isdfbvkvsc.xyz^
 ||isdspeed.qq.com^
@@ -30346,7 +30349,6 @@ zzzyk.com###Tinfo
 ||madoverrice.com^
 ||mafengwo.cn/uva/i.gif?
 ||magedu.com/wp-content/uploads/*/xwzx
-||maggielimper.com^
 ||magicaljoin.com^
 ||magicalpiano.com^
 ||magicminibox.com^
@@ -31671,7 +31673,6 @@ zzzyk.com###Tinfo
 ||oewtuho.cn^
 ||oeya.com^$domain=myptt.cc
 ||of384py2xt.com^
-||ofcgcdcvk.com^
 ||ofd.meng-an.cn^$3p
 ||ofettail.com^
 ||offcn.com/index.php?m=dbsource&c=call&a=get&id=75
@@ -31846,7 +31847,6 @@ zzzyk.com###Tinfo
 ||operetta17.com^
 ||ophwrh.cn^
 ||opicrutuk.com^
-||opinesgallate.com^
 ||opjnbmk.com^
 ||opkkjh.xyz^
 ||opkrerkaidf.com^
@@ -31945,6 +31945,7 @@ zzzyk.com###Tinfo
 ||overcoat55.top^
 ||overconfidentfood.com^
 ||overflow33.com^
+||overgotcaries.com^
 ||overjoyedbicycle.com^
 ||overkick.com^
 ||overratedchalk.com^
@@ -32112,6 +32113,7 @@ zzzyk.com###Tinfo
 ||patchstoopedconceited.com^
 ||patient15.top^
 ||patriotic66.top^
+||pavanesbedizen.com^
 ||pavdiibdvr.com^
 ||pavwrr.icu^
 ||pawsnug.com^
@@ -33110,7 +33112,6 @@ zzzyk.com###Tinfo
 ||qunar.com/vataframe/b.html?
 ||qunlove.com^*.gif
 ||qunphoty.com^
-||quohogssopping.com^
 ||quoits96.top^
 ||quotient75.com^
 ||qurl.f.360.cn^
@@ -33442,7 +33443,6 @@ zzzyk.com###Tinfo
 ||riaway.com/statics/idea.jpg
 ||ribwortjulep.com^
 ||richardghain.com^
-||richeryawp.com^
 ||richh.cn^
 ||richshredinger.com^
 ||richstring.com^
@@ -33891,6 +33891,7 @@ zzzyk.com###Tinfo
 ||scruffy.top^
 ||scrvw3.com^
 ||scudapogees.com^
+||sculshbises.com^
 ||scupio.com/adpinline/
 ||scupio.com/js/ad.js
 ||scupio.net/kanglei/
@@ -34078,7 +34079,6 @@ zzzyk.com###Tinfo
 ||shatterloop.com^
 ||shbdyx.com^
 ||shbear.com^*/ad/
-||shbeltian.com^
 ||shboshbok.com^
 ||sheargovernor.com^
 ||sheeplm.top^
@@ -35227,6 +35227,7 @@ zzzyk.com###Tinfo
 ||tencent.com/developer/api/common/getAds
 ||tencent.com/developer/api/common/getOneAds
 ||tencent.xn--io0a7i^
+||tendencystrangely.com^
 ||tendertest.com^
 ||tenekslu.com^
 ||tengfangyun.com/attachment/*/w_1200
@@ -35605,8 +35606,6 @@ zzzyk.com###Tinfo
 ||toutiaoyule.com/n/dspshow.
 ||tovbus.cn^
 ||tovppl.cn^
-||toweleyewitnessrubbing.com^
-||towerhavenet.com^
 ||towerloftier.com^
 ||townistchechia.com^
 ||toysbasics.com^
@@ -36855,6 +36854,7 @@ zzzyk.com###Tinfo
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
 ||wap2.laogu.wang^
+||warkedmalie.com^
 ||warmafterthought.com^
 ||warmquiver.com^
 ||warnermedia.com/api/v1/events?*=ad-break*^$xmlhttprequest,domain=cnn.com
