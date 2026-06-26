@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-26 03:50:05(GMT+8)
-! Total count: 39033
+! Version: 2026-06-26 10:46:12(GMT+8)
+! Total count: 39037
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -20107,6 +20107,7 @@ zzzyk.com###Tinfo
 ||6vspt720xf.com^
 ||6w4ix4bxz1.com^
 ||6x59axt21.com^
+||6xu7at70ok.com^
 ||6yfcuuw.com^
 ||6zc7gvmavf.com^
 ||6zmcb1x9fn.top^
@@ -35072,6 +35073,7 @@ zzzyk.com###Tinfo
 ||t6ec3seyq.com^
 ||t78obxl4h1.com^
 ||t7cp4fldl.com^
+||t7fv5mjt8i.com^
 ||t7x22m7c.com^
 ||t7ywa5ai3.com^
 ||t8t8jyxsr.com^
@@ -35497,6 +35499,7 @@ zzzyk.com###Tinfo
 ||tlula507.com/Public/js/dui
 ||tlula507.com/Public/js/float
 ||tluutoido.com^
+||tlvbtryetgppha.com^
 ||tmall.com^$popup,domain=eyusky.net|iqiyi.com
 ||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tmea116.oss-cn-beijing.aliyuncs.com^
@@ -36154,6 +36157,7 @@ zzzyk.com###Tinfo
 ||unjld.com^
 ||unjrkrxme.com^
 ||unjs.jingyanben.com^
+||unknown47.top^
 ||unknowncrate.com^
 ||unknownidea.com^
 ||unknowntray.com^
