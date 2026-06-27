@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-27 07:14:41(GMT+8)
-! Total count: 38780
+! Version: 2026-06-27 10:37:45(GMT+8)
+! Total count: 38786
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -22407,6 +22407,7 @@ zzzyk.com###Tinfo
 ||blahwhoever.com/feed/$domain=deadline.com
 ||blahwhoever.com/session/$domain=deadline.com
 ||blazeoccamy.com^
+||ble7orbnz.com^
 ||bleachbubble.com^
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||bleachscarecrow.com^
@@ -25322,6 +25323,7 @@ zzzyk.com###Tinfo
 ||eqqp.cn^
 ||equablekettle.com^
 ||equation33.com^
+||equidistant19.com^
 ||equwxrqjyl.com^
 ||er.5ykj.cn^
 ||er.5ykj.com^
@@ -26647,6 +26649,7 @@ zzzyk.com###Tinfo
 ||goose64.top^
 ||goosedaily.com/advertise/
 ||goproxy.cc/api.php
+||goqix4lm5.com^
 ||gorgeirido.com^
 ||gorgeousedge.com^
 ||gorgon.youdao.com^
@@ -31607,6 +31610,7 @@ zzzyk.com###Tinfo
 ||olgame.tw/home/attachment/
 ||oliver.pub^
 ||oljqmw.icu^
+||ollsok.icu^
 ||olmsoneenh.info^$domain=avgle.com
 ||olpv.cn^
 ||olpv.onlylady.com^
@@ -33350,6 +33354,7 @@ zzzyk.com###Tinfo
 ||rongedui.com^
 ||root-nation.com/wp-content/uploads/*background*$image,domain=root-nation.com
 ||ror12.cc^
+||rorwdbuazjbxta.com^
 ||roseincome.com^
 ||rottenray.com^
 ||rou.video/_next/static/chunks/pages/fuli-
@@ -34899,6 +34904,7 @@ zzzyk.com###Tinfo
 ||tainec.fun^
 ||taiqingjiu.com^
 ||taisha.org/statics/js/pc2.0/common/form.bottom.
+||taiverturena.com^
 ||taiwandaily.net/wp-content/uploads*_600x100.
 ||taiwannutrition.com/blog/wp-content/plugins/arscode-ninja-popups/
 ||taizexy.com^*.gif
