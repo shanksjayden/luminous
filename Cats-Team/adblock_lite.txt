@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-28 03:10:47(GMT+8)
-! Total count: 38790
+! Version: 2026-06-28 14:12:20(GMT+8)
+! Total count: 38796
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -12204,6 +12204,7 @@ ithome.com##.down_app
 ithome.com##.indexV2 > div > a
 ithome.com##.j_iframe_show > iframe
 ithome.com##.lapin
+ithome.com##.op
 ithome.com##.open-app-banner
 ithome.com##.placeholder:has(> a > .plc-con > .plc-footer > .tip-gray)
 ithome.com##.placeholder:has([data-original*='newsuploadfiles'])
@@ -12215,6 +12216,7 @@ ithome.com##.rm-modal1-bg
 ithome.com##.rm-modal1-body
 ithome.com##.sb_list > .bx
 ithome.com##.t-b.sel > ul.nl > li:has(> a[href*="/lapin."]):style(visibility: hidden !important;)
+ithome.com##.visited-link-color-fixed:has(.tip-gray)
 ithome.com##a[href*="/lapin."]
 ithome.com##a[href*="/lapin."] + .ad
 ithome.com##a[href="/html/363216.htm"]
@@ -22796,6 +22798,7 @@ zzzyk.com###Tinfo
 ||bytravel.cn/js/b_
 ||bytravel.cn/js/s_
 ||bytytxkz.icu^
+||byuh78fy2m.com^
 ||byvlph.xyz^
 ||bz*.com/js/cdn.
 ||bz*.com/js/cdn.js
@@ -31682,6 +31685,7 @@ zzzyk.com###Tinfo
 ||operationchicken.com^
 ||operationnail.com^
 ||operetta17.com^
+||opev2lhm7h.com^
 ||ophwrh.cn^
 ||opjnbmk.com^
 ||opkkjh.xyz^
@@ -33125,6 +33129,7 @@ zzzyk.com###Tinfo
 ||record.xl.pt/common/images/pub/
 ||record.xl.pt/pub/
 ||recount57.com^
+||rectangular18.com^
 ||recyclehits.com^
 ||redbaby.hk^
 ||redbasketball.com^
@@ -37565,6 +37570,7 @@ zzzyk.com###Tinfo
 ||xrkadslmgg.top^
 ||xrkadslmgg.xyz^
 ||xrkbhl2cp.com^
+||xrnrplqcfmpxfg.com^
 ||xrus.cn^
 ||xryrylt.cn^
 ||xs.dmzj.com^
