@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-29 03:09:50(GMT+8)
-! Total count: 38800
+! Version: 2026-06-29 10:52:11(GMT+8)
+! Total count: 38801
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -3465,9 +3465,6 @@ $websocket,domain=wap.yushuwu.cloud
 118pan.com##.card.mt-2:nth-child(2)
 120ask.com##.b_right > div[style]
 120ask.com##IFRAME[width='400']
-123-bt.cn###mianze_fixed
-123-bt.cn###mianze_mask
-123-bt.cn##.sd
 123.chinaso.com##.right-list6
 123.com.cn##.bottom-ylink
 123.com.cn##.fixed-top
@@ -18747,6 +18744,7 @@ zzzyk.com###Tinfo
 ||065yuyu.com^
 ||066hjkl.com^
 ||06789.xyz^
+||067oij53m.com^
 ||06cp8ypn8j.com^
 ||06evyxnibl.com^
 ||06hkgn0jl3.com^
@@ -24971,6 +24969,7 @@ zzzyk.com###Tinfo
 ||e2us4880k.com^
 ||e3c7.com/dh/
 ||e3c7.com/love/
+||e3eb4eq0v.com^
 ||e3j60qqdk.com^
 ||e3ol.com/inc/
 ||e49.xyz^
@@ -31693,6 +31692,7 @@ zzzyk.com###Tinfo
 ||opjnbmk.com^
 ||opkkjh.xyz^
 ||opnked*.xyz^
+||opposite36.top^
 ||oppositeoperation.com^
 ||optaim.com^$third-party
 ||opticsky.cn/images/2015/gy-px201
@@ -36272,6 +36272,7 @@ zzzyk.com###Tinfo
 ||vhdvjc.com^
 ||vhgu5ivtew.com^
 ||vhhvldyuhm.xyz^
+||vhjjbdxycpdfrg.com^
 ||vhjxrj.xyz^
 ||vhk1icmps.com^
 ||vhsutpgui.xyz^
