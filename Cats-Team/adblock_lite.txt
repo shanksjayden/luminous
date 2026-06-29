@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-29 10:52:11(GMT+8)
-! Total count: 38801
+! Version: 2026-06-29 18:45:37(GMT+8)
+! Total count: 38807
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -11258,8 +11258,6 @@ hmoe.one##.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-pa
 hmoe.one,hmoe.moe##a[href^="https://item.taobao.com"]
 hnonline.sk,info.cz,lupa.cz#$#abort-current-inline-script Math.random adb
 hochi.news#$#override-property-read Navigator.prototype.onLine false
-hokztalt.cc,51cg1.com,51baoliao01.com,91cg1.com###adFloat
-hokztalt.cc,51cg1.com,51baoliao01.com,91cg1.com##.recommend-layer
 holavid.com,liivideo.com#$#abort-on-property-read Math.sin
 hollywoodreporter.com#$#override-property-read confirm noopFunc
 hollywoodreporter.com#$#override-property-read d3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbV9vbmxvYWQ= undefined
@@ -17176,6 +17174,8 @@ union.58.com#@##advertise
 unpkg.com/aladug/*.js
 unwire.hk###post-sidebar-ad
 unwire.hk##.post-main-ad
+uopakwoll.cc,hokztalt.cc,51cg1.com,51baoliao01.com,91cg1.com###adFloat
+uopakwoll.cc,hokztalt.cc,51cg1.com,51baoliao01.com,91cg1.com##.recommend-layer
 uotan.cn###fuck-ads
 up.woozooo.com##.ves
 up01.cc###popad
@@ -20747,6 +20747,7 @@ zzzyk.com###Tinfo
 ||ac00qmnjz.com^
 ||ac1.pingpingw.com^
 ||academic96.top^
+||acararithetic.com^
 ||acc.3gbizhi.com^
 ||accommodate53.top^
 ||accomplish89.com^
@@ -20959,6 +20960,7 @@ zzzyk.com###Tinfo
 ||adutp.com^$third-party
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
+||advancementpains.com^
 ||adventurousamount.com^
 ||advertclicks.ru^$domain=pronpic.org
 ||advertising-api-eu.amazon.com^
@@ -21337,7 +21339,6 @@ zzzyk.com###Tinfo
 ||amethystzenith.com^
 ||amftsawknf.com^
 ||amidsttruly.com^
-||amildarrobomb.com^
 ||amlindred.com^
 ||ammcg.imgscloud.com/toy/
 ||ammonia20.com^
@@ -21546,6 +21547,7 @@ zzzyk.com###Tinfo
 ||archswimming.com^
 ||arclet.net^
 ||areyoutherenow.com^
+||arhatsfenman.com^
 ||aricinquerida.com^
 ||ariososlepage.com^
 ||arisingwinze.com^
@@ -21574,6 +21576,7 @@ zzzyk.com###Tinfo
 ||asdx55.com^
 ||asdyui16.cn^
 ||asdzxc1.top^
+||ashamed-diamond.com^
 ||ashlingzanyish.com^
 ||ashow.pcpop.com^
 ||asiav.cyou/myupdatelist.
@@ -22186,7 +22189,7 @@ zzzyk.com###Tinfo
 ||beatricenba.com^
 ||beauismflavous.com^
 ||beautiful45.com^
-||bebangcaromel.com^
+||becassebesan.com^
 ||beclsbx.icu^
 ||becode.xiao84.com^
 ||become.songche.net^
@@ -22587,7 +22590,6 @@ zzzyk.com###Tinfo
 ||brandsfive.com^
 ||brandybison.com^
 ||bravebone.com^
-||braveryriftraining.com^
 ||brazilprocyon.com^
 ||brb3mb25zg.com^
 ||breadbalance.com^
@@ -22678,7 +22680,6 @@ zzzyk.com###Tinfo
 ||bubblessudsman.com^
 ||bubblyaction.com^
 ||bucketlistbob.com^
-||buddhiknutty.com^
 ||buddhpearled.com^
 ||buddycanvas.com^
 ||budgetea.top^
@@ -23002,6 +23003,7 @@ zzzyk.com###Tinfo
 ||catschickens.com^
 ||cattlecommittee.com^
 ||cauldronfest.com^
+||caulireid.com^
 ||causecherry.com^
 ||cautelaunsent.com^
 ||cautious60.com^
@@ -23451,7 +23453,6 @@ zzzyk.com###Tinfo
 ||clb.biz/Public/static/js/common-v2.js
 ||clcmdie.com^
 ||cleanhaircut.com^
-||cleatsbonks.com^
 ||click.googleanalytics.com^
 ||click.oneplus.cn^
 ||click.taobao.com^$popup,domain=steamcn.com
@@ -23924,6 +23925,7 @@ zzzyk.com###Tinfo
 ||cuioxbqi.com^
 ||cukeonelo.com^
 ||culpasrampage.com^
+||culposenarrate.cfd^
 ||cultofmac.com/wp-content/plugins/com2014-ads/static/js/frontend-functionality.js$script
 ||culturedcamera.com^
 ||culturedfeather.com^
@@ -25600,6 +25602,7 @@ zzzyk.com###Tinfo
 ||familly56.top^
 ||familydoctor.com.cn/c/a/000/ggw_
 ||famorlymal.com^
+||fancierregula.com^
 ||fancyactivity.com^
 ||fancyapi.com^
 ||fancycolorlist.net^
@@ -25630,11 +25633,9 @@ zzzyk.com###Tinfo
 ||farethief.com^
 ||farm-cn.plista.com^
 ||farmergoldfish.com^
-||farmingrebused.cfd^
 ||farshake.com^
 ||farsnails.com^
 ||fascescrewet.com^
-||fascparbate.com^
 ||fast8.cc/skin/default/images/630652.png
 ||fastadmin.net/uploads/store/aliyun
 ||fastadmin.net/uploads/store/tencent
@@ -26210,7 +26211,6 @@ zzzyk.com###Tinfo
 ||g8ygkqhm9p.com^
 ||g9cvic3khh.com^
 ||ga1.3dmgame.com^
-||gaggedtetrode.com^
 ||gaglxx.com/5_
 ||gahvy6ww.icu^
 ||gainedtelephone.com^
@@ -26218,6 +26218,7 @@ zzzyk.com###Tinfo
 ||gaiqgs.xyz^
 ||galacg.me/wp-content/uploads/*750x
 ||galaxymedia.xyz/app/images/banner.gif
+||galleonentopic.com^
 ||galleries.bz/Webservices/jsParseLinks.aspx$script,third-party
 ||galleries.bz/visitScript/$script,third-party
 ||galopelikeantelope.com^
@@ -29152,6 +29153,7 @@ zzzyk.com###Tinfo
 ||kelehut.cc/js/m.
 ||kemono.*^$csp=script-src-attr 'none'
 ||ken.kenxq.com^
+||kenafssubet.com^
 ||kengi.top^
 ||kernellife.com^
 ||kettledroopingcontinuation.com^
@@ -29744,7 +29746,6 @@ zzzyk.com###Tinfo
 ||linuxidc.com/linuxfile/linux$script
 ||linuxidc.com/linuxfile/list
 ||linyongming.top^
-||lirdawkin.com^
 ||lishuaibin.cn^
 ||listlessly1.top^
 ||littlecdn.com^
@@ -29869,7 +29870,6 @@ zzzyk.com###Tinfo
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
 ||locateskill.com^
-||locatiocorms.com^
 ||lockuplookup.com^
 ||locolava.com^
 ||lodipq3zb.com^
@@ -30703,6 +30703,7 @@ zzzyk.com###Tinfo
 ||momoshop.com.tw/goods/GoodsDetail.jsp?$subdocument
 ||momoshop.com.tw/league/$domain=beephone.com.tw
 ||monacobeatles.com^
+||mondejudgers.shop^
 ||moneyweekly.com.tw/UC/JQueryJson.aspx/MwAD
 ||moneyweekly.com.tw/Uploads/AD/*970x
 ||mongoosejs.net/docs/images/lagoujika.jpeg
@@ -30822,6 +30823,7 @@ zzzyk.com###Tinfo
 ||muddledmemory.com^
 ||mudejartitoism.com^
 ||mudroom.aquadisco.xyz^
+||muggurssalited.com^
 ||muhnbc.cn^
 ||mujkdna.xyz^
 ||mukkoiigam.com^
@@ -30884,6 +30886,7 @@ zzzyk.com###Tinfo
 ||mwzbp.iask.com.cn^
 ||mx278ol2d.com^
 ||mxafaw.icu^
+||mxauvrtdm.com^
 ||mxevdii.cn^
 ||mxvl.cn^
 ||mxzmz.com/js/
@@ -30927,6 +30930,7 @@ zzzyk.com###Tinfo
 ||myqcloud.com/ad/
 ||myqcloud.com/uploads/m3u8/*.ts$third-party
 ||myqcloud.com/wp-content/uploads/huoxingyun.
+||myricylhoihere.com^
 ||mysketchpad.com^
 ||mysteel.com/ads/
 ||mysteelcdn.com/advert/
@@ -31369,6 +31373,7 @@ zzzyk.com###Tinfo
 ||ntozchv.icu^
 ||nuannuanqi.top^
 ||nubbycoolly.com^
+||nucleindinkly.com^
 ||nudgeduck.com^
 ||nudpqt.com^
 ||nug07300lu.com^
@@ -32900,6 +32905,7 @@ zzzyk.com###Tinfo
 ||quantumshine.com^
 ||quanxiaozi.com^
 ||quarrelsomebitter.com^
+||quaukruffed.com^
 ||qubdjkqwl.com^
 ||qucncfo.cn^
 ||qucxwvt.com^
@@ -33160,6 +33166,7 @@ zzzyk.com###Tinfo
 ||rehabilitatereason.com^
 ||rehearsal55.top^
 ||reke.at.sohu.com^
+||reknowriyals.com^
 ||relafp.xyz^
 ||relapse37.com^
 ||relationrest.com^
@@ -33394,6 +33401,7 @@ zzzyk.com###Tinfo
 ||rrgapzw.cn^
 ||rrjc.com/home/seo/ad/
 ||rrpaafci9i.com^
+||rrsxes4oy.com^
 ||rrxddl.xyz^
 ||rryy99.com/statics/js/stat.js
 ||rsanciz.top^
@@ -33619,6 +33627,7 @@ zzzyk.com###Tinfo
 ||sass.hk/js/ggcn.js
 ||sass.hk/plus/mytag_js.php?aid=
 ||satinwood84.com^
+||satisfied-physics.pro^
 ||satisfycork.com^
 ||satroki.tech/api/JdUnion
 ||sausage34.com^
@@ -33907,6 +33916,7 @@ zzzyk.com###Tinfo
 ||shenlinlive.cn^
 ||shentongjiakao.ren^
 ||shenxianmaomao.com^
+||sherpasackage.com^
 ||shesubscriptions.com^
 ||shewang.net/images/*/900x
 ||shewang.net/images/*/CHD
@@ -34095,7 +34105,6 @@ zzzyk.com###Tinfo
 ||singroot.com^
 ||singtao.ca/editions/affiliate_
 ||sinkportal.com^
-||sinnerhealthypoured.com^
 ||sinolub.com/index.php?m=poster&
 ||siodgs.icu^
 ||sirsplajp.com^
@@ -34176,6 +34185,7 @@ zzzyk.com###Tinfo
 ||smabye.com^
 ||smallershops.com^
 ||smallseotools.com/webimages/garamar*.png^$image,domain=smallseotools.com
+||smalmausones.com^
 ||smartmail.cyou^
 ||smartmuchang.com^
 ||smartnextusa.com^
@@ -35500,7 +35510,6 @@ zzzyk.com###Tinfo
 ||troubleshade.com^
 ||troutshyp.com^
 ||trouupjeu.com^
-||trovesleepit.com^
 ||trp69.top^
 ||trqhf.xyz^
 ||trslw.cn^
@@ -35970,7 +35979,6 @@ zzzyk.com###Tinfo
 ||untidyrice.com^
 ||untimely-hello.com^
 ||untitled.dwstatic.com^
-||untwistdawtet.com^
 ||unusedstone.com^
 ||unusualtitle.com^
 ||unwieldyhealth.com^
@@ -36286,7 +36294,6 @@ zzzyk.com###Tinfo
 ||vibrantpact.com^
 ||vibrantsundown.com^
 ||vibrantvale.com^
-||vicaryhicatee.com^
 ||vickyellend.com^
 ||victoriaelmae.com^
 ||victoriajumpc.com^
@@ -36425,6 +36432,7 @@ zzzyk.com###Tinfo
 ||voqf299p8.com^
 ||voraciousgrip.com^
 ||vorluic.cn^
+||votingcompetencetendon.com^
 ||vowellm4.com^
 ||vowelywisely.com^
 ||vpeebbq.com^
@@ -36602,7 +36610,6 @@ zzzyk.com###Tinfo
 ||wafmedia3.com^$script,domain=online.dramacafe.in
 ||wagzqhq.cn^
 ||wai69.com/js/baidu/
-||wailsmasonic.com^
 ||waipian*.com/statics/recommend/
 ||waitingnumber.com^
 ||waivinggilim.com^
@@ -36738,7 +36745,6 @@ zzzyk.com###Tinfo
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
 ||wellmadefrog.com^
-||wellmadesurvey.pro^
 ||wendangku.net/js/common.js
 ||wendellyu.com/banner/
 ||wenhua.jiaoshou.com^
@@ -38386,6 +38392,7 @@ zzzyk.com###Tinfo
 ||zektch.xyz^
 ||zelpbp.buzz^
 ||zen0935.com^
+||zenaidavealer.com^
 ||zents10.top^
 ||zents7.top^
 ||zeookuv.xyz^
@@ -38607,7 +38614,6 @@ zzzyk.com###Tinfo
 ||zo0nk647a.com^
 ||zoaenkekd.com^
 ||zoeacaring.com^
-||zoileanandean.com^
 ||zokjds.com/js/xiao.js
 ||zol-img.com.cn/ad/
 ||zol-img.com.cn/detail/js/module/app-download-float/script.js
