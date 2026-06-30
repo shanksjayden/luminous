@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-30 10:46:10(GMT+8)
-! Total count: 38798
+! Version: 2026-06-30 17:26:44(GMT+8)
+! Total count: 38802
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -7138,7 +7138,7 @@ anige-sokuhouvip.com,himanatokiniyaruo.com,matomeantena.com,vippers.jp#$#overrid
 animasu.*#$#hide-if-matches-xpath './/img[contains(@alt,"H")][@class="lazyload"]/parent::a[@title]/parent::div[starts-with(@class,"kolom")]'
 anime-sama.*#$#abort-on-property-read aclib.runBanner
 anime-shinden.info#@##ads_video
-anime14.site,anime47.best,hoctot.hocmai.vn,keysmatterinc.com,maclife.io,player.phimapi.com,x.phimsexvn1.co.uk,sachmoi.net,javgiga.wordpress.com,vinaurl.net,xfast.sbs,zpic.live,anime47.best,x.phimsexvn1.co.uk#$#abort-on-property-read open
+anime14.site,anime47.best,hoctot.hocmai.vn,keysmatterinc.com,maclife.io,player.phimapi.com,x.phimsexvn1.co.uk,sachmoi.net,javgiga.wordpress.com,vinaurl.net,xfast.sbs,zpic.st,anime47.best,x.phimsexvn1.co.uk#$#abort-on-property-read open
 anime47.best,chichvn.men,comong.info,forum.timfshare.com,honghotduongpho.vn,mv.dailyphimz.com,mv.phimbathu.one,phimchill.life,quangcaoyenbai.com,xemsexhihi.biz,thefaplive.com,truyensieuhay.com,qmhsex.cc#$#abort-on-property-read document.cookie
 anime4fun.com###hover
 animecomplet.*,cpasbien.ch,cpasbien.si,dadyflix.co,dl-protect.*,dl-protect1.com,ed-protect.org,extreme-down.*,extreme-download.*,filmsexeporno.com,french-stream.*,hds-streaming.tv,hdss.la,hdss.to,ianime-fr.com,japscan.*,jetanimes.*,lelscanfr.com,lelscans.net,mavanimes.*,streaming-french.*,streamingfrance.com,summarynetworks.com,toonanime.*,torrent9.*,vanime.*,vf-film.net,voirseries.*,vostanimey.net,vostanimez.tv,vostfree.*,wawacity.*,zone-annuaire.*,zone-telechargement.*#$#abort-current-inline-script document.documentElement /atob|case|JSON.parse/; abort-current-inline-script String.fromCharCode /atob|break/; abort-on-property-write JSON.parse; abort-current-inline-script Math /atob|break/;
@@ -7166,7 +7166,7 @@ animetaro.com#$#abort-on-property-read window.open
 animetsu.net#$#hide-if-matches-xpath './/iframe[@sandbox][@srcdoc]/parent::div[@style]/ancestor::div[@dir="ltr"][style]'
 animeunity.cc#$#abort-on-property-read zfgstorage; abort-current-inline-script document.documentElement /break|case/; abort-on-property-read decodeURI;
 animeunity.tv#$#abort-on-property-read localStorage
-animevietsub.pl,animevietsub.pl,hh3dhay.life,tram3d.online#$#abort-current-inline-script eval $._Eu
+animevietsub.pl,animevietsub.pl,hh3dhay.life,tram3d.cam#$#abort-current-inline-script eval $._Eu
 animevietsub9.com#$#abort-on-property-read _0x3f9b
 animew.ru,cunofilms.ru,freehat.cc,hlamer.ru,it-world.ru,lostpix.com,oxax.tv,potokcdn.com,prostoporno.help,tivix.co,tt-cup.com,uploadimagex.com,vmusi.ru,volynpost.com,wowskill.ru,xittv.net,zerno-ua.com#$#abort-on-property-read open
 animewld.club##.header-img
@@ -16917,7 +16917,7 @@ trafictube.ro#@#.widget-adv
 trakt.tv###huckster-desktop-bottom
 trakt.tv###huckster-desktop-top
 trakt.tv##.huckster-dfp
-tram3d.site#$#abort-current-inline-script setTimeout appendChild
+tram3d.mom#$#abort-current-inline-script setTimeout appendChild
 tranny.one#$#abort-on-property-read trAdLibLoaded
 transkarpatia.net#$#abort-current-inline-script document.createElement redtram
 tree.tv#@##adverts
@@ -26042,6 +26042,7 @@ zzzyk.com###Tinfo
 ||frrhdl.xyz^
 ||frsejhged.xyz^
 ||frugalfiestas.com^
+||frustum77.top^
 ||frzlftr9y.com^
 ||fsclzs.com/Ad_User/
 ||fsgsfaf6.com^
@@ -31506,6 +31507,7 @@ zzzyk.com###Tinfo
 ||odmerorlzo.com^
 ||odxupm909y.com^
 ||odz12g5ag.com^
+||oe8mnxdtoi.com^
 ||oehhq.xyz^
 ||oekkuthy.com^
 ||oesnwi.icu^
@@ -35292,6 +35294,7 @@ zzzyk.com###Tinfo
 ||tkll12171nb.com^
 ||tkll12181nb.com^
 ||tknkfd.xyz^
+||tkpenntaispfdm.com^
 ||tkqwurl.icu^
 ||tl86tv.com/52
 ||tl9q49ffi.com^
@@ -37719,6 +37722,7 @@ zzzyk.com###Tinfo
 ||y1.junshitt.com^
 ||y18ut1kw22.com^
 ||y1ma8c054n.com^
+||y2ej3xxfve.com^
 ||y2vorexg2u.com^
 ||y3600.cc/20
 ||y3600.cc/js/jquery.min.js
