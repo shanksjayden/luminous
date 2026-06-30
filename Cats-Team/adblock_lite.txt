@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-29 23:35:25(GMT+8)
-! Total count: 38812
+! Version: 2026-06-30 10:46:10(GMT+8)
+! Total count: 38798
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -1739,7 +1739,6 @@
 ##script + .header_rmb
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
-##script + div[id^="a-loading-"]
 ##script[src$="/base.js"] + #couplet
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##secion#ly LI[role='group'],secion#ly > H2
@@ -1940,7 +1939,6 @@ $websocket,domain=wap.yushuwu.cloud
 .com/logo/ad.js
 .com/logo/logo.js
 .com/logo/logoxia.js
-.com/m-2594|$script,3p
 .com/m.aspx?action=$3p,script
 .com/mediaController.php?pid=$script,3p
 .com/myjs/alljs.js
@@ -2982,7 +2980,6 @@ $websocket,domain=wap.yushuwu.cloud
 /qpxl.js
 /qqlive/conf/playerlottery/*
 /r/*?_r=$object,subdocument,3p
-/r/t1/*$subdocument,3p
 /r/video/*$domain=youxi.baidu.com
 /rass7.*.js^$script,domain=upornia.com|vjav.com
 /red2/ad/*
@@ -3254,7 +3251,6 @@ $websocket,domain=wap.yushuwu.cloud
 0123movies.*,123freemovies.net,123movies.*,123movieshub.tc,adblockeronstreamtape.*,adblockplustape.com,adblockstreamtape.*,animepahe.*,anitube.*,bigtitsxxxfree.com,cineby.*,cinevo.nl,configspc.com,dood.*,doods.*,doodstream.*,dooodster.*,fastream.to,govid.*,hclips.com,hd-analporn.com,hentai2w.com,hotmovs.com,hxfile.co,komikcast.com,mavavid.com,mstream.fun,mstream.icu,mstream.tech,mystream.io,mystream.to,onetouchtv.me,pandamovies.pw,perfectgirls.*,porn.com,porndollz.com,pornhat.com,prmovies.*,realgfporn.com,rule34hentai.net,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamta.pe,streamtape.*,streamtapeadblock.art,strtape.*,strtapeadblock.me,tapewithadblock.org,vidstreaming.io,vidstreamz.online,w-123movies.com,xnxxvideo.pro,xvideosxporn.com#$#abort-on-property-read open
 015.by,0312.ua,032.ua,0332.ua,0342.ua,0352.ua,0362.ua,0372.ua,0382.ua,0412.ua,04141.com.ua,0432.ua,04563.com.ua,04596.com.ua,04597.com.ua,04598.com.ua,0462.ua,0472.ua,048.ua,04868.com.ua,0512.com.ua,05136.com.ua,05161.com.ua,0522.ua,0532.ua,05366.com.ua,0542.ua,05447.com.ua,0552.ua,056.ua,0564.ua,0566.com.ua,0569.com.ua,057.ua,061.ua,06153.com.ua,0619.com.ua,0623.com.ua,06236.com.ua,06237.com.ua,06239.com.ua,06242.ua,06252.com.ua,06267.com.ua,06272.com.ua,06274.com.ua,06277.com.ua,0629.com.ua,0642.ua,06452.com.ua,0652.ua,0692.ua,1rnd.ru,3652.ru,3654.ru,3849.com.ua,44.ua,4594.com.ua,5692.com.ua,62.ua,6262.com.ua,6264.com.ua,65.media,7232.kz,8422city.ru,anapa.life,angarsk38.ru,bazhopol.ru,city01.am,city41.ru,comores24.com,go01.ru,go11.kz,go212.by,go216.by,go26.ru,go31.ru,go61.ru,go7812.ru,godublin.info,golondon.info,goriga.info,gorod3466.ru,gorodarmavir.ru,goroddomodedovo.ru,goshymkent.kz,inaktau.kz,inalmaty.kz,inastana.kz,inatyrau.kz,infolyubertsy.ru,inform69.ru,vilniuje.info,yocity12.ru##.bung-container
 01net.com##.geste
-020job.com##A[href^="/Click.aspx?AdPageID="]
 0439.com###kanfang
 04stream.com##[id^="adv"]
 04stream.com##[id^="closediv"]
@@ -3269,9 +3265,7 @@ $websocket,domain=wap.yushuwu.cloud
 0597kk.com##.lyhux_mu
 0597kk.com##div[style="width:960px; overflow:hidden; margin:2px auto; "]
 0597kk.com##img[width^="37"][height="30"]
-0597ok.com,nongjitong.com,typecho.wiki##.div_ad
 0598yu.com##.v1100_ad
-060s.com###header4
 07073.com###Vsss00
 07073.com###rightDiv > div[style="height:250px"]
 07073.com###tanchuang
@@ -3893,8 +3887,8 @@ $websocket,domain=wap.yushuwu.cloud
 2cto.com##.adv980
 2cto.com##.adv980box
 2cto.com##div[style^="float:left;width:300px;"]
+2cycomic.com##body > a
 2cycomic.com##body > div > center
-2cycomic.com,whnyd.com##body > a
 2ddl.vg,dropapk.com,thevideobee.to#$#abort-on-property-write _pop
 2dfan.com,galge.fun###popadv-container
 2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
@@ -4490,9 +4484,6 @@ $websocket,domain=wap.yushuwu.cloud
 77mh.nl###bdtopbot
 7808.cn###float-chat
 7808.cn###force-popup
-789ys.com##h1[style]
-789ys.com,fffdm.com##ul[style]
-789ys.com,ruanyifeng.com##div[style*="important"]
 78dm.net###qpgg
 78dm.net##.ad_logor
 78dm.net##.add-980
@@ -4976,8 +4967,6 @@ $websocket,domain=wap.yushuwu.cloud
 @@||$xmlhttprequest,domain=last.fm
 @@||*/abd.js^$domain=acouplecooks.com|alexandracooks.com|allkpop.com|amazingribs.com|amybakesbread.com|bgr.com|budgetbytes.com|cafedelites.com|cookieandkate.com|cookilicious.com|cookingclassy.com|craftsbyamanda.com|culinaryhill.com|damndelicious.net|dinneratthezoo.com|disneydining.com|disneyfoodblog.com|disneytouristblog.com|downshiftology.com|dpreview.com|easydessertrecipes.com|eatingbirdfood.com|eatingonadime.com|eliteprospects.com|feastingathome.com|feelgoodfoodie.net|gearpatrol.com|gimmesomeoven.com|growforagecookferment.com|halfbakedharvest.com|healthyrecipesblogs.com|homemade-gifts-made-easy.com|homemaking.com|hot-thai-kitchen.com|howsweeteats.com|hunker.com|indianhealthyrecipes.com|inspiredtaste.net|islands.com|justapinch.com|justonecookbook.com|krollskorner.com|lifeloveandsugar.com|maangchi.com|minimalistbaker.com|momontimeout.com|mygolfspy.com|natashaskitchen.com|onceuponachef.com|onlinemictest.com|pinchofyum.com|preppykitchen.com|rainbowplantlife.com|recipetineats.com|sallysbakingaddiction.com|simply-delicious-food.com|skinnytaste.com|slashgear.com|spendwithpennies.com|stockcharts.com|stylebyemilyhenderson.com|sugarspunrun.com|tastesbetterfromscratch.com|tastingtable.com|thebigmansworld.com|thecountrycook.net|theloopywhisk.com|themediterraneandish.com|therecipecritic.com|thereciperebel.com|therecipewell.com|thewholecook.com|thewoksoflife.com|titlecaseconverter.com|tvline.com|twopeasandtheirpod.com|wellplated.com|whec.com|wholesomeyum.com|yummytoddlerfood.com
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
-@@||060s.com/images_ad/*.png
-@@||073img.com/*,*,
 @@||10010.cn^*/ad
 @@||10010.com/mall/common/js/fa.js?referer=
 @@||10010.com^$generichide
@@ -8222,8 +8211,6 @@ bs.to,burningseries.co#$#abort-current-inline-script Object
 bstudy.net#$#abort-on-property-read _0xddc4
 bt.cn##.left_wrap:nth-child(3)
 bt.cn,lotour.com##.btad
-bt1207ma.xyz##a[href*="/uuribao.com/"]
-bt1207ma.xyz##a[href*="/uuribao.com/"] + .caption
 btbtt.me###wrapper2 > .width
 btime.com###ad_full_button_placehoder
 btime.com###download
@@ -10065,6 +10052,7 @@ fengniao.com,zhiding.cn##div[id^="AD"]
 fenopy.se##[rel="nofollow external"][href^="/ddl/"]
 fetishburg.com,footfetishvid.com,hentai2w.com,lesbian8.com,oglaszamy24.pl,older-women-porn.com,pimpandhost.com,rule34.*,silkengirl.net,xnxx-sexfilme.com#$#prevent-listener getexoloader; abort-on-property-write ExoLoader false; abort-on-property-read ExoLoader.addZone false; abort-on-property-read ExoLoader.serve false; abort-current-inline-script document.dispatchEvent /getexoloader/
 fffdm.com##[style^="width"][style*="height"]
+fffdm.com##ul[style]
 ffxiv.xin,fotor.com.cn,weiyun.com,youdao.com#@#.icon-share
 fgames.pw###html3
 fh21.com.cn###lbzxM
@@ -14409,6 +14397,7 @@ nodeseek.com###nsk-right-panel-container > div.category-list + div:not([class])
 nodeseek.com##.promotation-item
 nonameno.com,rusrek.com##.alert
 nongjitong.com##.ad_sms
+nongjitong.com,typecho.wiki##.div_ad
 noodlemagazine.com,ukdevilz.com#$#override-property-read zfgcodeloadedonclick 1
 noon.com##div[id*="adBannerModule"]
 noon.com##img[src^="ad-tag"]
@@ -15617,6 +15606,7 @@ ruanyifeng.com##a[href*=".apeclass.com"]
 ruanyifeng.com##a[href*=".kaikeba.com"]
 ruanyifeng.com##a[href*=".ke.qq.com"]
 ruanyifeng.com##a[href^="https://ke.qq.com/"]
+ruanyifeng.com##div[style*="important"]
 ruanyifeng.com##p[style="text-align:center;font-size: 16px;"]
 ruanyifeng.com#@#.asset-content > p:contains(/二维|助教|0 元|报名费|原价/) + p + p > img
 ruanyifeng.com#@#.asset-content > p:contains(/二维|助教|0 元|报名费|原价/) + p > img
@@ -16704,7 +16694,6 @@ thinkphp.cn##.a6
 thmz.com###floatdivids
 threenow.co.nz#$#override-property-read Object.prototype.adConfigId undefined; json-prune 'ad_keys cue_points' 'account_id sources';
 thwiki.cc###a-carousel
-tianhaohz.com##span[style="display: block; clear: both; overflow: hidden;"]
 tianqi.com##.xcx_erweima
 tianshif.com###comment-ad
 tianshui.com.cn##td[height="420"]
@@ -17638,7 +17627,6 @@ whcykj.cn###InviteContainerl
 whcykj.cn##.swt_bottom
 whnews.cn###gd_l
 whnews.cn###gd_r
-whnyd.com##div[style*="height: 115px"]
 wiki.mbalib.com###ad-fold
 wiki.mbalib.com###p-ad-bd
 wiki.mbalib.com##.ad-br
@@ -18728,9 +18716,6 @@ zzzyk.com###Tinfo
 ||03t441b8w.com^
 ||042.cn/adver/
 ||0439.com/javascript.php?part=advertisement&
-||0460.com/images/ad/
-||0460.com/images/banner/
-||0460.com/js/txtrec.js
 ||04cmm.com:8888/js
 ||04stream.tv/sda/
 ||0512s.com^$3p
@@ -18740,7 +18725,6 @@ zzzyk.com###Tinfo
 ||0575bbs.com/updateimeags/
 ||0579.cn/SHow/Showplacenew.aspx
 ||0592.mobi^
-||0597ok.com/ilike/597/
 ||0598yu.com/api.php?mod=ad&
 ||05pg9z.com^
 ||0606kk.com/js/index/index.js
@@ -19328,6 +19312,7 @@ zzzyk.com###Tinfo
 ||2dctkld.com^
 ||2e4xnyfeae.com^
 ||2e629ntxk3.com^
+||2eao5syzj.com^
 ||2euqnxt25.com^
 ||2f4a93wskk.com^
 ||2fhn1qmca.com^
@@ -38243,6 +38228,7 @@ zzzyk.com###Tinfo
 ||z9dy1kq9wv.com^
 ||z9o0rgee8.com^
 ||z9sab7vr0b.com^
+||za5ww9yxg.com^
 ||zabdybod*.club^
 ||zacff.com^
 ||zahrvfbd*.xyz^
