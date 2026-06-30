@@ -6,8 +6,8 @@
 ! Description: Lite version of the AdRules AdBlock List, optimized for mobile devices.
 ! License: Inherits upstream licenses (GPL-3.0, CC BY-SA 4.0, etc.)
 ! Upstream Sources: https://github.com/Cats-Team/AdRules/blob/script/Source.md
-! Version: 2026-06-30 22:12:42(GMT+8)
-! Total count: 38862
+! Version: 2026-07-01 03:46:02(GMT+8)
+! Total count: 38880
 ###ADtip
 ###AdBlockDialog
 ###Ad_windows
@@ -9983,9 +9983,12 @@ familydoctor.com.cn##.adExtra
 familydoctor.com.cn##.global-top-links-wrap
 familydoctor.com.cn##IFRAME[width='400']
 fandom.com#$#abort-current-inline-script eval /ZnVuY3Rpb24/
+fandom.com#$#abort-current-inline-script eval /xvhs4e3ps8l/
 fandom.com#$#hide-if-matches-xpath './/fandom-ad/parent::div[not(contains(@class,"fandom-ad-wrapper"))]/fandom-ad'
 fandom.com#$#override-property-read as_1231689540 true; override-property-read as_-646055422 true; override-property-read as_1443528029 true; override-property-read as_-499591865 true; override-property-read as_71701021723 true; override-property-read as_6928034646 true; override-property-read as_81872796629 true; override-property-read as_7-1114879398 true; override-property-read as_6-1887866475 true; override-property-read as_8-943104492 true; override-property-read as_7-1382500964 true; override-property-read as_62139479255 true; override-property-read as_8-1210726058 true; override-property-read isAdShieldTurn false
+fandom.com#$#override-property-read xvhs4e3ps8l true
 fandom.com#$#prevent-element-src-loading script /lib\.js/
+fandom.com$csp=script-src-attr 'none'
 fanfics.me##.red.nodata
 fanfiktion.de###ad-leaderboard-inner
 fang.com###xmlAd
@@ -12561,6 +12564,9 @@ joyreactor.cc##div#sidebar
 jpfans.com,jpseek.com##table[cellspacing="1"][cellpadding="6"]
 jpscan-vf.com#$#abort-on-property-read __formatsGetters
 jpsub.com##.floatbar_div
+jptt.tv###vast_video_loading_f-player:style(display: none !important;)
+jptt.tv##+js(set-constant, player.adList, {})
+jptt.tv##.fluid_nonLinear_ad
 jpwind.com###asideNav
 jq-school.com##.setfarme:nth-child(7)
 jq-school.com##div[style="width:1060px; height:auto; margin:0 auto;overflow:hidden;"]
@@ -16923,8 +16929,12 @@ tranny.one#$#abort-on-property-read trAdLibLoaded
 transkarpatia.net#$#abort-current-inline-script document.createElement redtram
 tree.tv#@##adverts
 trilltrill.jp#$#override-property-read Navigator.prototype.onLine false
+trilltrill.jp#$#override-property-read as_1198118810 true; override-property-read as_1104579809 true; override-property-read as_1217148544 true; override-property-read isAdShieldTurn false
+trilltrill.jp#$#override-property-read as_1724902207 true
+trilltrill.jp#$#override-property-read as_647643726 true
 trilltrill.jp#$#override-property-read document.write noopFunc
 trilltrill.jp#$#prevent-element-src-loading script /\/feed\//
+trilltrill.jp$csp=script-src-attr 'none'
 tripadvisor.com##[data-sponsored]
 tripadvisor.com#$#hide-if-matches-xpath './/a[contains(text(),"Sponsored")][@target="_blank"]/parent::div/ancestor::div[@class][2]'
 tripadvisor.com#$#hide-if-matches-xpath './/div[@data-curated-shelf-id and .//div[contains(text(), "Sponsored by")]]/self::div[1]'
@@ -18622,6 +18632,8 @@ zzzyk.com###Tinfo
 ||*.org/config/v7.js
 ||*.website/*^$xmlhttprequest,domain=knaben.xyz
 ||*/ad/$redirect=noop-0.1s.mp3,domain=huaren.tv,media
+||*/core.js^$script,domain=fandom.com
+||*/core.js^$script,domain=trilltrill.jp
 ||*/lib.js^$script,domain=freeconvert.com
 ||*/lib.js^$script,domain=guitarworld.com
 ||*/lib.js^$script,domain=pcgamer.com
@@ -18783,6 +18795,7 @@ zzzyk.com###Tinfo
 ||0m9mjmrd.top^
 ||0nkwep2fh.com^
 ||0ns32h.com^
+||0nyzdw2maq.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0oi1ej7mo.com^
 ||0oo9j37xp.com^
@@ -20673,6 +20686,7 @@ zzzyk.com###Tinfo
 ||aatv.app/sport/sport.js
 ||ab.cnbanbao.com^
 ||ab.rejushe.com^
+||ab3de9.gamersky.com^
 ||abab.com/pv.js
 ||abalado.com^
 ||abalone46.com^
@@ -22402,6 +22416,7 @@ zzzyk.com###Tinfo
 ||blackthorn88.com^
 ||blahwhoever.com/feed/$domain=deadline.com
 ||blahwhoever.com/session/$domain=deadline.com
+||blahwhoever.com^$script,domain=trilltrill.jp
 ||blazeoccamy.com^
 ||ble7orbnz.com^
 ||bleachbubble.com^
@@ -23073,6 +23088,7 @@ zzzyk.com###Tinfo
 ||cdn.ay.gy/js/entry.js$script,third-party
 ||cdn.ay.gy/js/link-converter.js$script,third-party
 ||cdn.caprofitx.com^$domain=oricon.co.jp
+||cdn.caprofitx.com^$script,domain=trilltrill.jp
 ||cdn.computerworld.com.au/compressor-staticfiles/adsmin/idg_gpt_pipeline_generated.js$script
 ||cdn.creative-bars1.com^
 ||cdn.dashenya.com^
@@ -25311,6 +25327,7 @@ zzzyk.com###Tinfo
 ||eo.chaungpin.top^
 ||eo.dongdm.cn^
 ||eo.jinzpeng.cn^
+||eo2eaqg5no.com^
 ||eol.cn/e_busi/
 ||eol.cn/e_images/gk/jnc
 ||eol.cn/images/*1000-
@@ -25360,6 +25377,7 @@ zzzyk.com###Tinfo
 ||error-report.com^$domain=dictionary.cambridge.org
 ||error-report.com^$domain=dreadcentral.com
 ||error-report.com^$domain=ecouter-en-direct.com
+||error-report.com^$domain=fandom.com
 ||error-report.com^$domain=fansided.com
 ||error-report.com^$domain=flatpanelshd.com
 ||error-report.com^$domain=freeconvert.com
@@ -25389,6 +25407,7 @@ zzzyk.com###Tinfo
 ||error-report.com^$domain=the-crossword-solver.com
 ||error-report.com^$domain=tomsguide.com
 ||error-report.com^$domain=tomshardware.com
+||error-report.com^$domain=trilltrill.jp
 ||error-report.com^$domain=variety.com
 ||error-report.com^$domain=verkaufsoffener-sonntag.com
 ||error-report.com^$domain=vimm.net
@@ -26243,7 +26262,6 @@ zzzyk.com###Tinfo
 ||gamemag.ru/assets/*/js.cookie.js
 ||gamemale.com/static/js/valida.js
 ||gameone.com^$3p
-||gamersky.com/@display/pc/
 ||gamersky.com/common/tg/
 ||gamersky.com/g/gamerskyflash.js
 ||gamersky.com/wap/js/gs/gsAllOpenAppBtn.
